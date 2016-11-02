@@ -12,3 +12,4 @@
 
 ## Links
 http://inconvergent.net/shepherding-random-numbers/
+https://github.com/inconvergent/shepherd-js
