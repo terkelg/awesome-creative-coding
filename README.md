@@ -9,3 +9,6 @@
 
 ## Circle
 
+
+## Links
+http://inconvergent.net/shepherding-random-numbers/
