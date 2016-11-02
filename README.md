@@ -1,6 +1,11 @@
-# Generative Cheatsheet
-Notes from Matt Persons, Generative Art
+# Randomness
+> Notes from Matt Persons, Generative Art
 
-# Random - Line
+"Randomness is the lack of pattern or predictability in events. A random sequence of events, symbols or steps has no order and does not follow an intelligible pattern or combination."
 
-# Random - Circle
+## Controlled randomness - range
+
+## Lines
+
+## Circle
+
