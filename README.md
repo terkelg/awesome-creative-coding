@@ -1,8 +1,28 @@
 # Awesome Graphics Programming
-> Notes and links for beginners to learn graphics programming
+> A collection of links, notes and snippets to give beginners a good starting point for graphics programming
+
+TODO: Add Rune Madsens
+
+## Contents
+* Books
+* Math
+  * Vectors
+  * Math Snippets
+  * Glossery
+* Shaders
+  * Glossery
+  * Tutorials
+* Tools (threejs, Pixi, GLSLIFY ..)
+* People to follow
+* Resources
+  * Related aweseomlists
+  * Shaders
+  * Glossry lists
+  * Math
+  * Tutorials
 
 ## Books
-Generative Art
+[Generative Art]() - .
 Book of Shaders - https://thebookofshaders.com/
 http://pixelshaders.com/proposal/
 
