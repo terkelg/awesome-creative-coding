@@ -26,6 +26,10 @@ TODO: Add Rune Madsens
 
 Book of Shaders - https://thebookofshaders.com/
 
+http://natureofcode.com/
+
+https://programmingdesignsystems.com/
+
 http://pixelshaders.com/proposal/
 
 https://paroj.github.io/gltut/
