@@ -22,7 +22,8 @@ TODO: Add Rune Madsens
   * Tutorials
 
 ## Books
-[Generative Art]() - .
+[Generative Art]() - (desc)
+
 Book of Shaders - https://thebookofshaders.com/
 
 http://pixelshaders.com/proposal/
