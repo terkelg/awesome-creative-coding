@@ -24,8 +24,13 @@ TODO: Add Rune Madsens
 ## Books
 [Generative Art]() - .
 Book of Shaders - https://thebookofshaders.com/
+
 http://pixelshaders.com/proposal/
+
+https://paroj.github.io/gltut/
+
 http://www.scratchapixel.com/
+
 
 
 ## Related awesome lists:
