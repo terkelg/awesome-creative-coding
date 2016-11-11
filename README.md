@@ -25,6 +25,7 @@ TODO: Add Rune Madsens
 [Generative Art]() - .
 Book of Shaders - https://thebookofshaders.com/
 http://pixelshaders.com/proposal/
+http://www.scratchapixel.com/
 
 
 ## Related awesome lists:
