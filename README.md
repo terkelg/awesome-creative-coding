@@ -36,6 +36,9 @@ https://paroj.github.io/gltut/
 
 http://www.scratchapixel.com/
 
+## Video
+https://www.youtube.com/user/shiffman
+https://www.youtube.com/user/codingmath
 
 
 ## Related awesome lists:
@@ -45,6 +48,7 @@ http://pixelshaders.com/external.html
 
 ## Vector Math
 https://paroj.github.io/gltut/Basics/Intro%20Graphics%20and%20Rendering.html
+
 
 ## Glossery
 Take from here:
@@ -56,8 +60,6 @@ https://thebookofshaders.com/glossary/
 And here:
 http://www.shaderific.com/glsl/
 
-uniforms:
-These are a class of global variable that can be defined in GLSL shaders. They represent values that are uniform (unchanging) over the course of a rendering operation. Their values are set from outside of the shader, and they cannot be changed from within a shader.
 
 ## Shader Examples and Snippets
 http://pixelshaders.com/examples/
