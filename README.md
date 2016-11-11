@@ -71,6 +71,12 @@ https://github.com/ashima/webgl-noise Perlin Noise
 http://www.iquilezles.org/live/index.htm
 http://www.iquilezles.org/www/index.htm
 
+## Tools
+https://www.shadertoy.com/
+http://www.syedrezaali.com/f3-mac-app/
+http://www.syedrezaali.com/store/fragment-osx-app
+
+
 ## Interactive Tutorials
 [Fragment-oundry](http://hughsk.io/fragment-foundry)
 
