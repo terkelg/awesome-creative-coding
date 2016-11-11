@@ -92,13 +92,45 @@ float d = length(p2 - p1)
 Much more concise than it would be in JavaScript!
 All that's left to do is compare that distance to the radius and you should be able to draw that circle out to the screen.
 
-## Signed Distance Functions
+## Signed Distance Functions (SDF)
+http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/
+
 Yep, those words probably make a lot less sense when they're put together like that.
 
 To start: a **distance function** takes a point as input and returns the distance from a surface as output. In GLSL, you'd mark up a 2D Distance Function like so: ```float distanceFn(vec2 position);```
 
 A signed distance function (SDF) is very similar, but it returns a negative value when it's inside the surface. You can now very quickly draw out that shape in 2D by checking if the SDF's value is less than zero.
 
+## Smooth minimum
+A smooth minimum function takes two values as input, and returns a smoothed out value between the two.
+There's different types of smooth minimum with different tradeoffs, but here's a few taken from the ever-useful (iquilezles.org)[http://iquilezles.org/www/articles/smin/smin.htm]:
+
+EXPONENTIAL
+```
+float smin( float a, float b, float k )
+{
+    float res = exp( -k*a ) + exp( -k*b );
+    return -log( res )/k;
+}
+```
+
+POLYNOMIAL
+```
+float smin( float a, float b, float k )
+{
+    float h = clamp( 0.5+0.5*(b-a)/k, 0.0, 1.0 );
+    return mix( b, a, h ) - k*h*(1.0-h);
+}
+```
+
+POWER
+```
+float smin( float a, float b, float k )
+{
+    a = pow( a, k ); b = pow( b, k );
+    return pow( (a*b)/(a+b), 1.0/k );
+}
+```
 
 # Links
 - [jam3-lesson-webgl-shader-intro](https://github.com/Jam3/jam3-lesson-webgl-shader-intro)
