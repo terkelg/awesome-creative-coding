@@ -20,6 +20,9 @@ vec2 p = gl_FragCoord.xy / iResolution;
 
 ### GLSL Vertex Shaders 
 
+### uniforms:
+These are a class of global variable that can be defined in GLSL shaders. They represent values that are uniform (unchanging) over the course of a rendering operation. Their values are set from outside of the shader, and they cannot be changed from within a shader.
+
 ### Swizzling
 Beyond being a great name — is a nice feature in GLSL for accessing the properties of a vector.
 You can get a single float from a vector using .r, .g, .b or .a. For example:
