@@ -4,23 +4,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents
-* Books
-* Math
-  * Vectors
-  * Math Snippets
-  * Glossery
-* Shaders
-  * Glossery
-  * Tutorials
-* Tools
-* People to follow
-* Resources
-  * Related aweseomlists
-  * Shaders
-  * Glossry lists
-  * Math
-  * Tutorials
-* Communities
+[Coming when I have a final strucure]
 
 ## Books
 - [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - A practical guide using Processing. 
@@ -36,7 +20,6 @@ to Graphics Programming.
 - [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/gp/0470375485/) - Experiment with design problems to create 3D animations, GUIs, and more. 
 - [Data-driven Graphic Design](https://www.amazon.com/dp/1472578309/) - Creative Coding for Visual Communication.
 
-# Math
 
 # Communities
 - [realtimevfx.com](https://realtimevfx.com/]) - Real Time VFX Community. 
@@ -60,20 +43,19 @@ to Graphics Programming.
 - [WebGL 2 Fundamentals](http://webgl2fundamentals.org/) - WebGL2 from the ground up. No magic.
 
 ## Math
-https://github.com/Jam3/math-as-code
+- [Math as code](https://github.com/Jam3/math-as-code) - 
 - [Coding Math](https://www.youtube.com/user/codingmath) - Video tutorials designed to teach you the math you need to understand as a programmer.
 
-https://paroj.github.io/gltut/Basics/Intro%20Graphics%20and%20Rendering.html
-http://web.cs.wpi.edu/~emmanuel/courses/cs543/slides/lecture04_p1.pdf
+- https://paroj.github.io/gltut/Basics/Intro%20Graphics%20and%20Rendering.html
+- http://web.cs.wpi.edu/~emmanuel/courses/cs543/slides/lecture04_p1.pdf
 
 ## Raytracing
 - http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work
 - http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/
 
-
 ## Related awesome lists:
-https://github.com/raphamorim/awesome-canvas
-http://pixelshaders.com/external.html
+- https://github.com/raphamorim/awesome-canvas
+- http://pixelshaders.com/external.html
 
 
 ## Glossery
