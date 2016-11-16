@@ -1,7 +1,6 @@
-# Awesome Creative Coding
-> A curated list of beginner friendly tutorials, tools, resources and shiny things to get you started.
+# Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> A curated list of beginner friendly tools, resources and shiny things to get you started.
 
 *Work in progess, needs better organization*
 
@@ -14,8 +13,7 @@
 - [The Nature of Code](http://natureofcode.com/) - Simulating natrual systems with Processing. 
 - [The Book of Shaders](https://thebookofshaders.com/) - Step-by-step guide through the abstract and complex universe of Fragment Shaders.
 - [Programming Design Systems](https://programmingdesignsystems.com/) - A practical introduction to the new foundations of graphic design.
-- [Pixel Shaders](http://pixelshaders.com/) - An Interactive Introduction
-to Graphics Programming.
+- [Pixel Shaders](http://pixelshaders.com/) - An Interactive Introduction to Graphics Programming.
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - A series of tutorials on using OpenGL to do graphical rendering.
 - [Scratchapixel 2.0](http://www.scratchapixel.com/) - Learn Computer Graphics From Scratch!
 - [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) - A Designer's Guide to Processing, Arduino, and openFrameworks.
@@ -82,7 +80,7 @@ to Graphics Programming.
 - [](http://www.iquilezles.org/live/index.htm) - 
 
 ## Math
-- [Math as code](https://github.com/Jam3/math-as-code) - A cheat-sheet for mathematical notation in code form
+- [Math as code](https://github.com/Jam3/math-as-code) - A cheat-sheet for mathematical notation in code form.
 - [Coding Math](https://www.youtube.com/user/codingmath) - Video tutorials designed to teach you the math you need to understand as a programmer.
 – [Math snippets](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - https://www.youtube.com/watch?v=0ifChJ0nJfM - The principles of painting with maths.
@@ -95,11 +93,11 @@ to Graphics Programming.
 
 
 ## Related:
-- [Awesome-canvas](https://github.com/raphamorim/awesome-canvas) - Awesome list for Canvas
+- [Awesome-canvas](https://github.com/raphamorim/awesome-canvas) - Awesome list for Canvas.
 
 
 ## Websites / Blogs
-- [abandonedart.org](http://abandonedart.org/) - Generative art ideas by Matt Pearson
+- [abandonedart.org](http://abandonedart.org/) - Generative art ideas by Matt Pearson.
 - [iquilezles.org](http://www.iquilezles.org) - Home of Íñigo Quílez. 
 
 
