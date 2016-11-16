@@ -1,8 +1,6 @@
 # Randomness
 > The secret to generative art
 
-
-
 # Randomness
 > Notes from Matt Persons, Generative Art
 
@@ -13,7 +11,6 @@
 ## Lines
 
 ## Circle
-
 
 ## Links
 http://inconvergent.net/shepherding-random-numbers/
