@@ -76,8 +76,7 @@
 - [GLSL 2D Tutorials](https://www.shadertoy.com/view/Md23DV) - Shadertoy GLSL 2D Tutorial.
 
 ## Articles
-- [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers-
-- [](http://www.iquilezles.org/live/index.htm) - 
+- [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers
 
 ## Math
 - [Math as code](https://github.com/Jam3/math-as-code) - A cheat-sheet for mathematical notation in code form.
@@ -104,3 +103,10 @@
 ## To be sorted
 - http://www.iquilezles.org/live/index.htm
 - http://www.iquilezles.org/www/index.htm
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Terkel Gjervig](http://terkel.com) has waived all copyright and related or neighboring rights to this work.
