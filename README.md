@@ -5,7 +5,7 @@
 *Work in progess, needs better organization*
 
 ## Table of Contents
-[Coming when I have a final strucure]
+[Coming]
 
 ## Books
 - [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - A practical guide using Processing. 
