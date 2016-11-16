@@ -15,7 +15,7 @@
 - [Programming Design Systems](https://programmingdesignsystems.com/) - A practical introduction to the new foundations of graphic design.
 - [Pixel Shaders](http://pixelshaders.com/) - An Interactive Introduction to Graphics Programming.
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - A series of tutorials on using OpenGL to do graphical rendering.
-- [Scratchapixel 2.0](http://www.scratchapixel.com/) - Learn Computer Graphics From Scratch!
+- [Scratchapixel 2.0](http://www.scratchapixel.com/) - Learn Computer Graphics From Scratch.
 - [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) - A Designer's Guide to Processing, Arduino, and openFrameworks.
 - [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/gp/0470375485/) - Experiment with design problems to create 3D animations, GUIs, and more. 
 - [Data-driven Graphic Design](https://www.amazon.com/dp/1472578309/) - Creative Coding for Visual Communication.
