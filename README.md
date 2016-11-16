@@ -1,9 +1,9 @@
-# Awesome Graphics Programming
-> A collection of links, notes and snippets to give beginners a good starting point for graphics programming
+# Creative Development Glore
+> A curated list of beginner friendly tutorials, tools, resources and shiny things for awesome creative development
 
-TODO: Add Rune Madsens
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Contents
+## Table of Contents
 * Books
 * Math
   * Vectors
@@ -12,7 +12,7 @@ TODO: Add Rune Madsens
 * Shaders
   * Glossery
   * Tutorials
-* Tools (threejs, Pixi, GLSLIFY ..)
+* Tools
 * People to follow
 * Resources
   * Related aweseomlists
@@ -20,21 +20,27 @@ TODO: Add Rune Madsens
   * Glossry lists
   * Math
   * Tutorials
+* Communities
 
 ## Books
 [Generative Art]() - (desc)
-
 Book of Shaders - https://thebookofshaders.com/
-
 http://natureofcode.com/
-
 https://programmingdesignsystems.com/
-
 http://pixelshaders.com/proposal/
-
 https://paroj.github.io/gltut/
-
 http://www.scratchapixel.com/
+
+# Math
+
+# Communities
+(r/rraytraycing)https://www.reddit.com/r/raytracing/] - Subreddit on raytracing.
+(r/opengl)[https://www.reddit.com/r/opengl/] - News and discussion about OpenGL on all platforms.
+(r/graphicsprogramming)[https://www.reddit.com/r/GraphicsProgramming/] - Subreddit on graphics programming.
+(realtimevfx.com)[realtimevfx.com] - 
+
+# Tools
+[three.js](https://github.com/mrdoob/three.js/)
 
 ## Video
 https://www.youtube.com/user/shiffman
