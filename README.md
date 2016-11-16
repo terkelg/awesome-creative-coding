@@ -3,7 +3,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-*Work in progess, needs better organization* 
+*Work in progess, needs better organization*
 
 ## Table of Contents
 [Coming when I have a final strucure]
@@ -77,6 +77,9 @@ to Graphics Programming.
 - [Raymarch Tutorial2](https://www.shadertoy.com/view/XlBGDW) - Shadertoy raymarch tutorial.
 - [GLSL 2D Tutorials](https://www.shadertoy.com/view/Md23DV) - Shadertoy GLSL 2D Tutorial.
 
+## Articles
+- [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers-
+- [](http://www.iquilezles.org/live/index.htm) - 
 
 ## Math
 - [Math as code](https://github.com/Jam3/math-as-code) - A cheat-sheet for mathematical notation in code form
@@ -95,9 +98,9 @@ to Graphics Programming.
 - [Awesome-canvas](https://github.com/raphamorim/awesome-canvas) - Awesome list for Canvas
 
 
-# Websites / Blogs
-- http://abandonedart.org/
-- http://www.iquilezles.org
+## Websites / Blogs
+- [abandonedart.org](http://abandonedart.org/) - Generative art ideas by Matt Pearson
+- [iquilezles.org](http://www.iquilezles.org) - Home of Íñigo Quílez. 
 
 
 ## To be sorted

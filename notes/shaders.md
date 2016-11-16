@@ -134,16 +134,3 @@ float smin( float a, float b, float k )
     return pow( (a*b)/(a+b), 1.0/k );
 }
 ```
-
-# Links
-- [jam3-lesson-webgl-shader-intro](https://github.com/Jam3/jam3-lesson-webgl-shader-intro)
-- [jam3-lesson-webgl-shader-threejs](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs)
-
-# Tutorials
-- https://github.com/stackgl/shader-school
-
-
-
-"While a CPU has 2–8 big cores, a GPU has hundreds or even thousands of small ones. This makes it great at running code in parallel: provided a thread doesn't need to know anything about its neighbours, you can run a whole bunch of them really quickly at the same time without waiting for the others to finish."
-
-Anki: Difference between CPU and GPU: 
