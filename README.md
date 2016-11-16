@@ -76,7 +76,7 @@
 - [GLSL 2D Tutorials](https://www.shadertoy.com/view/Md23DV) - Shadertoy GLSL 2D Tutorial.
 
 ## Articles
-- [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers
+- [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers.
 
 ## Math
 - [Math as code](https://github.com/Jam3/math-as-code) - A cheat-sheet for mathematical notation in code form.
