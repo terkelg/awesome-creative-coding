@@ -89,7 +89,7 @@
 
 ## Math
 - [Math as code](https://github.com/Jam3/math-as-code) - A cheat-sheet for mathematical notation in code form.
-- [Coding Math](https://www.youtube.com/user/codingmath) - Video tutorials designed to teach you the math you need to understand as a programmer.
+- [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
 – [Math snippets](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
 
@@ -102,6 +102,7 @@
 - [OpenProcessing](https://www.openprocessing.org/) - Algorithmic Designs Created with Processing, p5js and processingjs.
 - [Dwitter](https://www.dwitter.net/) - Social network for short JavaScript demos.
 - [Chrome Experiments](https://www.chromeexperiments.com/) -  Showcase of web experiments written by the creative coding community.
+- [Codedoodl.es](https://codedoodl.es) - A showcase of curated creative coding sketches.
 
 
 ## Machine Learning / A.I.
