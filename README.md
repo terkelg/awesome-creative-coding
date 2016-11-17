@@ -60,7 +60,7 @@
 ## Learning material
 - [Coding Rainbow](https://www.youtube.com/user/shiffman) - Daniel Shiffman makes videos about creative coding.
 - [Shaders](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) - Shader tutorial in the context of lwjgl-basics.
-- [Create 3D Graphics in JavaScript Using WebGL](- https://egghead.io/courses/create-3d-graphics-in-javascript-using-webgl) - Get started creating content with WebGL without any frameworks.
+- [Create 3D Graphics in JS Using WebGL](https://egghead.io/courses/create-3d-graphics-in-javascript-using-webgl) - Get started creating content with WebGL without any frameworks.
 - [WebGL 2 Fundamentals](http://webgl2fundamentals.org/) - WebGL2 from the ground up. No magic.
 - [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) - A primer on shaders.
 - [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
