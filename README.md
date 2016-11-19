@@ -34,7 +34,7 @@
 ## Communities
 - [realtimevfx.com](https://realtimevfx.com/]) - Real Time VFX Community. 
 - [creative-dev](https://creative-dev.herokuapp.com/) - Creative Developement Slack.
-- [The Creative Coding Podcast](http://creativecodingpodcast.com/) - Podcast where Iain and Seb discuss the ins and outs of programming for creative applications.
+- [The Creative Coding Podcast](http://creativecodingpodcast.com/) - Iain and Seb discuss the ins and outs of creative coding.
 
 
 ## Ecosystems / Frameworks
