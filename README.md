@@ -2,14 +2,13 @@
 
 > A curated list of **beginner-friendly** tools, resources and shiny things to get you started with creative coding.
 
+*<sub>
+This is primarly material and resources for beginners, if you're a rock-start check out: [Graphics resources](https://github.com/mattdesl/graphics-resources) by [@mattdesl](https://github.com/mattdesl) and [Awesome OpenGL](https://github.com/eug/awesome-opengl) by [@eug](https://github.com/eug).
+</sup>*
+
+
 *Work in progess, needs better organization*
 
-<small>
-<b>This is primarly material and resources for beginners, if you're a rock-start check out:</b>
-
-- [Graphics resources](https://github.com/mattdesl/graphics-resources) - List by @mattdesl.
-- [Awesome OpenGL](https://github.com/eug/awesome-opengl) - List by @eug
-</small>
 
 ## Table of Contents
 [Coming]
@@ -154,12 +153,12 @@
 ## Talks / Presentations / Videos
 - [There is also canvas](https://brunoimbrizi.github.io/webexpo-2016/dist/) - Presentation by Bruno Imbrizi from WebExpo 2016.
 - [Intro to WebGL](http://davidscottlyons.com/threejs/presentations/frontporch14/) - Intro to WebGL with three.js.
-- [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) - Collection of live coding videos by Inigo Quilez.
+- [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) - Collection of live coding videos by Íñigo Quílez.
 
 ## Websites / Blogs
 - [abandonedart.org](http://abandonedart.org/) - Generative art ideas by Matt Pearson.
 - [iquilezles.org](http://www.iquilezles.org) - Home of Íñigo Quílez. 
-- [bit-101.com](http://www.bit-101.com/blog/) - Home of Keith Peters.
+- [bit-101.com](http://www.bit-101.com/blog/) - Blog by Keith Peters.
 
 ## Related:
 - [Awesome opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and resources.
