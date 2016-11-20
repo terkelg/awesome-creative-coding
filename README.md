@@ -4,6 +4,13 @@
 
 *Work in progess, needs better organization*
 
+<small>
+<b>This is primarly material and resources for beginners, if you're a rock-start check out:</b>
+
+- [Graphics resources](https://github.com/mattdesl/graphics-resources) - List by @mattdesl.
+- [Awesome OpenGL](https://github.com/eug/awesome-opengl) - List by @eug
+</small>
+
 ## Table of Contents
 [Coming]
 
@@ -19,7 +26,9 @@
 - [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) - A Designer's Guide to Processing, Arduino, and openFrameworks.
 - [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/gp/0470375485/) - Experiment with design problems to create 3D animations, GUIs, and more. 
 - [Data-driven Graphic Design](https://www.amazon.com/dp/1472578309/) - Creative Coding for Visual Communication.
-
+- [Foundation HTML5 Animation with JavaScript](http://www.apress.com/us/book/9781430236658) - Everything you need to know to create animation using the HTML5 canvas.
+- [Playing with chaos](http://www.playingwithchaos.net/) - Programming Fractals and Strange Attractors in JavaScript.
+- [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8/) - Mini book about Ray Tracing.
 
 ## Subreddits
 - [r/creativecoding](https://www.reddit.com/r/creativecoding/) - Sharing and discussing the use of computer programming as a creative discipline.
@@ -44,9 +53,11 @@
 - [Cinder](https://libcinder.org/) -  Open source library for professional-quality creative coding in C++.
 - [openFrameworks](http://openframeworks.cc/) - Open source C++ toolkit for creative coding.
 - [vvvv](https://vvvv.org/) - Hybrid visual/textual live-programming environment for easy prototyping and development.
-- [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+- [NodeBox](https://www.nodebox.net/node/) - Cross-platform, node-based GUI for efficient data visualizations and generative design.
+- [Structure Synth](http://structuresynth.sourceforge.net/) - Cross-platform application for generating 3D structures by specifying a design grammar.
 
 ### Web
+- [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 - [regl](https://github.com/regl-project/regl) - Functional WebGL.
 - [Stackgl](http://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
@@ -69,6 +80,8 @@
 - [Ray Marching and Signed Distance Functions](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing) - Introduction to ray tracing.
 - [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
 - [GLSL lighting walkthrough](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
+- [Interactive 3D Graphics](https://classroom.udacity.com/courses/cs291) - Udacity course that teach you the principles of 3D computer graphics.
+- [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) - Computer graphics course from Coursera.
 
 
 ## Interactive tutorials
@@ -103,6 +116,14 @@
 - [Dwitter](https://www.dwitter.net/) - Social network for short JavaScript demos.
 - [Chrome Experiments](https://www.chromeexperiments.com/) -  Showcase of web experiments written by the creative coding community.
 - [Codedoodl.es](https://codedoodl.es) - A showcase of curated creative coding sketches.
+- [For your Processing](http://fyprocessing.tumblr.com/) - Projects and tutorials about Processing.
+- [31 days of Canvas tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/) - Collection of canvas tutorials by Seb Lee-Delisle.
+- [Art From Code](http://www.artfromcode.com/) - Code sketches by Keith Peters.
+
+
+## Flickr groups
+- [Generator.x](https://www.flickr.com/groups/generatorx/) - Flickr group about generative strategies in art & design.
+- [Generative Art](https://www.flickr.com/groups/generativeart/) - Flickr group about generative art.
 
 
 ## Machine Learning / A.I.
@@ -115,10 +136,12 @@
 - [Wekinator](http://www.wekinator.org/) - Allows anyone to use machine learning.
 
 
-## Shader References
+## Shader References & Articles
 - [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) - Shader glossary by theme.
 - [GLSL](http://www.shaderific.com/glsl/) - OpenGL ES shading language reference.
 - [gltut](https://paroj.github.io/gltut/Basics/Intro%20Glossary.html) - 3D programming glossary.
+- [Smooth minimum](http://iquilezles.org/www/articles/smin/smin.htm) - Article about the smooth based primitive union.
+- [Modeling with distance functions](http://iquilezles.org/www/articles/distfunctions/distfunctions.htm) - Collection of distance functions in one centralized place.
 
 
 ## Tools
@@ -126,24 +149,26 @@
 - [Fragment](http://www.syedrezaali.com/store/fragment-osx-app) - Mac app to live code GLSL graphics.
 - [Chrome Shader Editor](https://chrome.google.com/webstore/detail/shader-editor/ggeaidddejpbakgafapihjbgdlbbbpob?hl=en) - Live editing shaders in the browser.
 - [ShaderTool](http://store.steampowered.com/app/314720/) - Modern shader IDE for programmers and FX artists.
+- [Shadershop](http://www.cdglabs.org/Shadershop/) - Interface for programming GPU shaders.
 
-## Presentations
+## Talks / Presentations / Videos
 - [There is also canvas](https://brunoimbrizi.github.io/webexpo-2016/dist/) - Presentation by Bruno Imbrizi from WebExpo 2016.
 - [Intro to WebGL](http://davidscottlyons.com/threejs/presentations/frontporch14/) - Intro to WebGL with three.js.
+- [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) - Collection of live coding videos by Inigo Quilez.
 
 ## Websites / Blogs
 - [abandonedart.org](http://abandonedart.org/) - Generative art ideas by Matt Pearson.
 - [iquilezles.org](http://www.iquilezles.org) - Home of Íñigo Quílez. 
-
+- [bit-101.com](http://www.bit-101.com/blog/) - Home of Keith Peters.
 
 ## Related:
-- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - Awesome list for Canvas.
+- [Awesome opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and resources.
+- [Graphics resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
+- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 canvas with examples, related articles and posts.
 - [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
-
-
-## To be sorted
-- http://www.iquilezles.org/live/index.htm
-- http://www.iquilezles.org/www/index.htm
+- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
+- [Magic Tools](https://github.com/ellisonleao/magictools) - A list of game development resources to make magic happen.
+- [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
 
 
 ## License
