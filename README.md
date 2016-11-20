@@ -118,9 +118,6 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 - [For your Processing](http://fyprocessing.tumblr.com/) - Projects and tutorials about Processing.
 - [31 days of Canvas tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/) - Collection of canvas tutorials by Seb Lee-Delisle.
 - [Art From Code](http://www.artfromcode.com/) - Code sketches by Keith Peters.
-
-
-## Flickr groups
 - [Generator.x](https://www.flickr.com/groups/generatorx/) - Flickr group about generative strategies in art & design.
 - [Generative Art](https://www.flickr.com/groups/generativeart/) - Flickr group about generative art.
 
