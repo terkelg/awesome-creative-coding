@@ -105,7 +105,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 ## Math
 - [Math as code](https://github.com/Jam3/math-as-code) - A cheat-sheet for mathematical notation in code form.
 - [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
-– [Math snippets](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
+- [Math snippets](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
 
 
