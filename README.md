@@ -71,6 +71,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 - [Coding Rainbow](https://www.youtube.com/user/shiffman) - Daniel Shiffman makes videos about creative coding.
 - [Shaders](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) - Shader tutorial in the context of lwjgl-basics.
 - [Create 3D Graphics in JS Using WebGL](https://egghead.io/courses/create-3d-graphics-in-javascript-using-webgl) - Get started creating content with WebGL without any frameworks.
+- [Learn HTML5 Graphics and Animation](https://egghead.io/courses/learn-html5-graphics-and-animation) - Introduction to the canvas 2D drawing API.
 - [WebGL 2 Fundamentals](http://webgl2fundamentals.org/) - WebGL2 from the ground up. No magic.
 - [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) - A primer on shaders.
 - [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
@@ -81,6 +82,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 - [GLSL lighting walkthrough](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
 - [Interactive 3D Graphics](https://classroom.udacity.com/courses/cs291) - Udacity course that teach you the principles of 3D computer graphics.
 - [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) - Computer graphics course from Coursera.
+- [MFGD - Fragment Shaders](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWMpFSRpeMmSBGDShbkiV1Cq) - YouTube playlist about fragment shaders.
 
 
 ## Interactive tutorials
@@ -97,6 +99,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 - [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers.
 - [FBO particles](http://barradeau.com/blog/?p=621) - Article about FBO/GPGPU particles by @nicoptere. 
 - [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) - Article about ray marching with three.js by @nicoptere.
+- [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - A look at the use of visualization to understand, explain and debug algorithms. 
 
 
 ## Math
@@ -147,15 +150,19 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 - [ShaderTool](http://store.steampowered.com/app/314720/) - Modern shader IDE for programmers and FX artists.
 - [Shadershop](http://www.cdglabs.org/Shadershop/) - Interface for programming GPU shaders.
 
+
 ## Talks / Presentations / Videos
 - [There is also canvas](https://brunoimbrizi.github.io/webexpo-2016/dist/) - Presentation by Bruno Imbrizi from WebExpo 2016.
 - [Intro to WebGL](http://davidscottlyons.com/threejs/presentations/frontporch14/) - Intro to WebGL with three.js.
 - [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) - Collection of live coding videos by Íñigo Quílez.
 
+
 ## Websites / Blogs
 - [abandonedart.org](http://abandonedart.org/) - Generative art ideas by Matt Pearson.
 - [iquilezles.org](http://www.iquilezles.org) - Home of Íñigo Quílez. 
 - [bit-101.com](http://www.bit-101.com/blog/) - Blog by Keith Peters.
+- [IBreakDownShaders](http://ibreakdownshaders.blogspot.com.au/) - Explore the math behind shaders.
+
 
 ## Related:
 - [Awesome opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and resources.
