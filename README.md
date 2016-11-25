@@ -150,6 +150,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 - [Chrome Shader Editor](https://chrome.google.com/webstore/detail/shader-editor/ggeaidddejpbakgafapihjbgdlbbbpob?hl=en) - Live editing shaders in the browser.
 - [ShaderTool](http://store.steampowered.com/app/314720/) - Modern shader IDE for programmers and FX artists.
 - [Shadershop](http://www.cdglabs.org/Shadershop/) - Interface for programming GPU shaders.
+- [hg_sdf](http://mercury.sexy/hg_sdf/) - A glsl library for building signed distance functions.
 
 
 ## Talks / Presentations / Videos
