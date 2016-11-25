@@ -99,7 +99,8 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 - [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers.
 - [FBO particles](http://barradeau.com/blog/?p=621) - Article about FBO/GPGPU particles by @nicoptere. 
 - [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) - Article about ray marching with three.js by @nicoptere.
-- [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - A look at the use of visualization to understand, explain and debug algorithms. 
+- [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - A look at the use of visualization to understand, explain and debug algorithms.
+- [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) - Introduction to custom shaders, uniforms, textures and lighting in three.js.
 
 
 ## Math
