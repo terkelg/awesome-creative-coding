@@ -157,11 +157,10 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 
 
 ## Talks / Presentations / Videos
-- [There is also canvas](https://brunoimbrizi.github.io/webexpo-2016/dist/) - Presentation by Bruno Imbrizi from WebExpo 2016.
 - [Intro to WebGL](http://davidscottlyons.com/threejs/presentations/frontporch14/) - Intro to WebGL with three.js.
 - [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) - Collection of live coding videos by Íñigo Quílez.
-- [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) - Bruno Imbrizi go through the use of canvas for creative coding. Interactive slides [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
-
+- [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) - Bruno Imbrizi go through the use of canvas for creative coding at WebExpo 2016. Interactive slides [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
+- [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) - Slides by [@williamapan](https://twitter.com/williamapan) from his Creative developer workshop at Gobelins.
 
 ## Websites / Blogs
 - [abandonedart.org](http://abandonedart.org/) - Generative art ideas by Matt Pearson.
