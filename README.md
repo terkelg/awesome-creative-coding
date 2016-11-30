@@ -111,6 +111,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 - [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
 - [Math snippets](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
+- [Learning Maths again](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
 
 
 ## Inspiration
