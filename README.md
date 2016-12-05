@@ -4,7 +4,7 @@
 
 *<sub>
 This is primarly material and resources for beginners, if you're a rock-start check out: [Graphics resources](https://github.com/mattdesl/graphics-resources) by [@mattdesl](https://github.com/mattdesl) and [Awesome OpenGL](https://github.com/eug/awesome-opengl) by [@eug](https://github.com/eug).
-</sup>*
+</sub>*
 
 
 *Work in progess, needs better organization*
@@ -147,6 +147,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 - [gltut](https://paroj.github.io/gltut/Basics/Intro%20Glossary.html) - 3D programming glossary.
 - [Smooth minimum](http://iquilezles.org/www/articles/smin/smin.htm) - Article about the smooth based primitive union.
 - [Modeling with distance functions](http://iquilezles.org/www/articles/distfunctions/distfunctions.htm) - Collection of distance functions in one centralized place.
+- [Volumetric rendering](http://www.alanzucconi.com/2016/07/01/volumetric-rendering/) - Explains how to create complex 3D shapes inside volumetric shaders.
 
 
 ## Tools
