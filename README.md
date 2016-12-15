@@ -85,6 +85,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 - [Interactive 3D Graphics](https://classroom.udacity.com/courses/cs291) - Udacity course that teach you the principles of 3D computer graphics.
 - [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) - Computer graphics course from Coursera.
 - [MFGD - Fragment Shaders](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWMpFSRpeMmSBGDShbkiV1Cq) - YouTube playlist about fragment shaders.
+- [Learn OpenGL](https://learnopengl.com/) - Learn the inner workings of computer graphics.
 
 
 ## Interactive tutorials
