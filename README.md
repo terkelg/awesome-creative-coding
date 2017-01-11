@@ -183,6 +183,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 - [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
 - [Magic Tools](https://github.com/ellisonleao/magictools) - A list of game development resources to make magic happen.
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
+- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) - A list of recommended research papers and other readings on data visualization.
 
 
 ## License
