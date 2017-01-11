@@ -28,6 +28,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 - [Foundation HTML5 Animation with JavaScript](http://www.apress.com/us/book/9781430236658) - Everything you need to know to create animation using the HTML5 canvas.
 - [Playing with chaos](http://www.playingwithchaos.net/) - Programming Fractals and Strange Attractors in JavaScript.
 - [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8/) - Mini book about Ray Tracing.
+- [Learn OpenGL](https://learnopengl.com/) - Extensive tutorial resource for learning Modern OpenGL.
 
 ## Subreddits
 - [r/creativecoding](https://www.reddit.com/r/creativecoding/) - Sharing and discussing the use of computer programming as a creative discipline.
@@ -117,6 +118,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 - [Learning Maths again](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
 - [Eases](https://github.com/mattdesl/eases) - A grab-bag of modular easing equations.
 - [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
+- [Matrix Multiplication](http://matrixmultiplication.xyz) - Matrix multiplication visualized.
 
 
 ## Inspiration
