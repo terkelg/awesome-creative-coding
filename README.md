@@ -7,7 +7,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 </sub>*
 
 
-*Work in progess, needs better organization*
+*Work in progess*
 
 
 ## Table of Contents
