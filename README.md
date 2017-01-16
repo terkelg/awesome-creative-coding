@@ -1,10 +1,11 @@
 # Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="" align="right" width="70">](https://github.com/terkelg/awesome-creative-coding)
+[<img src="https://github.com/terkelg/awesome-creative-coding/blob/master/logo.png?raw=true" align="right" width="85">](https://github.com/terkelg/awesome-creative-coding)
 
 > A curated list of **beginner-friendly** tools, resources and shiny things to get you started.
 
 *You might also like [Graphics resources](https://github.com/mattdesl/graphics-resources) and [Awesome OpenGL](https://github.com/eug/awesome-opengl).*
+
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 -
