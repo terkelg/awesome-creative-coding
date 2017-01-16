@@ -30,15 +30,15 @@
 </details>
 
 ## Books
-- [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - A practical guide using Processing.
+- [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - Practical guide using Processing.
 - [Generative Design](http://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
 - [The Nature of Code](http://natureofcode.com/) - Simulating natrual systems with Processing.
 - [The Book of Shaders](https://thebookofshaders.com/) - Step-by-step guide through the abstract and complex universe of fragment shaders.
-- [Programming Design Systems](https://programmingdesignsystems.com/) - A practical introduction to the new foundations of graphic design.
-- [Pixel Shaders](http://pixelshaders.com/) - An Interactive Introduction to Graphics Programming.
-- [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - A series of tutorials on using OpenGL to do graphical rendering.
+- [Programming Design Systems](https://programmingdesignsystems.com/) - Practical introduction to the new foundations of graphic design.
+- [Pixel Shaders](http://pixelshaders.com/) - Interactive Introduction to Graphics Programming.
+- [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - Series of tutorials on using OpenGL to do graphical rendering.
 - [Scratchapixel 2.0](http://www.scratchapixel.com/) - Learn Computer Graphics From Scratch.
-- [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) - A Designer's Guide to Processing, Arduino, and openFrameworks.
+- [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) - Designer's Guide to Processing, Arduino, and openFrameworks.
 - [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/gp/0470375485/) - Experiment with design problems to create 3D animations, GUIs, and more.
 - [Data-driven Graphic Design](https://www.amazon.com/dp/1472578309/) - Creative Coding for Visual Communication.
 - [Foundation HTML5 Animation with JavaScript](http://www.apress.com/us/book/9781430236658) - Everything you need to know to create animation using the HTML5 canvas.
@@ -65,8 +65,8 @@
 ## Ecosystems / Frameworks
 
 ### Desktop
-- [Processing]()- Computer programming language and IDE for visual arts.
-- [Cinder](https://libcinder.org/) -  Open source library for professional-quality creative coding in C++.
+- [Processing]() - Computer programming language and IDE for visual arts.
+- [Cinder](https://libcinder.org/) - Open source library for professional-quality creative coding in C++.
 - [openFrameworks](http://openframeworks.cc/) - Open source C++ toolkit for creative coding.
 - [vvvv](https://vvvv.org/) - Hybrid visual/textual live-programming environment for easy prototyping and development.
 - [NodeBox](https://www.nodebox.net/node/) - Cross-platform, node-based GUI for efficient data visualizations and generative design.
@@ -106,7 +106,7 @@
 
 
 ## Interactive tutorials
-- [Shader-school](https://github.com/stackgl/shader-school) - A workshopper for GLSL shaders and graphics programming.
+- [Shader-school](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
 - [Webgl-workshop](https://github.com/stackgl/webgl-workshop) - The sequel to shader-school: Learn the WebGL API.
 - [Fragment-oundry](http://hughsk.io/fragment-foundry) - Interactive fragment shader tutorial.
 - [SDF Tutorial 1: box & balloon](https://www.shadertoy.com/view/Xl2XWt) - Shadertoy tutorial on raytracing.
@@ -119,7 +119,7 @@
 - [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers.
 - [FBO particles](http://barradeau.com/blog/?p=621) - Article about FBO/GPGPU particles by @nicoptere.
 - [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) - Article about ray marching with three.js by @nicoptere.
-- [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - A look at the use of visualization to understand, explain and debug algorithms.
+- [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - Looks at the use of visualization to understand, explain and debug algorithms.
 - [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) - Introduction to custom shaders, uniforms, textures and lighting in three.js.
 - [Modern OpenGL Series](https://github.com/tomdalling/opengl-series) - Good introduction to some of the OpenGL terms.
 - [An intro to modern OpenGL](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) - First part of an introduction to modern OpenGL.
@@ -127,12 +127,12 @@
 
 
 ## Math
-- [Math as code](https://github.com/Jam3/math-as-code) - A cheat-sheet for mathematical notation in code form.
+- [Math as code](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form.
 - [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
 - [Math snippets](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
 - [Learning Maths again](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
-- [Eases](https://github.com/mattdesl/eases) - A grab-bag of modular easing equations.
+- [Eases](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
 - [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
 - [Matrix Multiplication](http://matrixmultiplication.xyz) - Matrix multiplication visualized.
 
@@ -144,8 +144,8 @@
 - [CodePen](http://codepen.io/) - Show case of advanced techniques with editable source code.
 - [OpenProcessing](https://www.openprocessing.org/) - Algorithmic Designs Created with Processing, p5js and processingjs.
 - [Dwitter](https://www.dwitter.net/) - Social network for short JavaScript demos.
-- [Chrome Experiments](https://www.chromeexperiments.com/) -  Showcase of web experiments written by the creative coding community.
-- [Codedoodl.es](https://codedoodl.es) - A showcase of curated creative coding sketches.
+- [Chrome Experiments](https://www.chromeexperiments.com/) - Showcase of web experiments written by the creative coding community.
+- [Codedoodl.es](https://codedoodl.es) - Showcase of curated creative coding sketches.
 - [For your Processing](http://fyprocessing.tumblr.com/) - Projects and tutorials about Processing.
 - [31 days of Canvas tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/) - Collection of canvas tutorials by Seb Lee-Delisle.
 - [Art From Code](http://www.artfromcode.com/) - Code sketches by Keith Peters.
@@ -178,7 +178,7 @@
 - [Chrome Shader Editor](https://chrome.google.com/webstore/detail/shader-editor/ggeaidddejpbakgafapihjbgdlbbbpob?hl=en) - Live editing shaders in the browser.
 - [ShaderTool](http://store.steampowered.com/app/314720/) - Modern shader IDE for programmers and FX artists.
 - [Shadershop](http://www.cdglabs.org/Shadershop/) - Interface for programming GPU shaders.
-- [hg_sdf](http://mercury.sexy/hg_sdf/) - A glsl library for building signed distance functions.
+- [hg_sdf](http://mercury.sexy/hg_sdf/) - GLSL library for building signed distance functions.
 
 
 ## Talks / Presentations / Videos
@@ -195,14 +195,14 @@
 
 
 ## Related:
-- [Awesome opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and resources.
-- [Graphics resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
-- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - A curated list of awesome HTML5 canvas with examples, related articles and posts.
-- [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
-- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
-- [Magic Tools](https://github.com/ellisonleao/magictools) - A list of game development resources to make magic happen.
+- [Awesome opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+- [Graphics resources](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
+- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
+- [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
+- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
+- [Magic Tools](https://github.com/ellisonleao/magictools) - List of game development resources to make magic happen.
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) - A list of recommended research papers and other readings on data visualization.
+- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) - List of recommended research papers and other readings on data visualization.
 
 
 ## License
