@@ -1,12 +1,15 @@
 # Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of **beginner-friendly** tools, resources and shiny things to get you started with creative coding.
+[<img src="" align="right" width="70">](https://github.com/terkelg/awesome-creative-coding)
 
-*<sub>
-This is primarly material and resources for beginners, if you're a rock-start check out: [Graphics resources](https://github.com/mattdesl/graphics-resources) by [@mattdesl](https://github.com/mattdesl) and [Awesome OpenGL](https://github.com/eug/awesome-opengl) by [@eug](https://github.com/eug).
-</sub>*
+> A curated list of **beginner-friendly** tools, resources and shiny things to get you started.
 
-## Table of Contents
+*You might also like [Graphics resources](https://github.com/mattdesl/graphics-resources) and [Awesome OpenGL](https://github.com/eug/awesome-opengl).*
+*Please read the [contribution guidelines](contributing.md) before contributing.*
+
+-
+
+## Contents
 <details>
   <summary>Table of Contents</summary>
   <ul>
@@ -26,16 +29,16 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 </details>
 
 ## Books
-- [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - A practical guide using Processing. 
+- [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - A practical guide using Processing.
 - [Generative Design](http://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
-- [The Nature of Code](http://natureofcode.com/) - Simulating natrual systems with Processing. 
+- [The Nature of Code](http://natureofcode.com/) - Simulating natrual systems with Processing.
 - [The Book of Shaders](https://thebookofshaders.com/) - Step-by-step guide through the abstract and complex universe of fragment shaders.
 - [Programming Design Systems](https://programmingdesignsystems.com/) - A practical introduction to the new foundations of graphic design.
 - [Pixel Shaders](http://pixelshaders.com/) - An Interactive Introduction to Graphics Programming.
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - A series of tutorials on using OpenGL to do graphical rendering.
 - [Scratchapixel 2.0](http://www.scratchapixel.com/) - Learn Computer Graphics From Scratch.
 - [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) - A Designer's Guide to Processing, Arduino, and openFrameworks.
-- [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/gp/0470375485/) - Experiment with design problems to create 3D animations, GUIs, and more. 
+- [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/gp/0470375485/) - Experiment with design problems to create 3D animations, GUIs, and more.
 - [Data-driven Graphic Design](https://www.amazon.com/dp/1472578309/) - Creative Coding for Visual Communication.
 - [Foundation HTML5 Animation with JavaScript](http://www.apress.com/us/book/9781430236658) - Everything you need to know to create animation using the HTML5 canvas.
 - [Playing with chaos](http://www.playingwithchaos.net/) - Programming Fractals and Strange Attractors in JavaScript.
@@ -53,7 +56,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 
 
 ## Communities
-- [realtimevfx.com](https://realtimevfx.com/]) - Real Time VFX Community. 
+- [realtimevfx.com](https://realtimevfx.com/]) - Real Time VFX Community.
 - [creative-dev](https://creative-dev.herokuapp.com/) - Creative Developement Slack.
 - [The Creative Coding Podcast](http://creativecodingpodcast.com/) - Iain and Seb discuss the ins and outs of creative coding.
 
@@ -74,7 +77,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 - [Stackgl](http://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
 - [Pixi.js]() - HTML 5 2D rendering engine that uses webGL with canvas fallback.
-- [p5.js](https://p5js.org/) - JavaScript library that starts with the original goal of Processing. 
+- [p5.js](https://p5js.org/) - JavaScript library that starts with the original goal of Processing.
 - [Fabric.js](http://fabricjs.com/) - Javascript canvas library, SVG-to-canvas parser.
 - [Sketch.js](http://soulwire.github.io/sketch.js/) - Minimal JavaScript creative coding framework.
 - [Two.js](https://two.js.org/) - Two-dimensional drawing api geared towards modern web browsers.
@@ -113,7 +116,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 
 ## Articles
 - [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers.
-- [FBO particles](http://barradeau.com/blog/?p=621) - Article about FBO/GPGPU particles by @nicoptere. 
+- [FBO particles](http://barradeau.com/blog/?p=621) - Article about FBO/GPGPU particles by @nicoptere.
 - [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) - Article about ray marching with three.js by @nicoptere.
 - [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - A look at the use of visualization to understand, explain and debug algorithms.
 - [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) - Introduction to custom shaders, uniforms, textures and lighting in three.js.
@@ -137,7 +140,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 - [Shadertoy](https://www.shadertoy.com/) - Build and share shaders with the world and get inspired.
 - [GLSLbin](http://glslb.in/) - Fragment shader sandbox with support for glslify.
 - [GLSL Sandbox](http://glslsandbox.com/) - Online shader editor and gallery.
-- [CodePen](http://codepen.io/) - Show case of advanced techniques with editable source code. 
+- [CodePen](http://codepen.io/) - Show case of advanced techniques with editable source code.
 - [OpenProcessing](https://www.openprocessing.org/) - Algorithmic Designs Created with Processing, p5js and processingjs.
 - [Dwitter](https://www.dwitter.net/) - Social network for short JavaScript demos.
 - [Chrome Experiments](https://www.chromeexperiments.com/) -  Showcase of web experiments written by the creative coding community.
@@ -185,7 +188,7 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 
 ## Websites / Blogs
 - [abandonedart.org](http://abandonedart.org/) - Generative art ideas by Matt Pearson.
-- [iquilezles.org](http://www.iquilezles.org) - Home of Íñigo Quílez. 
+- [iquilezles.org](http://www.iquilezles.org) - Home of Íñigo Quílez.
 - [bit-101.com](http://www.bit-101.com/blog/) - Blog by Keith Peters.
 - [IBreakDownShaders](http://ibreakdownshaders.blogspot.com.au/) - Explore the math behind shaders.
 
