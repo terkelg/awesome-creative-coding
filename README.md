@@ -10,18 +10,18 @@ This is primarly material and resources for beginners, if you're a rock-start ch
 <details>
   <summary>Table of Contents</summary>
   <ul>
-  <li><a href="#books">Books</a></li>
-  <li><a href="#subreddits">Subreddits</a></li>
-  <li><a href="#communities">Communities</a></li>
-  <li><a href="#ecosystems--frameworks">Ecosystems/Frameworks</a></li>
-  <li><a href="#learning-material">Learning material</a></li>
-  <li><a href="#interactive-tutorials">Interactive tutorials</a></li>
-  <li><a href="#articles">Articles</a></li>
-  <li><a href="#math">Math</a></li>
-  <li><a href="#machine-learning--ai">Machine learning/Ai</a></li>
-  <li><a href="#shader-references--articles">Shader references &amp; articles</a></li>
-  <li><a href="#talks--presentations--videos">Talks / presentations / videos</a></li>
-  <li><a href="#related">Related</a></li>
+  <li><a href="#books">Books.</a></li>
+  <li><a href="#subreddits">Subreddits.</a></li>
+  <li><a href="#communities">Communities.</a></li>
+  <li><a href="#ecosystems--frameworks">Ecosystems/Frameworks.</a></li>
+  <li><a href="#learning-material">Learning material.</a></li>
+  <li><a href="#interactive-tutorials">Interactive tutorials.</a></li>
+  <li><a href="#articles">Articles.</a></li>
+  <li><a href="#math">Mat.h</a></li>
+  <li><a href="#machine-learning--ai">Machine learning/Ai.</a></li>
+  <li><a href="#shader-references--articles">Shader references &amp; articles.</a></li>
+  <li><a href="#talks--presentations--videos">Talks / presentations / videos.</a></li>
+  <li><a href="#related">Related.</a></li>
   </ul>
 </details>
 
