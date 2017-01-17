@@ -140,6 +140,7 @@
 - [Eases](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
 - [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
 - [Matrix Multiplication](http://matrixmultiplication.xyz) - Matrix multiplication visualized.
+- [Algebra rules](http://algebrarules.com/) - The most useful rules of basic algebra.
 
 
 ## Inspiration
