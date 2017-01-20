@@ -193,8 +193,8 @@
 
 ## Websites / Blogs
 - [abandonedart.org](http://abandonedart.org/) - Generative art ideas by Matt Pearson.
-- [iquilezles.org](http://www.iquilezles.org) - Home of Íñigo Quílez.
-- [bit-101.com](http://www.bit-101.com/blog/) - Blog by Keith Peters.
+- [iquilezles.org](http://www.iquilezles.org) - Home of Íñigo Quílez, specialised in GLSL and math snippets.
+- [bit-101.com](http://www.bit-101.com/blog/) - Blog by Keith Peters, specialised in creative coding.
 - [IBreakDownShaders](http://ibreakdownshaders.blogspot.com.au/) - Explore the math behind shaders.
 
 
