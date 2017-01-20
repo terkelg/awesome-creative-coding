@@ -11,8 +11,6 @@
 -
 
 ## Contents
-<details>
-  <summary>Table of Contents</summary>
   <ul>
   <li><a href="#books">Books</a></li>
   <li><a href="#subreddits">Subreddits</a></li>
@@ -32,7 +30,6 @@
   <li><a href="#talks--presentations--videos">Talks / presentations / videos</a></li>
   <li><a href="#related">Related</a></li>
   </ul>
-</details>
 
 ## Books
 - [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - Practical guide using Processing.
