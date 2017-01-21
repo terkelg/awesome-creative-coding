@@ -156,6 +156,7 @@ Creative coding is a type of computer programming in which the goal is to create
 - [Art From Code](http://www.artfromcode.com/) - Code sketches by Keith Peters.
 - [Generator.x](https://www.flickr.com/groups/generatorx/) - Flickr group about generative strategies in art & design.
 - [Generative Art](https://www.flickr.com/groups/generativeart/) - Flickr group about generative art.
+- [People You Should Follow on CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
 
 
 ## Machine Learning / A.I.
