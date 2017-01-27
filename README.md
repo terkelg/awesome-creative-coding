@@ -75,6 +75,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [vvvv](https://vvvv.org/) - Hybrid visual/textual live-programming environment for easy prototyping and development.
 - [NodeBox](https://www.nodebox.net/node/) - Cross-platform, node-based GUI for efficient data visualizations and generative design.
 - [Structure Synth](http://structuresynth.sourceforge.net/) - Cross-platform application for generating 3D structures by specifying a design grammar.
+- [Unity](https://unity3d.com/) - Game engine, but useful for creative coding and installations. 
 
 ### Web
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
@@ -107,7 +108,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) - Computer graphics course from Coursera.
 - [MFGD - Fragment Shaders](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWMpFSRpeMmSBGDShbkiV1Cq) - YouTube playlist about fragment shaders.
 - [Learn OpenGL](https://learnopengl.com/) - Learn the inner workings of computer graphics.
-
+- [Cat Like Coding](http://catlikecoding.com/unity/tutorials/) - Tutorials on math, algorithms, and Unity features.
 
 ## Interactive tutorials
 - [Shader-school](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
@@ -140,6 +141,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
 - [Matrix Multiplication](http://matrixmultiplication.xyz) - Matrix multiplication visualized.
 - [Algebra rules](http://algebrarules.com/) - The most useful rules of basic algebra.
+- [Immersive Math](http://immersivemath.com/ila/index.html) - Fully interactive linear algebra.
 
 
 ## Inspiration
