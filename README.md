@@ -43,7 +43,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - Series of tutorials on using OpenGL to do graphical rendering.
 - [Scratchapixel 2.0](http://www.scratchapixel.com/) - Learn Computer Graphics From Scratch.
 - [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) - Designer's Guide to Processing, Arduino, and openFrameworks.
-- [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/gp/0470375485/) - Experiment with design problems to create 3D animations, GUIs, and more.
+- [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/Algorithms-Visual-Design-Processing-Language/dp/0470375485) - Experiment with design problems to create 3D animations, GUIs, and more.
 - [Data-driven Graphic Design](https://www.amazon.com/dp/1472578309/) - Creative Coding for Visual Communication.
 - [Foundation HTML5 Animation with JavaScript](http://www.apress.com/us/book/9781430236658) - Everything you need to know to create animation using the HTML5 canvas.
 - [Playing with chaos](http://www.playingwithchaos.net/) - Programming Fractals and Strange Attractors in JavaScript.
@@ -152,7 +152,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [OpenProcessing](https://www.openprocessing.org/) - Algorithmic Designs Created with Processing, p5js and processingjs.
 - [Dwitter](https://www.dwitter.net/) - Social network for short JavaScript demos.
 - [Chrome Experiments](https://www.chromeexperiments.com/) - Showcase of web experiments written by the creative coding community.
-- [Codedoodl.es](https://codedoodl.es) - Showcase of curated creative coding sketches.
+- [Codedoodl.es](http://codedoodl.es/) - Showcase of curated creative coding sketches.
 - [For your Processing](http://fyprocessing.tumblr.com/) - Projects and tutorials about Processing.
 - [31 days of Canvas tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/) - Collection of canvas tutorials by Seb Lee-Delisle.
 - [Art From Code](http://www.artfromcode.com/) - Code sketches by Keith Peters.
