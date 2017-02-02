@@ -76,6 +76,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [NodeBox](https://www.nodebox.net/node/) - Cross-platform, node-based GUI for efficient data visualizations and generative design.
 - [Structure Synth](http://structuresynth.sourceforge.net/) - Cross-platform application for generating 3D structures by specifying a design grammar.
 - [Unity](https://unity3d.com/) - Game engine, but useful for creative coding and installations. 
+- [i-score](http://www.i-score.org) - Interactive sequencer to control creative coding libraries and toolkits. 
 
 ### Web
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
