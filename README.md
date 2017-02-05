@@ -75,8 +75,8 @@ Creative coding is a different discipline than programming systems in which the 
 - [vvvv](https://vvvv.org/) - Hybrid visual/textual live-programming environment for easy prototyping and development.
 - [NodeBox](https://www.nodebox.net/node/) - Cross-platform, node-based GUI for efficient data visualizations and generative design.
 - [Structure Synth](http://structuresynth.sourceforge.net/) - Cross-platform application for generating 3D structures by specifying a design grammar.
-- [Unity](https://unity3d.com/) - Game engine, but useful for creative coding and installations. 
-- [i-score](http://www.i-score.org) - Interactive sequencer to control creative coding libraries and toolkits. 
+- [Unity](https://unity3d.com/) - Game engine, but useful for creative coding and installations.
+- [i-score](http://www.i-score.org) - Interactive sequencer to control creative coding libraries and toolkits.
 
 ### Web
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
@@ -110,6 +110,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [MFGD - Fragment Shaders](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWMpFSRpeMmSBGDShbkiV1Cq) - YouTube playlist about fragment shaders.
 - [Learn OpenGL](https://learnopengl.com/) - Learn the inner workings of computer graphics.
 - [Cat Like Coding](http://catlikecoding.com/unity/tutorials/) - Tutorials on math, algorithms, and Unity features.
+- [Three glslify example](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
 
 ## Interactive tutorials
 - [Shader-school](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
@@ -119,6 +120,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [HOWTO: Ray Marching](https://www.shadertoy.com/view/XllGW4) - Shadertoy tutorial on Ray Marching.
 - [Raymarch Tutorial2](https://www.shadertoy.com/view/XlBGDW) - Shadertoy raymarch tutorial.
 - [GLSL 2D Tutorials](https://www.shadertoy.com/view/Md23DV) - Shadertoy GLSL 2D Tutorial.
+- [Bubble Breakdown](http://mrl.nyu.edu/~perlin/bubble_breakdown/) - Shader breakdown by Perlin.
 
 
 ## Articles
