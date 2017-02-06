@@ -43,6 +43,9 @@ Creative coding is a different discipline than programming systems in which the 
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - Series of tutorials on using OpenGL to do graphical rendering.
 - [Scratchapixel 2.0](http://www.scratchapixel.com/) - Learn Computer Graphics From Scratch.
 - [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) - Designer's Guide to Processing, Arduino, and openFrameworks.
+- [ofBook](http://openframeworks.cc/ofBook/chapters/foreword.html) - Community-written book/guide on openFrameworks.
+- [openFrameworks Essentials](https://www.packtpub.com/application-development/openframeworks-essentials) - openFrameworks beginner Guide for programmer, visual artist, or designer.
+- [Mastering openFrameworks: Creative Coding Demystified](https://www.packtpub.com/application-development/mastering-openframeworks-creative-coding-demystified) - Advanced in depth guide to openFrameworks.
 - [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/Algorithms-Visual-Design-Processing-Language/dp/0470375485) - Experiment with design problems to create 3D animations, GUIs, and more.
 - [Data-driven Graphic Design](https://www.amazon.com/dp/1472578309/) - Creative Coding for Visual Communication.
 - [Foundation HTML5 Animation with JavaScript](http://www.apress.com/us/book/9781430236658) - Everything you need to know to create animation using the HTML5 canvas.
