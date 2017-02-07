@@ -114,6 +114,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Learn OpenGL](https://learnopengl.com/) - Learn the inner workings of computer graphics.
 - [Cat Like Coding](http://catlikecoding.com/unity/tutorials/) - Tutorials on math, algorithms, and Unity features.
 - [Three glslify example](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
+- [Kadenze Creative Coding](http://try.kadenze.com/creative-coder/) - Selection of Kadenze courses covering p5.js, TensorFlow, Max/Jitter, and ChucK.
 
 ## Interactive tutorials
 - [Shader-school](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
