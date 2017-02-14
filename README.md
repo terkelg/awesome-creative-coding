@@ -94,7 +94,7 @@ Creative coding is a different discipline than programming systems in which the 
 
 
 ## Learning material
-- [Coding Rainbow](https://www.youtube.com/user/shiffman) - Daniel Shiffman makes videos about creative coding.
+- [The Coding Train](https://www.youtube.com/user/shiffman) - Daniel Shiffman makes videos about creative coding.
 - [Shaders](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) - Shader tutorial in the context of lwjgl-basics.
 - [Create 3D Graphics in JS Using WebGL](https://egghead.io/courses/create-3d-graphics-in-javascript-using-webgl) - Get started creating content with WebGL without any frameworks.
 - [Learn HTML5 Graphics and Animation](https://egghead.io/courses/learn-html5-graphics-and-animation) - Introduction to the canvas 2D drawing API.
