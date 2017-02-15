@@ -72,7 +72,7 @@ Creative coding is a different discipline than programming systems in which the 
 ## Ecosystems / Frameworks
 
 ### Desktop
-- [Processing]() - Computer programming language and IDE for visual arts.
+- [Processing](https://processing.org) - Computer programming language and IDE for visual arts.
 - [Cinder](https://libcinder.org/) - Open source library for professional-quality creative coding in C++.
 - [openFrameworks](http://openframeworks.cc/) - Open source C++ toolkit for creative coding.
 - [vvvv](https://vvvv.org/) - Hybrid visual/textual live-programming environment for easy prototyping and development.
@@ -86,7 +86,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [regl](https://github.com/regl-project/regl) - Functional WebGL.
 - [Stackgl](http://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
-- [Pixi.js]() - HTML 5 2D rendering engine that uses webGL with canvas fallback.
+- [Pixi.js](http://www.pixijs.com/) - HTML 5 2D rendering engine that uses webGL with canvas fallback.
 - [p5.js](https://p5js.org/) - JavaScript library that starts with the original goal of Processing.
 - [Fabric.js](http://fabricjs.com/) - Javascript canvas library, SVG-to-canvas parser.
 - [Sketch.js](http://soulwire.github.io/sketch.js/) - Minimal JavaScript creative coding framework.
