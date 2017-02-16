@@ -67,7 +67,7 @@ Creative coding is a different discipline than programming systems in which the 
 
 
 ## Communities
-- [realtimevfx.com](https://realtimevfx.com/]) - Real Time VFX Community.
+- [realtimevfx.com](https://realtimevfx.com/) - Real Time VFX Community.
 - [creative-dev](https://creative-dev.herokuapp.com/) - Creative Development Slack.
 - [The Creative Coding Podcast](http://creativecodingpodcast.com/) - Iain and Seb discuss the ins and outs of creative coding.
 
