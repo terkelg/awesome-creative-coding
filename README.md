@@ -97,7 +97,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Two.js](https://two.js.org/) - Two-dimensional drawing api geared towards modern web browsers.
 
 ### Mobile
-- [C4](http://www.c4ios.com) – Open-source creative coding framework for iOS.
+- [C4](http://www.c4ios.com) - Open-source creative coding framework for iOS.
 
 ## Learning material
 - [The Coding Train](https://www.youtube.com/user/shiffman) - Daniel Shiffman makes videos about creative coding.
