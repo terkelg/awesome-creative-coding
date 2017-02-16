@@ -27,8 +27,10 @@ Creative coding is a different discipline than programming systems in which the 
   <li><a href="#interactive-tutorials">Interactive tutorials</a></li>
   <li><a href="#articles">Articles</a></li>
   <li><a href="#math">Math</a></li>
-  <li><a href="#machine-learning--ai">Machine learning/Ai</a></li>
-  <li><a href="#shader-references--articles">Shader references &amp; articles</a></li>
+  <li><a href="#machine-learning--ai">Machine learning / Ai</a></li>
+  <li><a href="#shader--webgl--opengl">Shaders / WebGL / OpenGL </a></li>
+  <li><a href="#tools">Tools</a></li>
+  <li><a href="#cheatsheets--references--glossaries">Cheatsheets / References / Glossaries</a></li>
   <li><a href="#talks--presentations--videos">Talks / presentations / videos</a></li>
   <li><a href="#related">Related</a></li>
   </ul>
@@ -52,6 +54,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Playing with chaos](http://www.playingwithchaos.net/) - Programming Fractals and Strange Attractors in JavaScript.
 - [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8/) - Mini book about Ray Tracing.
 - [Learn OpenGL](https://learnopengl.com/) - Extensive tutorial resource for learning Modern OpenGL.
+
 
 ## Subreddits
 - [r/creativecoding](https://www.reddit.com/r/creativecoding/) - Sharing and discussing the use of computer programming as a creative discipline.
@@ -116,6 +119,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Three glslify example](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
 - [Kadenze Creative Coding](http://try.kadenze.com/creative-coder/) - Selection of Kadenze courses covering p5.js, TensorFlow, Max/Jitter, and ChucK.
 
+
 ## Interactive tutorials
 - [Shader-school](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
 - [Webgl-workshop](https://github.com/stackgl/webgl-workshop) - The sequel to shader-school: Learn the WebGL API.
@@ -178,9 +182,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Wekinator](http://www.wekinator.org/) - Allows anyone to use machine learning.
 
 
-## Shader References & Articles
-- [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) - Shader glossary by theme.
-- [GLSL](http://www.shaderific.com/glsl/) - OpenGL ES shading language reference.
+## Shaders / OpenGL / WebGL
 - [gltut](https://paroj.github.io/gltut/Basics/Intro%20Glossary.html) - 3D programming glossary.
 - [Smooth minimum](http://iquilezles.org/www/articles/smin/smin.htm) - Article about the smooth based primitive union.
 - [Modeling with distance functions](http://iquilezles.org/www/articles/distfunctions/distfunctions.htm) - Collection of distance functions in one centralized place.
@@ -196,12 +198,21 @@ Creative coding is a different discipline than programming systems in which the 
 - [hg_sdf](http://mercury.sexy/hg_sdf/) - GLSL library for building signed distance functions.
 
 
+## Cheatsheets / References / Glossaries
+- [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) - Shader glossary by theme.
+- [GLSL](http://www.shaderific.com/glsl/) - OpenGL ES shading language reference.
+- [Canvas Cheatsheet](https://skilled.co/html-canvas/images/HTML_Canvas_Cheatsheet.pdf) - Quick and visual canvas cheatsheet. 
+- [WebGL Cheatsheet](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API reference card.
+- [Glossary of Computer Graphics](https://en.wikipedia.org/wiki/Glossary_of_computer_graphics) - Glossary of terms relating computer graphics.
+
+
 ## Talks / Presentations / Videos
 - [Intro to WebGL](http://davidscottlyons.com/threejs/presentations/frontporch14/) - Intro to WebGL with three.js.
 - [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) - Collection of live coding videos by Íñigo Quílez.
 - [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) - Bruno Imbrizi go through the use of canvas for creative coding at WebExpo 2016. Interactive slides [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
 - [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) - Slides by [@williamapan](https://twitter.com/williamapan) from his Creative developer workshop at Gobelins.
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) - Beginners tutorial series about creating 3D games OpenG.
+
 
 ## Websites / Blogs
 - [abandonedart.org](http://abandonedart.org/) - Generative art blog by Matt Pearso. Good for inspiration.
