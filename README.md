@@ -58,9 +58,9 @@ Creative coding is a different discipline than programming systems in which the 
 
 ## Subreddits
 - [r/creativecoding](https://www.reddit.com/r/creativecoding/) - Sharing and discussing the use of computer programming as a creative discipline.
-- [r/rraytraycing](https://www.reddit.com/r/raytracing/]) - Subreddit on raytracing.
-- [r/opengl](https://www.reddit.com/r/opengl/]) - News and discussion about OpenGL on all platforms.
-- [r/graphicsprogramming](https://www.reddit.com/r/GraphicsProgramming/]) - Subreddit on graphics programming.
+- [r/raytraycing](https://www.reddit.com/r/raytracing/) - Subreddit on raytracing.
+- [r/opengl](https://www.reddit.com/r/opengl/) - News and discussion about OpenGL on all platforms.
+- [r/graphicsprogramming](https://www.reddit.com/r/GraphicsProgramming/) - Subreddit on graphics programming.
 - [r/processing](https://www.reddit.com/r/processing/) - Subreddit on Processing.
 - [r/shaders](https://www.reddit.com/r/shaders/) - Subreddit on shaders.
 - [r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/) - Subreddit on procedural generation.
@@ -118,6 +118,9 @@ Creative coding is a different discipline than programming systems in which the 
 - [Cat Like Coding](http://catlikecoding.com/unity/tutorials/) - Tutorials on math, algorithms, and Unity features.
 - [Three glslify example](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
 - [Kadenze Creative Coding](http://try.kadenze.com/creative-coder/) - Selection of Kadenze courses covering p5.js, TensorFlow, Max/Jitter, and ChucK.
+- [Think. Create. Code](https://www.edx.org/course/think-create-code-adelaidex-code101x-2) - EDX course to learn programming with ProcessingJS.
+- [Creative Coding](https://www.futurelearn.com/courses/creative-coding) - FutureLearn course on programming with Processing.
+- [Creative Programming for Digital Media & Mobile Apps](https://www.coursera.org/learn/digitalmedia) - Coursera course on creative coding with processing.
 
 
 ## Interactive tutorials
