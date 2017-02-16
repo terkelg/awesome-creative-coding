@@ -38,7 +38,7 @@ Creative coding is a different discipline than programming systems in which the 
 ## Books
 - [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - Practical guide using Processing.
 - [Generative Design](http://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
-- [The Nature of Code](http://natureofcode.com/) - Simulating natrual systems with Processing.
+- [The Nature of Code](http://natureofcode.com/) - Simulating natural systems with Processing.
 - [The Book of Shaders](https://thebookofshaders.com/) - Step-by-step guide through the abstract and complex universe of fragment shaders.
 - [Programming Design Systems](https://programmingdesignsystems.com/) - Practical introduction to the new foundations of graphic design.
 - [Pixel Shaders](http://pixelshaders.com/) - Interactive Introduction to Graphics Programming.
@@ -67,8 +67,8 @@ Creative coding is a different discipline than programming systems in which the 
 
 
 ## Communities
-- [realtimevfx.com](https://realtimevfx.com/) - Real Time VFX Community.
-- [creative-dev](https://creative-dev.herokuapp.com/) - Creative Developement Slack.
+- [realtimevfx.com](https://realtimevfx.com/]) - Real Time VFX Community.
+- [creative-dev](https://creative-dev.herokuapp.com/) - Creative Development Slack.
 - [The Creative Coding Podcast](http://creativecodingpodcast.com/) - Iain and Seb discuss the ins and outs of creative coding.
 
 
