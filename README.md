@@ -58,16 +58,16 @@ Creative coding is a different discipline than programming systems in which the 
 
 ## Subreddits
 - [r/creativecoding](https://www.reddit.com/r/creativecoding/) - Sharing and discussing the use of computer programming as a creative discipline.
-- [r/rraytraycing](https://www.reddit.com/r/raytracing/]) - Subreddit on raytracing.
-- [r/opengl](https://www.reddit.com/r/opengl/]) - News and discussion about OpenGL on all platforms.
-- [r/graphicsprogramming](https://www.reddit.com/r/GraphicsProgramming/]) - Subreddit on graphics programming.
+- [r/raytraycing](https://www.reddit.com/r/raytracing/) - Subreddit on raytracing.
+- [r/opengl](https://www.reddit.com/r/opengl/) - News and discussion about OpenGL on all platforms.
+- [r/graphicsprogramming](https://www.reddit.com/r/GraphicsProgramming/) - Subreddit on graphics programming.
 - [r/processing](https://www.reddit.com/r/processing/) - Subreddit on Processing.
 - [r/shaders](https://www.reddit.com/r/shaders/) - Subreddit on shaders.
 - [r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/) - Subreddit on procedural generation.
 
 
 ## Communities
-- [realtimevfx.com](https://realtimevfx.com/]) - Real Time VFX Community.
+- [realtimevfx.com](https://realtimevfx.com/) - Real Time VFX Community.
 - [creative-dev](https://creative-dev.herokuapp.com/) - Creative Developement Slack.
 - [The Creative Coding Podcast](http://creativecodingpodcast.com/) - Iain and Seb discuss the ins and outs of creative coding.
 
