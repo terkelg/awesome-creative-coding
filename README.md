@@ -119,8 +119,8 @@ Creative coding is a different discipline than programming systems in which the 
 - [Three glslify example](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
 - [Kadenze Creative Coding](http://try.kadenze.com/creative-coder/) - Selection of Kadenze courses covering p5.js, TensorFlow, Max/Jitter, and ChucK.
 - [Think. Create. Code](https://www.edx.org/course/think-create-code-adelaidex-code101x-2) - EDX course to learn programming with ProcessingJS.
-- [Creative Coding] (https://www.futurelearn.com/courses/creative-coding) - FutureLearn course on programming with Processing.
-- [Creative Programming for Digital Media & Mobile Apps] (https://www.coursera.org/learn/digitalmedia) - Coursera course on creative coding with processing.
+- [Creative Coding](https://www.futurelearn.com/courses/creative-coding) - FutureLearn course on programming with Processing.
+- [Creative Programming for Digital Media & Mobile Apps](https://www.coursera.org/learn/digitalmedia) - Coursera course on creative coding with processing.
 
 
 ## Interactive tutorials
