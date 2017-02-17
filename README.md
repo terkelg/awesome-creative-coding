@@ -84,6 +84,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Structure Synth](http://structuresynth.sourceforge.net/) - Cross-platform application for generating 3D structures by specifying a design grammar.
 - [Unity](https://unity3d.com/) - Game engine, but useful for creative coding and installations.
 - [i-score](http://www.i-score.org) - Interactive sequencer to control creative coding libraries and toolkits.
+- [TouchDesigner](http://www.derivative.ca/) - Visual development platform to create realtime projects.
 
 ### Web
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
@@ -126,6 +127,8 @@ Creative coding is a different discipline than programming systems in which the 
 - [Creative Programming for Digital Media & Mobile Apps](https://www.coursera.org/learn/digitalmedia) - Coursera course on creative coding with processing.
 - [Creative-coding on iOS with C4](http://www.creativeapplications.net/tutorials/creative-coding-on-ios-with-c4-tutorial/) - Introduction to C4 published on Creative Applications.
 - [COSMOS](http://www.c4ios.com/cosmos/) - An end-to-end tutorial on the design, programming and launch of an app using C4.
+- [Fun Programming](http://funprogramming.org/) - Learn creative coding writing simple programs.
+- [Imaginary Institute](https://imaginary-institute.com/) - Learn how to create gorgeous interactive graphics.
 
 ## Interactive tutorials
 - [Shader-school](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
@@ -147,6 +150,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Modern OpenGL Series](https://github.com/tomdalling/opengl-series) - Good introduction to some of the OpenGL terms.
 - [An intro to modern OpenGL](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) - First part of an introduction to modern OpenGL.
 - [Experimenting with Three.js shaders and the ShaderMaterial](http://blog.2pha.com/experimenting-threejs-shaders-and-shadermaterial) - Introduction to custom mesh shader materials.
+- [Three.js 101](https://medium.com/@necsoft/three-js-101-hello-world-part-1-443207b1ebe1) - Introduction to three.js from a creative coder perspective.
 
 
 ## Math
@@ -160,6 +164,8 @@ Creative coding is a different discipline than programming systems in which the 
 - [Matrix Multiplication](http://matrixmultiplication.xyz) - Matrix multiplication visualized.
 - [Algebra rules](http://algebrarules.com/) - The most useful rules of basic algebra.
 - [Immersive Math](http://immersivemath.com/ila/index.html) - Fully interactive linear algebra.
+- [Image Kernels](http://setosa.io/ev/image-kernels/) - Interactive and visual introduction to image kernels.
+- [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/) - Interactive explination of sine and cosine.
 
 
 ## Inspiration
@@ -211,6 +217,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Canvas Cheatsheet](https://skilled.co/html-canvas/images/HTML_Canvas_Cheatsheet.pdf) - Quick and visual canvas cheatsheet. 
 - [WebGL Cheatsheet](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API reference card.
 - [Glossary of Computer Graphics](https://en.wikipedia.org/wiki/Glossary_of_computer_graphics) - Glossary of terms relating computer graphics.
+- [GLSL Reference Guide](http://www.cs.cmu.edu/afs/cs/academic/class/15462-f10/www/lec_slides/glslref.pdf) - OpenGL Shading Language quick reference guide.
 
 
 ## Talks / Presentations / Videos
