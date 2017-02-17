@@ -244,6 +244,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Magic Tools](https://github.com/ellisonleao/magictools) - List of game development resources to make magic happen.
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
 - [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) - List of recommended research papers and other readings on data visualization.
+- [Awesome livecoding](https://github.com/lvm/awesome-livecoding/) - A curated list of livecoding languages and tools.
 
 
 ## License
