@@ -28,11 +28,13 @@ Creative coding is a different discipline than programming systems in which the 
   <li><a href="#interactive-tutorials">Interactive tutorials</a></li>
   <li><a href="#articles">Articles</a></li>
   <li><a href="#math">Math</a></li>
+  <li><a href="#inspiration">Inspiration</a></li>
   <li><a href="#machine-learning--ai">Machine learning / Ai</a></li>
   <li><a href="#shader--webgl--opengl">Shaders / WebGL / OpenGL </a></li>
   <li><a href="#tools">Tools</a></li>
   <li><a href="#cheatsheets--references--glossaries">Cheatsheets / References / Glossaries</a></li>
   <li><a href="#talks--presentations--videos">Talks / presentations / videos</a></li>
+  <li><a href="#websites--blogs">Websites / Blogs</a></li>
   <li><a href="#related">Related</a></li>
   </ul>
 
