@@ -133,6 +133,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Fun Programming](http://funprogramming.org/) - Learn creative coding writing simple programs.
 - [Imaginary Institute](https://imaginary-institute.com/) - Learn how to create gorgeous interactive graphics.
 - [WebGL Beyond Dom](https://github.com/gregtatum/talk-webgl-beyond-dom) - Greg Tatum explain the basic of WebGL using Regl.
+- [Particle Physics](https://www.khanacademy.org/partner-content/pixar/effects/particle-physics/a/start-here-fx) - Particle physics explained.
 
 
 ## Interactive tutorials
