@@ -10,7 +10,7 @@ Creative coding is a different discipline than programming systems in which the 
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
--
+<hr>
 
 ## Contents
   <ul>
