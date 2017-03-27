@@ -174,6 +174,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Immersive Math](http://immersivemath.com/ila/index.html) - Fully interactive linear algebra.
 - [Image Kernels](http://setosa.io/ev/image-kernels/) - Interactive and visual introduction to image kernels.
 - [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/) - Interactive explination of sine and cosine.
+- [Perlin Noise](https://eev.ee/blog/2016/05/29/perlin-noise/) - Perlin noise explained in detail.
 
 
 ## Inspiration
