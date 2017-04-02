@@ -341,6 +341,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [P5Art](http://p5art.tumblr.com/) - Really good collection of experiments in Processing.
 - [Echophon](http://echophon.tumblr.com/) - Tumblr with visual inspiration.
 - [Bees & Bombs](https://beesandbombs.tumblr.com/) - Tumblr with gifs by Dave.
+- [DevArt](https://devart.withgoogle.com/) - Celebration of art made with code by artists that push the possibilities of creativity.
 
 
 ## Events
