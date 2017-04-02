@@ -168,6 +168,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [BeagleBoard](http://beagleboard.org/) - Low-power open source single-board computers.
 - [Makey Makey](http://www.makeymakey.com/) - Turn everyday objects into touchpads and combine them with the internet.
 - [Tessel](https://tessel.io/) - Easy to use microcontroller that runs JavaScript.
+- [Leap Motion](https://www.leapmotion.com/) - Sensor device that supports hand and finger motions as input.
 
 ### Other
 
