@@ -274,7 +274,8 @@ Creative coding is a different discipline than programming systems in which the 
 - [GLSL Reference Guide](http://www.cs.cmu.edu/afs/cs/academic/class/15462-f10/www/lec_slides/glslref.pdf) - OpenGL Shading Language quick reference guide.
 - [3D Maths Cheat Sheet](http://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf) - 
 - [docs.GL](http://docs.gl/) - Improvement of the official OpenGL documentation.
-- [OpenGL Shading Language](https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language) - Khronos Group GLSL wiki. 
+- [OpenGL Shading Language](https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language) - Khronos Group GLSL wiki.
+- [OpenGL 4.3 Reference Card](https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - PDF Reference Card for the OpenGL 4.3 API.
 
 ## Communities
 
