@@ -19,39 +19,46 @@ Creative coding is a different discipline than programming systems in which the 
   <li>
     <a href="#tools">Tools</a>
     <ul>
-      <li><a href="">Frameworks • Libraries • Ecosystems</a></li>
-      <li><a href="">Visual Programming Languages</a></li>
-      <li><a href="">Sound Programming Languages</a></li>
-      <li><a href="">Web Programming • Libraries</a></li>
-      <li><a href="">Projection Mapping • VJing</a></li>
-       <li><a href="">Online</a></li>
-      <li><a href="">Hardware</a></li>
-      <li><a href="">Other</a></li>
+      <li><a href="#frameworks--libraries--ecosystems">Frameworks • Libraries • Ecosystems</a></li>
+      <li><a href="#visual-programming-languages">Visual Programming Languages</a></li>
+      <li><a href="#sound-programming-languages">Sound Programming Languages</a></li>
+      <li><a href="#web-programming--libraries">Web Programming • Libraries</a></li>
+      <li><a href="#projection-mapping--vjing">Projection Mapping • VJing</a></li>
+       <li><a href="#online">Online</a></li>
+      <li><a href="#hardware">Hardware</a></li>
+      <li><a href="#other">Other</a></li>
     </ul>
   </li>
   <li>
     <a href="#learning-resources">Learning Resources</a>
     <ul>
-      <li><a href="">Videos</a></li>
-      <li><a href="">Talks</a></li>
-      <li><a href="">Articles</a></li>
-      <li><a href="">Interactive</a></li>
-      <li><a href="">Quick References • Cheat-Sheets</a></li>
+      <li><a href="#videos">Videos</a></li>
+      <li><a href="#talks">Talks</a></li>
+      <li>
+        <a href="#articles">Articles</a>
+          <ul>
+            <li><a href="#shaders--opengl--webgl">Shaders • OpenGL • WebGL</a></li>
+            <li><a href="#canvas">Canvas</a></li>
+            <li><a href="#other-1">Other</a></li>
+          </ul>
+      </li>
+      <li><a href="#interactive">Interactive</a></li>
+      <li><a href="#quick-references--cheatsheets">Quick References • Cheat-Sheets</a></li>
     </ul>
   </li>
   <li>
     <a href="#communities">Communities</a>
     <ul>
-      <li><a href="">Subreddits</a></li>
-      <li><a href="">Slack</a></li>
-      <li><a href="">Other</a></li>
+      <li><a href="#subreddits">Subreddits</a></li>
+      <li><a href="#slack">Slack</a></li>
+      <li><a href="#other-2">Other</a></li>
     </ul>
   </li>
   <li><a href="#math">Math</a></li>
-  <li><a href="#">Machine learning • Computer Vision • Ai</a></li>
+  <li><a href="#machine-learning--computer-vision--ai">Machine learning • Computer Vision • Ai</a></li>
   <li><a href="#inspiration">Inspiration</a></li>
   <li><a href="#events">Events</a></li>
-  <li><a href="#blogs">Blogs</a></li>
+  <li><a href="#blogs--websites">Blogs • Websites</a></li>
   <li><a href="#related">Related</a></li>
   </ul>
 
