@@ -73,6 +73,10 @@ Creative coding is a different discipline than programming systems in which the 
 - [Foundation HTML5 Animation with JavaScript](http://www.apress.com/us/book/9781430236658) - Everything you need to know to create animation using the HTML5 canvas.
 - [Playing with chaos](http://www.playingwithchaos.net/) - Programming Fractals and Strange Attractors in JavaScript.
 - [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8/) - Mini book about Ray Tracing.
+- [Processing 2: Creative Programming Cookbook](https://www.packtpub.com/hardware-and-creative/processing-2-creative-programming-cookbook) - Guides you to explore the Processing environment using practical and useful recipes.
+- [Data-driven Graphic Design](https://www.amazon.com/dp/1472578309/) - Creative Coding for Visual Communication.
+- [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Third-Tomas-Akenine-Moller/dp/1568814240) - Learn how to use modern techniques to generate synthetic three-dimensional images in a fraction of a second.
+- [Graphics Shaders: Theory and Practice](https://www.amazon.com/Graphics-Shaders-Theory-Practice-Second/dp/1568814348/) - Introduction to shader programming in general, but focusing on the GLSL shading language.
 
 
 ## Courses
@@ -86,9 +90,10 @@ Creative coding is a different discipline than programming systems in which the 
 - [Creative Coding](https://www.futurelearn.com/courses/creative-coding) - FutureLearn course on programming with Processing.
 - [Creative Programming for Digital Media & Mobile Apps](https://www.coursera.org/learn/digitalmedia) - Coursera course on creative coding with processing.
 - [Imaginary Institute](https://imaginary-institute.com/) - Learn how to create gorgeous interactive graphics.
-- [Creative Coding](https://www.futurelearn.com/courses/creative-coding) - Use computer programming as a creative discipline to generate sounds, images, animations and more.
+- [Future Learn: Creative Coding](https://www.futurelearn.com/courses/creative-coding) - Use computer programming as a creative discipline to generate sounds, images, animations and more.
 - [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming) - Use JavaScript and the ProcessingJS library to create drawings and animations.
 - [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) - Combine JS, ProcessingJS, and mathematical concepts to simulate nature in your programs
+- [Interactive Data Visualization with Processing](https://www.lynda.com/Processing-tutorials/Interactive-Data-Visualization-Processing/97578-2.html) - Learn how to read, map, and illustrate data with Processing.
 
 
 ## Tools
