@@ -276,6 +276,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [docs.GL](http://docs.gl/) - Improvement of the official OpenGL documentation.
 - [OpenGL Shading Language](https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language) - Khronos Group GLSL wiki.
 - [OpenGL 4.3 Reference Card](https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - PDF Reference Card for the OpenGL 4.3 API.
+- [Easings](http://easings.net/) - Interactive easing functions cheatsheet.
 
 ## Communities
 
