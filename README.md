@@ -24,7 +24,7 @@ Creative coding is a different discipline than programming systems in which the 
       <li><a href="#sound-programming-languages">Sound Programming Languages</a></li>
       <li><a href="#web-programming--libraries">Web Programming • Libraries</a></li>
       <li><a href="#projection-mapping--vjing">Projection Mapping • VJing</a></li>
-       <li><a href="#online">Online</a></li>
+      <li><a href="#online">Online</a></li>
       <li><a href="#hardware">Hardware</a></li>
       <li><a href="#other">Other</a></li>
     </ul>
@@ -233,6 +233,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [OGLdev](http://ogldev.atspace.co.uk/) - Collection of modern OpenGL tutorials by Etay Meiri.
 - [OpenGL Tutorial](http://www.opengl-tutorial.org/) - Site is dedicated to tutorials for OpenGL 3.3 and later.
 - [On ray casting, ray tracing, ray marching and the like](http://www.hugi.scene.org/online/hugi37/hugi%2037%20-%20coding%20adok%20on%20ray%20casting,%20ray%20tracing,%20ray%20marching%20and%20the%20like.htm) - The title says it all. Introduction by Adok.
+- [Sun and Black Cat](http://sunandblackcat.com/other.php?l=eng) - Articles on shaders and other computer graphics related topics.
 
 #### Canvas
 
