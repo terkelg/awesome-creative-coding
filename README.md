@@ -150,6 +150,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Modul8](http://www.modul8.ch/) [Mac] - Real time video mixing and compositing.
 - [Resolume](https://resolume.com/) [Mac, Win] - Mixing of digital video and effects in a realtime.
 - [CoGe VJ](http://imimot.com/cogevj/) [Mac] - VJ software designed for realtime HD video mixing and compositing with a modular user interface.
+- [VirtualMapper](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 
 ### Online
 
