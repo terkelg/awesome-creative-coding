@@ -191,6 +191,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg) - YouTube channel about shaders case studies.
 - [openFrameworks tutorials](https://www.youtube.com/watch?v=IKSTo_0pB28&index=51&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr) - YouTube playlist about openFrameworks.
 - [Fun with WebGL 2.0](https://www.youtube.com/watch?v=LtFujAtKM5I&list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF) - YouTube playlist about WebGL 2.0.
+- [Modern OpenGL 3.0+ Tutorials](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) - YouTube playlist about modern OpenGL.
 
 ### Talks
 
