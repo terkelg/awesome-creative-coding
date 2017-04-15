@@ -320,6 +320,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/) - Interactive explination of sine and cosine.
 - [Perlin Noise](https://eev.ee/blog/2016/05/29/perlin-noise/) - Perlin noise explained in detail.
 - [Vector Math for 3D Computer Graphics](http://programmedlessons.org/VectorLessons/) - Tutorial on vector algebra and matrix algebra from the viewpoint of computer graphics.
+- [Desmos](https://www.desmos.com/) - Graph functions, plot data, evaluate equations, explore transformations, and much more.
 
 ## Machine learning • Computer Vision • Ai
 
