@@ -334,6 +334,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/started.html) - Deep Learning in your browser.
 - [Wekinator](http://www.wekinator.org/) - Allows anyone to use machine learning.
 - [Machine Learning](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
+- [CreativeAi.net](http://www.creativeai.net/) - Space to share creative Ai projects.
 
 ## Inspiration
 
