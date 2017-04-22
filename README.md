@@ -15,6 +15,7 @@ Creative coding is a different discipline than programming systems in which the 
 ## Contents
   <ul>
   <li><a href="#books">Books</a></li>
+  <li><a href="#online-books">Online Books</a></li>
   <li><a href="#courses">Courses</a></li>
   <li>
     <a href="#tools">Tools</a>
@@ -66,13 +67,9 @@ Creative coding is a different discipline than programming systems in which the 
 - [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - Practical guide using Processing.
 - [Generative Design](http://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
 - [The Nature of Code](http://natureofcode.com/) - Simulating natural systems with Processing.
-- [The Book of Shaders](https://thebookofshaders.com/) - Step-by-step guide through the abstract and complex universe of fragment shaders.
 - [Programming Design Systems](https://programmingdesignsystems.com/) - Practical introduction to the new foundations of graphic design.
-- [Pixel Shaders](http://pixelshaders.com/) - Interactive Introduction to Graphics Programming.
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - Series of tutorials on using OpenGL to do graphical rendering.
-- [Scratchapixel 2.0](http://www.scratchapixel.com/) - Learn Computer Graphics From Scratch.
 - [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) - Designer's Guide to Processing, Arduino, and openFrameworks.
-- [ofBook](http://openframeworks.cc/ofBook/chapters/foreword.html) - Community-written book/guide on openFrameworks.
 - [openFrameworks Essentials](https://www.packtpub.com/application-development/openframeworks-essentials) - openFrameworks beginner Guide for programmer, visual artist, or designer.
 - [Mastering openFrameworks: Creative Coding Demystified](https://www.packtpub.com/application-development/mastering-openframeworks-creative-coding-demystified) - Advanced in depth guide to openFrameworks.
 - [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/Algorithms-Visual-Design-Processing-Language/dp/0470375485) - Experiment with design problems to create 3D animations, GUIs, and more.
@@ -85,6 +82,18 @@ Creative coding is a different discipline than programming systems in which the 
 - [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Third-Tomas-Akenine-Moller/dp/1568814240) - Learn how to use modern techniques to generate synthetic three-dimensional images in a fraction of a second.
 - [Graphics Shaders: Theory and Practice](https://www.amazon.com/Graphics-Shaders-Theory-Practice-Second/dp/1568814348/) - Introduction to shader programming in general, but focusing on the GLSL shading language.
 
+## Online Books
+
+- [The Book of Shaders](https://thebookofshaders.com/) - Step-by-step guide through the abstract and complex universe of fragment shaders.
+- [WebGL Fundamentals](http://webglfundamentals.org/) - WebGL from the ground up. No magic.
+- [WebGL 2 Fundamentals](http://webgl2fundamentals.org/) - WebGL2 from the ground up. No magic.
+- [Learn OpenGL](https://learnopengl.com/) - Extensive tutorial resource for learning Modern OpenGL.
+- [Scratchapixel 2.0](http://www.scratchapixel.com/) - Learn Computer Graphics From Scratch.
+- [ofBook](http://openframeworks.cc/ofBook/chapters/foreword.html) - Community-written book/guide on openFrameworks.
+- [OGLdev](http://ogldev.atspace.co.uk/) - Collection of modern OpenGL tutorials by Etay Meiri.
+- [OpenGL Tutorial](http://www.opengl-tutorial.org/) - Site dedicated to tutorials for OpenGL 3.3 and later.
+- [Open.gl](https://open.gl/) - Guide that teach you the basics of using OpenGL.
+- [Pixel Shaders](http://pixelshaders.com/) - Interactive Introduction to Graphics Programming.
 
 ## Courses
 
@@ -206,8 +215,6 @@ Creative coding is a different discipline than programming systems in which the 
 
 #### Shaders • OpenGL • WebGL
 
-- [Learn OpenGL](https://learnopengl.com/) - Extensive tutorial resource for learning Modern OpenGL.
-- [WebGL 2 Fundamentals](http://webgl2fundamentals.org/) - WebGL2 from the ground up. No magic.
 - [Introduction to shaders](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/) - Part 1 of an introduction to shaders using threejs.
 - [Three.js 101](https://medium.com/@necsoft/three-js-101-hello-world-part-1-443207b1ebe1) - Introduction to three.js from a creative coder perspective.
 - [Experimenting with Three.js shaders and the ShaderMaterial](http://blog.2pha.com/experimenting-threejs-shaders-and-shadermaterial) - Introduction to custom mesh shader materials.
@@ -232,12 +239,11 @@ Creative coding is a different discipline than programming systems in which the 
 - [Volumetric rendering](http://www.alanzucconi.com/2016/07/01/volumetric-rendering/) - Explains how to create complex 3D shapes inside volumetric shaders.
 - [Real-time Rendering](http://www.realtimerendering.com/) - Book, blog and collection of resources regarding real-time rendering.
 - [OpenGL 4 Shaders](http://antongerdelan.net/opengl/shaders.html) - Short and sweet introduction to OpenGL shaders by Anton Gerdelan.
-- [OGLdev](http://ogldev.atspace.co.uk/) - Collection of modern OpenGL tutorials by Etay Meiri.
-- [OpenGL Tutorial](http://www.opengl-tutorial.org/) - Site is dedicated to tutorials for OpenGL 3.3 and later.
 - [On ray casting, ray tracing, ray marching and the like](http://www.hugi.scene.org/online/hugi37/hugi%2037%20-%20coding%20adok%20on%20ray%20casting,%20ray%20tracing,%20ray%20marching%20and%20the%20like.htm) - The title says it all. Introduction by Adok.
 - [Sun and Black Cat](http://sunandblackcat.com/other.php?l=eng) - Articles on shaders and other computer graphics related topics.
 - [Writing a small software renderer](http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html) - Really good introduction to how basic software rendering works.
 - [WebGL Tutorials](http://www.webgltutorials.org/) - Website with a really good collection of WebGL tutorials.
+
 
 #### Canvas
 
@@ -273,7 +279,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Shaderific GLSL](http://www.shaderific.com/glsl/) - OpenGL ES shading language reference.
 - [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) - Shader glossary by theme.
 - [gltut glossary pages: 1](https://paroj.github.io/gltut/Basics/Intro%20Glossary.html), [2](https://paroj.github.io/gltut/Basics/Tut01%20Glossary.html), [3](https://paroj.github.io/gltut/Basics/Tut02%20Glossary.html), [4](https://paroj.github.io/gltut/Positioning/Tut04%20Glossary.html), [5](https://paroj.github.io/gltut/Positioning/Tut05%20Glossary.html), [6](https://paroj.github.io/gltut/Positioning/Tut06%20Glossary.html), [7](https://paroj.github.io/gltut/Positioning/Tut07%20Glossary.html), [8](https://paroj.github.io/gltut/Positioning/Tut08%20Glossary.html) - OpenGL 3D programming glossary.
-- [Canvas Cheatsheet](https://skilled.co/html-canvas/images/HTML_Canvas_Cheatsheet.pdf) - Quick and visual canvas cheatsheet. 
+- [Canvas Cheatsheet](https://skilled.co/html-canvas/images/HTML_Canvas_Cheatsheet.pdf) - Quick and visual canvas cheatsheet.
 - [WebGL Cheatsheet](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API reference card.
 - [Glossary of Computer Graphics](https://en.wikipedia.org/wiki/Glossary_of_computer_graphics) - Glossary of terms relating computer graphics.
 - [GLSL Reference Guide](http://www.cs.cmu.edu/afs/cs/academic/class/15462-f10/www/lec_slides/glslref.pdf) - OpenGL Shading Language quick reference guide.
@@ -373,7 +379,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [bit-101.com](http://www.bit-101.com/blog/) - Blog by Keith Peters, specialised in creative coding.
 - [IBreakDownShaders](http://ibreakdownshaders.blogspot.com.au/) - Explore the math behind shaders.
 - [Adrian Courrèges](http://www.adriancourreges.com/blog/) - Blog of software engineer Adrian Courrèges. Articles about game graphics studies etc.
-- [Click to Release](https://www.clicktorelease.com) - Home of Jaume Sanchez Elias, with demos, talks, articles on WebGL and WebVR. 
+- [Click to Release](https://www.clicktorelease.com) - Home of Jaume Sanchez Elias, with demos, talks, articles on WebGL and WebVR.
 
 ## Related
 
