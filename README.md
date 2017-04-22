@@ -331,7 +331,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Vector Math for 3D Computer Graphics](http://programmedlessons.org/VectorLessons/) - Tutorial on vector algebra and matrix algebra from the viewpoint of computer graphics.
 - [Desmos](https://www.desmos.com/) - Graph functions, plot data, evaluate equations, explore transformations, and much more.
 - [MFGD](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWNQjMz941uyOIq3Nw6bcDYC) - Math for game developers YouTube playlist.
- 
+
 
 ## Machine learning • Computer Vision • Ai
 
@@ -344,6 +344,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Wekinator](http://www.wekinator.org/) - Allows anyone to use machine learning.
 - [Machine Learning](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 - [CreativeAi.net](http://www.creativeai.net/) - Space to share creative Ai projects.
+
 
 ## Inspiration
 
@@ -382,6 +383,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [IBreakDownShaders](http://ibreakdownshaders.blogspot.com.au/) - Explore the math behind shaders.
 - [Adrian Courrèges](http://www.adriancourreges.com/blog/) - Blog of software engineer Adrian Courrèges. Articles about game graphics studies etc.
 - [Click to Release](https://www.clicktorelease.com) - Home of Jaume Sanchez Elias, with demos, talks, articles on WebGL and WebVR.
+
 
 ## Related
 
