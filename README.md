@@ -132,6 +132,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Vuo](http://vuo.org/) [Mac] - Live interactive-media programming environment.
 - [Max](https://cycling74.com/products/max/) [Mac, Win] - Visual programming language for media.
 - [Pure Data](https://puredata.info/) [Cross-platform] - Open source visual programming language for multimedia.
+- [i-score](http://www.i-score.org) [Cross-platform] - Interactive sequencer to control creative coding libraries and toolkits.
 
 ### Sound Programming Languages
 
@@ -184,7 +185,6 @@ Creative coding is a different discipline than programming systems in which the 
 ### Other
 
 - [Structure Synth](http://structuresynth.sourceforge.net/) [Cross-platform] - Application for generating 3D structures by specifying a design grammar.
-- [i-score](http://www.i-score.org) [Cross-platform] - Interactive sequencer to control creative coding libraries and toolkits.
 - [F3](http://www.syedrezaali.com/f3-mac-app/) [Mac] - Powerful 3D design app that enables you to live code 3D form.
 - [Fragment](http://www.syedrezaali.com/store/fragment-osx-app) [Mac]- App to live code GLSL graphics.
 - [ShaderTool](http://store.steampowered.com/app/314720/) [Win] - Modern shader IDE for programmers and FX artists.
