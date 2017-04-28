@@ -190,6 +190,8 @@ Creative coding is a different discipline than programming systems in which the 
 - [ShaderTool](http://store.steampowered.com/app/314720/) [Win] - Modern shader IDE for programmers and FX artists.
 - [Syphon](http://syphon.v002.info/) [Mac] - Allows applications to share frames with one another in realtime.
 - [KodeLife](https://hexler.net/software/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
+- [libossia](https://github.com/OSSIA/libossia) - A C++ library for remote communication between creative coding software.
+- [qml-creative-controls](https://github.com/jcelerier/qml-creative-controls) - A QML library to create control surfaces for interactive applications. 
 
 
 ## Learning Resources
