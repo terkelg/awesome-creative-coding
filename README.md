@@ -110,6 +110,9 @@ Creative coding is a different discipline than programming systems in which the 
 - [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming) - Use JavaScript and the ProcessingJS library to create drawings and animations.
 - [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) - Combine JS, ProcessingJS, and mathematical concepts to simulate nature in your programs
 - [Interactive Data Visualization with Processing](https://www.lynda.com/Processing-tutorials/Interactive-Data-Visualization-Processing/97578-2.html) - Learn how to read, map, and illustrate data with Processing.
+- [Programming Data Visualizations: A Coding Toolkit for Processing](https://www.skillshare.com/classes/Programming-Data-Visualizations-A-Coding-Toolkit-for-Processing/1782124914) - Join information designer Nicholas Felton in the world of Processing.
+- [Introduction to Data Visualization](https://www.skillshare.com/classes/Introduction-to-Data-Visualization-From-Data-to-Design/1435958330) - Join Nicholas Felton for a smart, comprehensive, and inspiring intro to data visualization.
+- [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - Learn generative art and Processing with art with Joshua Davis.
 
 
 ## Tools
@@ -368,6 +371,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Echophon](http://echophon.tumblr.com/) - Tumblr with visual inspiration.
 - [Bees & Bombs](https://beesandbombs.tumblr.com/) - Tumblr with gifs by Dave.
 - [DevArt](https://devart.withgoogle.com/) - Celebration of art made with code by artists that push the possibilities of creativity.
+- [Folds2d](http://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
 
 
 ## Events
