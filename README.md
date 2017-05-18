@@ -353,6 +353,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Wekinator](http://www.wekinator.org/) - Allows anyone to use machine learning.
 - [Machine Learning](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 - [CreativeAi.net](http://www.creativeai.net/) - Space to share creative Ai projects.
+- [AI Playbook](http://aiplaybook.a16z.com/) - Ai microsite intended to help newcomers get started.
 
 
 ## Inspiration
