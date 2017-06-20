@@ -194,7 +194,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [ShaderTool](http://store.steampowered.com/app/314720/) [Win] - Modern shader IDE for programmers and FX artists.
 - [Syphon](http://syphon.v002.info/) [Mac] - Allows applications to share frames with one another in realtime.
 - [KodeLife](https://hexler.net/software/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
-
+- [ISF](https://www.interactiveshaderformat.com/) - GLSL shaders for use in interactive applications.
 
 ## Learning Resources
 
