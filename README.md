@@ -391,11 +391,11 @@ Creative coding is a different discipline than programming systems in which the 
 - [abandonedart.org](http://abandonedart.org/) - Generative art blog by Matt Pearso. Good for inspiration.
 - [iquilezles.org](http://www.iquilezles.org) - Home of Íñigo Quílez, specialised in GLSL and math snippets.
 - [bit-101.com](http://www.bit-101.com/blog/) - Blog by Keith Peters, specialised in creative coding.
-- [IBreakDownShaders](http://ibreakdownshaders.blogspot.com.au/) - Explore the math behind shaders.
-- [Adrian Courrèges](http://www.adriancourreges.com/blog/) - Blog of software engineer Adrian Courrèges. Articles about game graphics studies etc.
-- [Click to Release](https://www.clicktorelease.com) - Home of Jaume Sanchez Elias, with demos, talks, articles on WebGL and WebVR.
-- [Syntopia](http://blog.hvidtfeldts.net/) - Blog about generative art and systems, by Mikael Hvidtfeldt Christensen.
-
+- [ibreakdownshaders](http://ibreakdownshaders.blogspot.com.au/) - Explore the math behind shaders.
+- [adriancourrèges.com](http://www.adriancourreges.com/blog/) - Blog of software engineer Adrian Courrèges. Articles about game graphics studies etc.
+- [clicktorelease.com](https://www.clicktorelease.com) - Home of Jaume Sanchez Elias, with demos, talks, articles on WebGL and WebVR.
+- [syntopia](http://blog.hvidtfeldts.net/) - Blog about generative art and systems, by Mikael Hvidtfeldt Christensen.
+- [madebyevan.com](http://madebyevan.com/) - WebGL experiments and articles by Evan Wallace.
 
 ## Related
 
