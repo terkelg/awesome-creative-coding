@@ -394,6 +394,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [IBreakDownShaders](http://ibreakdownshaders.blogspot.com.au/) - Explore the math behind shaders.
 - [Adrian Courrèges](http://www.adriancourreges.com/blog/) - Blog of software engineer Adrian Courrèges. Articles about game graphics studies etc.
 - [Click to Release](https://www.clicktorelease.com) - Home of Jaume Sanchez Elias, with demos, talks, articles on WebGL and WebVR.
+- [Syntopia](http://blog.hvidtfeldts.net/) - Blog about generative art and systems, by Mikael Hvidtfeldt Christensen.
 
 
 ## Related
