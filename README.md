@@ -388,6 +388,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Eyeo Festival](http://eyeofestival.com/) - Bring together creative coders, data designers and creators working at the intersection of data, art and technology.
 - [Mutek](http://www.mutek.org/en) - Organization dedicated to digital creativity in sound, music, and audio-visual art.
 - [Node](https://nodeforum.org/) - An open platform for the exchange on culture, arts and technology.
+- [Digital Design Days - OFFF](http://www.ddd.it/en) - 3 day event offering conferences, workshops, digital showcases & installations.
 
 
 ## Blogs • Websites
