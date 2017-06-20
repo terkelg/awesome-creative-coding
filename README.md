@@ -312,6 +312,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [r/processing](https://www.reddit.com/r/processing/) - Subreddit on Processing.
 - [r/shaders](https://www.reddit.com/r/shaders/) - Subreddit on shaders.
 - [r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/) - Subreddit on procedural generation.
+- [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - Subreddit on machine learning.
 
 ### Slack
 
@@ -403,6 +404,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [syntopia](http://blog.hvidtfeldts.net/) - Blog about generative art and systems, by Mikael Hvidtfeldt Christensen.
 - [madebyevan.com](http://madebyevan.com/) - WebGL experiments and articles by Evan Wallace.
 - [songho.ca](http://www.songho.ca/) - Home of Song Ho Ahn, with a good collection of tutorials on OpenGL and math.
+- [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design triks by Simon schreibt.
 
 ## Related
 
