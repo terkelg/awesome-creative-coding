@@ -350,6 +350,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/index.html) - Beautiful and visual introduction to math and quasi physics.
 - [Gene Kogan: Perlin Noise](http://genekogan.com/code/p5js-perlin-noise/) - introduction to 2D and 3D perlin noise.
 - [Matrix Math and You](https://medium.com/@Zadvorsky/into-vertex-shaders-addendum-1-matrix-math-and-you-565a51094472) - High level introduction to matrices.
+- [Mathematical Symbols](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm) - List of all mathematical symbols and signs.
 
 ## Machine learning • Computer Vision • Ai
 
