@@ -348,6 +348,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Mathematics of Animation](https://winkervsbecks.github.io/mathematics-of-animation/#/) - Slides about the mathematics of animation ([repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
 - [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/index.html) - Beautiful and visual introduction to math and quasi physics.
 - [Gene Kogan: Perlin Noise](http://genekogan.com/code/p5js-perlin-noise/) - introduction to 2D and 3D perlin noise.
+- [Matrix Math and You](https://medium.com/@Zadvorsky/into-vertex-shaders-addendum-1-matrix-math-and-you-565a51094472) - High level introduction to matrices.
 
 ## Machine learning • Computer Vision • Ai
 
