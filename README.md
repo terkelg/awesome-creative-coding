@@ -59,6 +59,7 @@ Creative coding is a different discipline than programming systems in which the 
   <li><a href="#machine-learning--computer-vision--ai">Machine learning • Computer Vision • Ai</a></li>
   <li><a href="#inspiration">Inspiration</a></li>
   <li><a href="#events">Events</a></li>
+  <li><a href="#schools--workshops">Schools • Workshops</a></li>
   <li><a href="#blogs--websites">Blogs • Websites</a></li>
   <li><a href="#related">Related</a></li>
   </ul>
@@ -138,6 +139,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Pure Data](https://puredata.info/) [Cross-platform] - Open source visual programming language for multimedia.
 - [i-score](http://www.i-score.org) [Cross-platform] - Interactive sequencer to control creative coding libraries and toolkits.
 - [Origami Studio](http://origami.design/) [Mac] - A new tool for designing modern interfaces, prototyping and interactions.
+- [tooll](http://tooll.io/) [Win] - Open source tool for creating interactive 3d content and animations.
 
 ### Sound Programming Languages
 
@@ -176,6 +178,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [CodePen](http://codepen.io/) - Show case of advanced techniques with editable source code.
 - [Shadershop](http://www.cdglabs.org/Shadershop/) - Interface for programming GPU shaders.
 - [Vertexshaderart](https://www.vertexshaderart.com/) - Online shader editor and gallery.
+- [Cyos](http://cyos.babylonjs.com/) - Online shader editor.
 
 ### Hardware
 - [Arduino](https://www.arduino.cc/) - Open source microcontroller kits for building digital devices and interactive objects.
@@ -396,7 +399,14 @@ Creative coding is a different discipline than programming systems in which the 
 - [Mutek](http://www.mutek.org/en) - Organization dedicated to digital creativity in sound, music, and audio-visual art.
 - [Node](https://nodeforum.org/) - An open platform for the exchange on culture, arts and technology.
 - [Digital Design Days - OFFF](http://www.ddd.it/en) - 3 day event offering conferences, workshops, digital showcases & installations.
+- [CODAME ART+TECH](http://codame.com/) - Projects and nonprofit events, to inspire through experience.
 
+
+## Schools • Workshops
+
+- [School for Poetic Computation](http://sfpc.io/) - School in New York that explore the intersections of code, design, hardware and theory.
+- [Copenhagen Institute of Interaction Design](http://ciid.dk/) - Hosts a range of educational initiatives, most notably, the Interaction Design Programme and the CIID Summer School.
+- [Residencies, Fellowships, Summer Schools](https://docs.google.com/spreadsheets/d/1o__WKUBTHLoQX8pSRJsh0wMC8fCGzycQ0ezxe5CklxM/edit?usp=sharing) - Huge list of residencies, fellowships and summer schools around the world (Navigate with the bottom left tabs).
 
 ## Blogs • Websites
 
