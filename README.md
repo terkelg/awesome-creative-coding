@@ -59,6 +59,7 @@ Creative coding is a different discipline than programming systems in which the 
   <li><a href="#machine-learning--computer-vision--ai">Machine learning • Computer Vision • Ai</a></li>
   <li><a href="#inspiration">Inspiration</a></li>
   <li><a href="#events">Events</a></li>
+  <li><a href="#schools--workshops">Schools • Workshops</a></li>
   <li><a href="#blogs--websites">Blogs • Websites</a></li>
   <li><a href="#related">Related</a></li>
   </ul>
@@ -395,6 +396,12 @@ Creative coding is a different discipline than programming systems in which the 
 - [Mutek](http://www.mutek.org/en) - Organization dedicated to digital creativity in sound, music, and audio-visual art.
 - [Node](https://nodeforum.org/) - An open platform for the exchange on culture, arts and technology.
 - [Digital Design Days - OFFF](http://www.ddd.it/en) - 3 day event offering conferences, workshops, digital showcases & installations.
+
+
+## Schools • Workshops
+
+- [School for Poetic Computation](http://sfpc.io/) - School in New York that explore the intersections of code, design, hardware and theory.
+- [Copenhagen Institute of Interaction Design](http://ciid.dk/) - Hosts a range of educational initiatives, most notably, the Interaction Design Programme and the CIID Summer School.
 
 
 ## Blogs • Websites
