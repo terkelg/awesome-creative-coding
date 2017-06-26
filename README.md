@@ -259,6 +259,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Three.js sine animation](http://www.pshkvsky.com/gif2code/sine-animation-tutorial-three-js/) - Learn how to add sine waves to a circle with three.js. ([oF version](http://www.pshkvsky.com/gif2code/sinewaves-animation-tutorial-openframeworks/))
 - [Into Vertex Shaders](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804) - Series of tutorials about WebGL, Three.js, and Three.bas.
 - [The Spaces of WebGL](https://medium.com/@Zadvorsky/into-vertex-shaders-part-1-the-spaces-of-webgl-c70ded527841) - Brief overview over the different coordinate systems through out the 3D graphics pipeline.
+- [WebGL Workshop](http://webgl-workshop.com/) - Short and sweet online introduction to WebGL.
 
 #### Canvas
 
