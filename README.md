@@ -59,6 +59,7 @@ Creative coding is a different discipline than programming systems in which the 
   <li><a href="#machine-learning--computer-vision--ai">Machine learning • Computer Vision • Ai</a></li>
   <li><a href="#inspiration">Inspiration</a></li>
   <li><a href="#events">Events</a></li>
+  <li><a href="#schools--workshops">Schools • Workshops</a></li>
   <li><a href="#blogs--websites">Blogs • Websites</a></li>
   <li><a href="#related">Related</a></li>
   </ul>
@@ -81,6 +82,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Data-driven Graphic Design](https://www.amazon.com/dp/1472578309/) - Creative Coding for Visual Communication.
 - [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Third-Tomas-Akenine-Moller/dp/1568814240) - Learn how to use modern techniques to generate synthetic three-dimensional images in a fraction of a second.
 - [Graphics Shaders: Theory and Practice](https://www.amazon.com/Graphics-Shaders-Theory-Practice-Second/dp/1568814348/) - Introduction to shader programming in general, but focusing on the GLSL shading language.
+- [Anton's OpenGL 4 Tutorials](https://www.amazon.com/gp/product/B00LAMQYF2/) -  Practical guide to starting 3d programming with OpenGL.
 
 ## Online Books
 
@@ -94,6 +96,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [OpenGL Tutorial](http://www.opengl-tutorial.org/) - Site dedicated to tutorials for OpenGL 3.3 and later.
 - [Open.gl](https://open.gl/) - Guide that teach you the basics of using OpenGL.
 - [Pixel Shaders](http://pixelshaders.com/) - Interactive Introduction to Graphics Programming.
+- [OpenGLBook](http://openglbook.com/) - Free OpenGL programming tutorial in online book format.
 
 ## Courses
 
@@ -110,6 +113,9 @@ Creative coding is a different discipline than programming systems in which the 
 - [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming) - Use JavaScript and the ProcessingJS library to create drawings and animations.
 - [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) - Combine JS, ProcessingJS, and mathematical concepts to simulate nature in your programs
 - [Interactive Data Visualization with Processing](https://www.lynda.com/Processing-tutorials/Interactive-Data-Visualization-Processing/97578-2.html) - Learn how to read, map, and illustrate data with Processing.
+- [Programming Data Visualizations: A Coding Toolkit for Processing](https://www.skillshare.com/classes/Programming-Data-Visualizations-A-Coding-Toolkit-for-Processing/1782124914) - Join information designer Nicholas Felton in the world of Processing.
+- [Introduction to Data Visualization](https://www.skillshare.com/classes/Introduction-to-Data-Visualization-From-Data-to-Design/1435958330) - Join Nicholas Felton for a smart, comprehensive, and inspiring intro to data visualization.
+- [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - Learn generative art and Processing with art with Joshua Davis.
 
 
 ## Tools
@@ -132,6 +138,8 @@ Creative coding is a different discipline than programming systems in which the 
 - [Vuo](http://vuo.org/) [Mac] - Live interactive-media programming environment.
 - [Max](https://cycling74.com/products/max/) [Mac, Win] - Visual programming language for media.
 - [Pure Data](https://puredata.info/) [Cross-platform] - Open source visual programming language for multimedia.
+- [i-score](http://www.i-score.org) [Cross-platform] - Interactive sequencer to control creative coding libraries and toolkits.
+- [tooll](http://tooll.io/) [Win] - Open source tool for creating interactive 3d content and animations.
 
 ### Sound Programming Languages
 
@@ -170,6 +178,9 @@ Creative coding is a different discipline than programming systems in which the 
 - [CodePen](http://codepen.io/) - Show case of advanced techniques with editable source code.
 - [Shadershop](http://www.cdglabs.org/Shadershop/) - Interface for programming GPU shaders.
 - [Vertexshaderart](https://www.vertexshaderart.com/) - Online shader editor and gallery.
+- [Cyos](http://cyos.babylonjs.com/) - Online shader editor.
+- [GlslEditor](http://editor.thebookofshaders.com/) - Simple WebGL Fragment Shader Editor.
+- [OpenProcessing](https://www.openprocessing.org/) -  Create and experiment with algorithmic design, Processing and P5.js.
 
 ### Hardware
 - [Arduino](https://www.arduino.cc/) - Open source microcontroller kits for building digital devices and interactive objects.
@@ -184,13 +195,12 @@ Creative coding is a different discipline than programming systems in which the 
 ### Other
 
 - [Structure Synth](http://structuresynth.sourceforge.net/) [Cross-platform] - Application for generating 3D structures by specifying a design grammar.
-- [i-score](http://www.i-score.org) [Cross-platform] - Interactive sequencer to control creative coding libraries and toolkits.
 - [F3](http://www.syedrezaali.com/f3-mac-app/) [Mac] - Powerful 3D design app that enables you to live code 3D form.
 - [Fragment](http://www.syedrezaali.com/store/fragment-osx-app) [Mac]- App to live code GLSL graphics.
 - [ShaderTool](http://store.steampowered.com/app/314720/) [Win] - Modern shader IDE for programmers and FX artists.
 - [Syphon](http://syphon.v002.info/) [Mac] - Allows applications to share frames with one another in realtime.
 - [KodeLife](https://hexler.net/software/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
-
+- [ISF](https://www.interactiveshaderformat.com/) - GLSL shaders for use in interactive applications.
 
 ## Learning Resources
 
@@ -204,6 +214,8 @@ Creative coding is a different discipline than programming systems in which the 
 - [Fun with WebGL 2.0](https://www.youtube.com/watch?v=LtFujAtKM5I&list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF) - YouTube playlist about WebGL 2.0.
 - [Modern OpenGL 3.0+ Tutorials](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) - YouTube playlist about modern OpenGL.
 - [Vertexshaderart](https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw) - YouTube playlist about vertex shaders.
+- [Diving in Three.js](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf) - YouTube playlist diving into three.js.
+- [Shadertoy Tutorials](https://www.youtube.com/watch?v=u5HAYVHsasc&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5) - YouTube playlist teaching you how to make shaders, starting with zero knowledge using shadertoy.
 
 ### Talks
 
@@ -246,7 +258,11 @@ Creative coding is a different discipline than programming systems in which the 
 - [Sun and Black Cat](http://sunandblackcat.com/other.php?l=eng) - Articles on shaders and other computer graphics related topics.
 - [Writing a small software renderer](http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html) - Really good introduction to how basic software rendering works.
 - [WebGL Tutorials](http://www.webgltutorials.org/) - Website with a really good collection of WebGL tutorials.
-
+- [Generating Geometry: 1](http://codepen.io/mcdorli/post/generating-geometry-part-1-basics), [2](http://codepen.io/mcdorli/post/generating-geometry-part-2-going-3d), [3](http://codepen.io/mcdorli/post/generating-geometry-part-3-getting-spherical) - Beginner introduction on how to create geometry object.
+- [Three.js sine animation](http://www.pshkvsky.com/gif2code/sine-animation-tutorial-three-js/) - Learn how to add sine waves to a circle with three.js. ([oF version](http://www.pshkvsky.com/gif2code/sinewaves-animation-tutorial-openframeworks/))
+- [Into Vertex Shaders](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804) - Series of tutorials about WebGL, Three.js, and Three.bas.
+- [The Spaces of WebGL](https://medium.com/@Zadvorsky/into-vertex-shaders-part-1-the-spaces-of-webgl-c70ded527841) - Brief overview over the different coordinate systems through out the 3D graphics pipeline.
+- [WebGL Workshop](http://webgl-workshop.com/) - Short and sweet online introduction to WebGL.
 
 #### Canvas
 
@@ -304,16 +320,19 @@ Creative coding is a different discipline than programming systems in which the 
 - [r/processing](https://www.reddit.com/r/processing/) - Subreddit on Processing.
 - [r/shaders](https://www.reddit.com/r/shaders/) - Subreddit on shaders.
 - [r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/) - Subreddit on procedural generation.
+- [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - Subreddit on machine learning.
 
 ### Slack
 
 - [Creative-Dev Slack](https://creative-dev.herokuapp.com/) - Creative Development Slack.
 - [Generative Art Slack](https://genart.herokuapp.com/) - Generative Art Slack.
+- [Creative Coding Club](http://creative-coding-club.slack.com/) - Creative Coding Club Slack.
 
 ### Other
 
 - [The Creative Coding Podcast](http://creativecodingpodcast.com/) - Iain and Seb discuss the ins and outs of creative coding.
 - [realtimevfx.com](https://realtimevfx.com/) - Real Time VFX Community.
+- [Data Stories](http://datastori.es/) - Podcast on data visualization.
 
 
 ## Math
@@ -336,7 +355,10 @@ Creative coding is a different discipline than programming systems in which the 
 - [MFGD](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWNQjMz941uyOIq3Nw6bcDYC) - Math for game developers YouTube playlist.
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Essence of linear algebra YouTube playlist.
 - [Mathematics of Animation](https://winkervsbecks.github.io/mathematics-of-animation/#/) - Slides about the mathematics of animation ([repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
-
+- [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/index.html) - Beautiful and visual introduction to math and quasi physics.
+- [Gene Kogan: Perlin Noise](http://genekogan.com/code/p5js-perlin-noise/) - introduction to 2D and 3D perlin noise.
+- [Matrix Math and You](https://medium.com/@Zadvorsky/into-vertex-shaders-addendum-1-matrix-math-and-you-565a51094472) - High level introduction to matrices.
+- [Mathematical Symbols](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm) - List of all mathematical symbols and signs.
 
 ## Machine learning • Computer Vision • Ai
 
@@ -349,6 +371,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Wekinator](http://www.wekinator.org/) - Allows anyone to use machine learning.
 - [Machine Learning](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 - [CreativeAi.net](http://www.creativeai.net/) - Space to share creative Ai projects.
+- [AI Playbook](http://aiplaybook.a16z.com/) - Ai microsite intended to help newcomers get started.
 
 
 ## Inspiration
@@ -367,6 +390,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Echophon](http://echophon.tumblr.com/) - Tumblr with visual inspiration.
 - [Bees & Bombs](https://beesandbombs.tumblr.com/) - Tumblr with gifs by Dave.
 - [DevArt](https://devart.withgoogle.com/) - Celebration of art made with code by artists that push the possibilities of creativity.
+- [Folds2d](http://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
 
 
 ## Events
@@ -378,17 +402,28 @@ Creative coding is a different discipline than programming systems in which the 
 - [Eyeo Festival](http://eyeofestival.com/) - Bring together creative coders, data designers and creators working at the intersection of data, art and technology.
 - [Mutek](http://www.mutek.org/en) - Organization dedicated to digital creativity in sound, music, and audio-visual art.
 - [Node](https://nodeforum.org/) - An open platform for the exchange on culture, arts and technology.
+- [Digital Design Days - OFFF](http://www.ddd.it/en) - 3 day event offering conferences, workshops, digital showcases & installations.
+- [CODAME ART+TECH](http://codame.com/) - Projects and nonprofit events, to inspire through experience.
 
+
+## Schools • Workshops
+
+- [School for Poetic Computation](http://sfpc.io/) - School in New York that explore the intersections of code, design, hardware and theory.
+- [Copenhagen Institute of Interaction Design](http://ciid.dk/) - Hosts a range of educational initiatives, most notably, the Interaction Design Programme and the CIID Summer School.
+- [Residencies, Fellowships, Summer Schools](https://docs.google.com/spreadsheets/d/1o__WKUBTHLoQX8pSRJsh0wMC8fCGzycQ0ezxe5CklxM/edit?usp=sharing) - Huge list of residencies, fellowships and summer schools around the world (Navigate with the bottom left tabs).
 
 ## Blogs • Websites
 
 - [abandonedart.org](http://abandonedart.org/) - Generative art blog by Matt Pearso. Good for inspiration.
 - [iquilezles.org](http://www.iquilezles.org) - Home of Íñigo Quílez, specialised in GLSL and math snippets.
 - [bit-101.com](http://www.bit-101.com/blog/) - Blog by Keith Peters, specialised in creative coding.
-- [IBreakDownShaders](http://ibreakdownshaders.blogspot.com.au/) - Explore the math behind shaders.
-- [Adrian Courrèges](http://www.adriancourreges.com/blog/) - Blog of software engineer Adrian Courrèges. Articles about game graphics studies etc.
-- [Click to Release](https://www.clicktorelease.com) - Home of Jaume Sanchez Elias, with demos, talks, articles on WebGL and WebVR.
-
+- [ibreakdownshaders](http://ibreakdownshaders.blogspot.com.au/) - Explore the math behind shaders.
+- [adriancourrèges.com](http://www.adriancourreges.com/blog/) - Blog of software engineer Adrian Courrèges. Articles about game graphics studies etc.
+- [clicktorelease.com](https://www.clicktorelease.com) - Home of Jaume Sanchez Elias, with demos, talks, articles on WebGL and WebVR.
+- [syntopia](http://blog.hvidtfeldts.net/) - Blog about generative art and systems, by Mikael Hvidtfeldt Christensen.
+- [madebyevan.com](http://madebyevan.com/) - WebGL experiments and articles by Evan Wallace.
+- [songho.ca](http://www.songho.ca/) - Home of Song Ho Ahn, with a good collection of tutorials on OpenGL and math.
+- [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design triks by Simon schreibt.
 
 ## Related
 
