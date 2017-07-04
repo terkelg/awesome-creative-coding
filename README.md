@@ -327,12 +327,14 @@ Creative coding is a different discipline than programming systems in which the 
 - [Creative-Dev Slack](https://creative-dev.herokuapp.com/) - Creative Development Slack.
 - [Generative Art Slack](https://genart.herokuapp.com/) - Generative Art Slack.
 - [Creative Coding Club](http://creative-coding-club.slack.com/) - Creative Coding Club Slack.
+- [Creative Coding with Processing and P5.js](http://the-mccc-project.github.io/creative-coding-sign-up/) - Creative Coding with Processing and P5.js Slack.
 
 ### Other
 
 - [The Creative Coding Podcast](http://creativecodingpodcast.com/) - Iain and Seb discuss the ins and outs of creative coding.
 - [realtimevfx.com](https://realtimevfx.com/) - Real Time VFX Community.
 - [Data Stories](http://datastori.es/) - Podcast on data visualization.
+- [Creative Coding with Processing and P5.js](https://www.facebook.com/groups/creativecodingp5/) - Creative Coding with Processing and P5.js Facebook group.
 
 
 ## Math
