@@ -179,6 +179,8 @@ Creative coding is a different discipline than programming systems in which the 
 - [Shadershop](http://www.cdglabs.org/Shadershop/) - Interface for programming GPU shaders.
 - [Vertexshaderart](https://www.vertexshaderart.com/) - Online shader editor and gallery.
 - [Cyos](http://cyos.babylonjs.com/) - Online shader editor.
+- [GlslEditor](http://editor.thebookofshaders.com/) - Simple WebGL Fragment Shader Editor.
+- [OpenProcessing](https://www.openprocessing.org/) -  create and experiment with algorithmic design, Processing and P5.js.
 
 ### Hardware
 - [Arduino](https://www.arduino.cc/) - Open source microcontroller kits for building digital devices and interactive objects.
@@ -324,6 +326,7 @@ Creative coding is a different discipline than programming systems in which the 
 
 - [Creative-Dev Slack](https://creative-dev.herokuapp.com/) - Creative Development Slack.
 - [Generative Art Slack](https://genart.herokuapp.com/) - Generative Art Slack.
+- [Creative Coding Club](http://creative-coding-club.slack.com/) - Creative Coding Club Slack.
 
 ### Other
 
