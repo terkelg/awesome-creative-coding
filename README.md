@@ -361,6 +361,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Gene Kogan: Perlin Noise](http://genekogan.com/code/p5js-perlin-noise/) - introduction to 2D and 3D perlin noise.
 - [Matrix Math and You](https://medium.com/@Zadvorsky/into-vertex-shaders-addendum-1-matrix-math-and-you-565a51094472) - High level introduction to matrices.
 - [Mathematical Symbols](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm) - List of all mathematical symbols and signs.
+- [The magnificent 2d matrix](http://ncase.me/matrix/) - Interactive tool to better understand transformation matrices.
 
 ## Machine learning • Computer Vision • Ai
 
