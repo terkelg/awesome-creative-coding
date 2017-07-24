@@ -408,6 +408,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Node](https://nodeforum.org/) - An open platform for the exchange on culture, arts and technology.
 - [Digital Design Days - OFFF](http://www.ddd.it/en) - 3 day event offering conferences, workshops, digital showcases & installations.
 - [CODAME ART+TECH](http://codame.com/) - Projects and nonprofit events, to inspire through experience.
+- [Curated Creative Events](http://events.thesupply.com/) - Hand-picked design, code, art, fashion and maker events.
 
 
 ## Schools • Workshops
