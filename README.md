@@ -132,6 +132,7 @@ Creative coding is a different discipline than programming systems in which the 
 
 ### Visual Programming Languages
 
+- [Isadora](https://troikatronix.com/) [Mac, Win] - Show control and visual programming environment for interactive artwork.
 - [vvvv](https://vvvv.org/) [Mac, Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
 - [NodeBox](https://www.nodebox.net/node/) [Mac, Win] - Cross-platform, node-based GUI for efficient data visualizations and generative design.
 - [TouchDesigner](http://www.derivative.ca/) [Mac, Win] - Visual development platform to create realtime projects.
