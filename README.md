@@ -383,6 +383,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [OpenProcessing](https://www.openprocessing.org/) - Algorithmic Designs Created with Processing, p5js and processingjs.
 - [Dwitter](https://www.dwitter.net/) - Social network for short JavaScript demos.
 - [Chrome Experiments](https://www.chromeexperiments.com/) - Showcase of web experiments written by the creative coding community.
+- [Google Arts Experiments](https://artsexperiments.withgoogle.com)- Showcase of arts and culture experiments by creative coders from Google.
 - [Codedoodl.es](http://codedoodl.es/) - Showcase of curated creative coding sketches.
 - [For your Processing](http://fyprocessing.tumblr.com/) - Projects and tutorials about Processing.
 - [Art From Code](http://www.artfromcode.com/) - Code sketches by Keith Peters.
