@@ -265,6 +265,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [The Spaces of WebGL](https://medium.com/@Zadvorsky/into-vertex-shaders-part-1-the-spaces-of-webgl-c70ded527841) - Brief overview over the different coordinate systems through out the 3D graphics pipeline.
 - [WebGL Workshop](http://webgl-workshop.com/) - Short and sweet online introduction to WebGL.
 - [THREE.js & instanced geometry](http://barradeau.com/blog/?p=1109) - Fluffy predator with three.js and instanced geometry.
+- [Particle Effects via Billboards](http://www.chinedufn.com/webgl-particle-effect-billboard-tutorial/) - How to create a particle effects with billboarding and WebGL.
 
 #### Canvas
 
