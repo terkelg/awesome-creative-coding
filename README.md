@@ -98,6 +98,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Open.gl](https://open.gl/) - Guide that teach you the basics of using OpenGL.
 - [Pixel Shaders](http://pixelshaders.com/) - Interactive Introduction to Graphics Programming.
 - [OpenGLBook](http://openglbook.com/) - Free OpenGL programming tutorial in online book format.
+- [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html) - Book about 3D computational graphics by Morgan McGuire.
 
 ## Courses
 
