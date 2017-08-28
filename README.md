@@ -297,6 +297,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Raymarch Tutorial2](https://www.shadertoy.com/view/XlBGDW) - Shadertoy raymarch tutorial.
 - [GLSL 2D Tutorials](https://www.shadertoy.com/view/Md23DV) - Shadertoy GLSL 2D Tutorial.
 - [Bubble Breakdown](http://mrl.nyu.edu/~perlin/bubble_breakdown/) - Shader breakdown by Perlin.
+- [Let's Make A Ray Marcher](https://www.shadertoy.com/view/MdBfRK) - Interactive Shader-Toy on writing a ray marcher.
 
 
 ### Quick References • Cheatsheets
@@ -401,6 +402,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Bees & Bombs](https://beesandbombs.tumblr.com/) - Tumblr with gifs by Dave.
 - [DevArt](https://devart.withgoogle.com/) - Celebration of art made with code by artists that push the possibilities of creativity.
 - [Folds2d](http://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
+- [W:BLUT Inspiration](http://inspiration.wblut.com/) - Collection of gifs, links and images by W:Blut.
 
 
 ## Events
@@ -415,6 +417,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Digital Design Days - OFFF](http://www.ddd.it/en) - 3 day event offering conferences, workshops, digital showcases & installations.
 - [CODAME ART+TECH](http://codame.com/) - Projects and nonprofit events, to inspire through experience.
 - [Curated Creative Events](http://events.thesupply.com/) - Hand-picked design, code, art, fashion and maker events.
+- [NextArt Night](https://nextart.tech/) - Inspiring people through creative uses of tech.
 
 
 ## Schools • Workshops
