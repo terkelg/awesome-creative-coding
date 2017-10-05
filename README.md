@@ -204,6 +204,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Syphon](http://syphon.v002.info/) [Mac] - Allows applications to share frames with one another in realtime.
 - [KodeLife](https://hexler.net/software/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
 - [ISF](https://www.interactiveshaderformat.com/) - GLSL shaders for use in interactive applications.
+- [glslViewer](http://patriciogonzalezvivo.com/2015/glslViewer/) - Live-coding console tool that renders GLSL Shaders.
 
 ## Learning Resources
 
@@ -270,6 +271,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Particle Effects via Billboards](http://www.chinedufn.com/webgl-particle-effect-billboard-tutorial/) - How to create a particle effects with billboarding and WebGL.
 - [Beautifully Animate Points with WebGL and regl](https://peterbeshai.com/beautifully-animate-points-with-webgl-and-regl.html) - How to create GPGPU particles with regl.
 - [WebGL Tutorial: Directional Shadow Mapping without extensions](9www.chinedufn.com/webgl-shadow-mapping-tutorial/) - Introduction to the concepts behind real time directional light shadow mapping.
+- [PixelSpirit](http://pixelspiritdeck.com/) - GLSL library on the back of tarot cards, for learning and reference.
 
 #### Canvas
 
