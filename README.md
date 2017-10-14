@@ -143,6 +143,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Pure Data](https://puredata.info/) [Cross-platform] - Open source visual programming language for multimedia.
 - [i-score](http://www.i-score.org) [Cross-platform] - Interactive sequencer to control creative coding libraries and toolkits.
 - [tooll](http://tooll.io/) [Win] - Open source tool for creating interactive 3d content and animations.
+- [XOD](https://xod.io/) [Cross-platform] - Open source visual programming language and environment for microcontroller-based projects.
 
 ### Sound Programming Languages
 
