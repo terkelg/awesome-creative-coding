@@ -185,6 +185,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Cyos](http://cyos.babylonjs.com/) - Online shader editor.
 - [GlslEditor](http://editor.thebookofshaders.com/) - Simple WebGL Fragment Shader Editor.
 - [OpenProcessing](https://www.openprocessing.org/) -  Create and experiment with algorithmic design, Processing and P5.js.
+- [MiniShadertoy](http://xem.github.io/MiniShadertoy/js1k.min.html) - A tiny Shadertoy clone featuring one editable fragment shader and auto-refresh.
 
 ### Hardware
 - [Arduino](https://www.arduino.cc/) - Open source microcontroller kits for building digital devices and interactive objects.
