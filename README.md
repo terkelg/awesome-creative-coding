@@ -280,6 +280,8 @@ Creative coding is a different discipline than programming systems in which the 
 - [WebGL Quest](http://xem.github.io/articles/#webgl_quest_2) - A tutorial and a list of useful resources to use WebGL raymarching and distance functions easily.
 - [Exploring bump mapping with WebGL](http://apoorvaj.io/exploring-bump-mapping-with-webgl.html) - Introduction to different bump mapping techniques.
 - [OpenGL/GLSL Shader Programing](http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programing.
+- [Particles in a Simplex Noise Flow Field](https://codepen.io/DonKarlssonSan/post/particles-in-simplex-noise-flow-field) - Perlin noise flow field tutorial.
+- [Flow Fields, Part 1](https://www.bit-101.com/blog/2017/10/23/flow-fields-part-i/) [Part 2](https://www.bit-101.com/blog/2017/10/28/flow-fields-part-ii/) - Introduction to flow fields also known as vector fields.
 
 #### Canvas
 
