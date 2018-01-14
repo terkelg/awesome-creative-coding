@@ -40,7 +40,7 @@ Creative coding is a different discipline than programming systems in which the 
           <ul>
             <li><a href="#shaders--opengl--webgl">Shaders • OpenGL • WebGL</a></li>
             <li><a href="#canvas">Canvas</a></li>
-            <li><a href="#hardware-2">Hardware</a></li>
+            <li><a href="#hardware-1">Hardware</a></li>
             <li><a href="#other-1">Other</a></li>
           </ul>
       </li>
@@ -303,7 +303,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers.
 - [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Collection of resources on stuff like path-finding, Ai, math etc.
 
-### Hardware
+#### Hardware
 - [Pen Plotter Art & Algorithms Part 1](https://mattdesl.svbtle.com/pen-plotter-1)[Part 2](https://mattdesl.svbtle.com/pen-plotter-2) - How to use the AxiDraw pen plotter with JavaScript.
 
 
