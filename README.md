@@ -188,6 +188,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [OpenProcessing](https://www.openprocessing.org/) -  Create and experiment with algorithmic design, Processing and P5.js.
 
 ### Hardware
+
 - [Arduino](https://www.arduino.cc/) - Open source microcontroller kits for building digital devices and interactive objects.
 - [Raspberry Pi](https://www.raspberrypi.org/) - Small single-board computers.
 - [Intel Edison](https://software.intel.com/en-us/iot/hardware/edison) - Computer-on-module offered by Intel as a development system for wearables and Internet of Things devices.
@@ -196,6 +197,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Makey Makey](http://www.makeymakey.com/) - Turn everyday objects into touchpads and combine them with the internet.
 - [Tessel](https://tessel.io/) - Easy to use microcontroller that runs JavaScript.
 - [Leap Motion](https://www.leapmotion.com/) - Sensor device that supports hand and finger motions as input.
+- [AxiDraw](https://www.axidraw.com/) - Simple, modern, and precise pen plotter.
 
 ### Other
 
