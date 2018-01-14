@@ -291,6 +291,9 @@ Creative coding is a different discipline than programming systems in which the 
 - [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Profound introduction to the canvas API.
 - [31 days of Canvas tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/) - Collection of canvas tutorials by Seb Lee-Delisle.
 
+#### Hardware
+- [Pen Plotter Art & Algorithms Part 1](https://mattdesl.svbtle.com/pen-plotter-1), [2](https://mattdesl.svbtle.com/pen-plotter-2) - How to use the AxiDraw pen plotter with JavaScript.
+
 #### Other
 
 - [Cat Like Coding](http://catlikecoding.com/unity/tutorials/) - In depth tutorials on math, algorithms and Unity.
@@ -302,9 +305,6 @@ Creative coding is a different discipline than programming systems in which the 
 - [Adventures in Game Development World](http://ruh.li/) - Easy to understand collection of articles on game developement, but relevant to creative coding as well.
 - [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers.
 - [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Collection of resources on stuff like path-finding, Ai, math etc.
-
-#### Hardware
-- [Pen Plotter Art & Algorithms Part 1](https://mattdesl.svbtle.com/pen-plotter-1), [2](https://mattdesl.svbtle.com/pen-plotter-2) - How to use the AxiDraw pen plotter with JavaScript.
 
 
 ### Interactive
