@@ -304,7 +304,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Collection of resources on stuff like path-finding, Ai, math etc.
 
 #### Hardware
-- [Pen Plotter Art & Algorithms Part 1](https://mattdesl.svbtle.com/pen-plotter-1)[Part 2](https://mattdesl.svbtle.com/pen-plotter-2) - How to use the AxiDraw pen plotter with JavaScript.
+- [Pen Plotter Art & Algorithms Part 1](https://mattdesl.svbtle.com/pen-plotter-1), [2](https://mattdesl.svbtle.com/pen-plotter-2) - How to use the AxiDraw pen plotter with JavaScript.
 
 
 ### Interactive
