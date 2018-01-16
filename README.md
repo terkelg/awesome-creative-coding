@@ -210,6 +210,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [KodeLife](https://hexler.net/software/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
 - [ISF](https://www.interactiveshaderformat.com/) - GLSL shaders for use in interactive applications.
 - [glslViewer](http://patriciogonzalezvivo.com/2015/glslViewer/) - Live-coding console tool that renders GLSL Shaders.
+- [DrawBot](http://www.drawbot.com/) [Mac] - Education oriented 2d graphics programming environment based on python. 
 
 ## Learning Resources
 
