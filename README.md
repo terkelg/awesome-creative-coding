@@ -192,7 +192,6 @@ Creative coding is a different discipline than programming systems in which the 
 
 - [Arduino](https://www.arduino.cc/) - Open source microcontroller kits for building digital devices and interactive objects.
 - [Raspberry Pi](https://www.raspberrypi.org/) - Small single-board computers.
-- [Intel Edison](https://software.intel.com/en-us/iot/hardware/edison) - Computer-on-module offered by Intel as a development system for wearables and Internet of Things devices.
 - [Puck.js](https://www.puck-js.com/) - Open source JavaScript microcontroller you can program wirelessly.
 - [BeagleBoard](http://beagleboard.org/) - Low-power open source single-board computers.
 - [Makey Makey](http://www.makeymakey.com/) - Turn everyday objects into touchpads and combine them with the internet.
