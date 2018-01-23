@@ -163,6 +163,8 @@ Creative coding is a different discipline than programming systems in which the 
 - [Pixi.js](http://www.pixijs.com/) - HTML 5 2D rendering engine that uses webGL with canvas fallback.
 - [p5.js](https://p5js.org/) - JavaScript library that starts with the original goal of Processing.
 - [Fabric.js](http://fabricjs.com/) - Javascript canvas library, SVG-to-canvas parser.
+- [Maker.js](https://maker.js.org) - Parametric line drawing for SVG, CNC & laser cutters.
+- [OpenJSCAD](https://openjscad.org) - Programmatic 3D modeling in JavaScript.
 - [Sketch.js](http://soulwire.github.io/sketch.js/) - Minimal JavaScript creative coding framework.
 - [Two.js](https://two.js.org/) - Two-dimensional drawing api geared towards modern web browsers.
 
