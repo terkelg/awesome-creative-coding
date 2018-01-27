@@ -292,6 +292,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [31 days of Canvas tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/) - Collection of canvas tutorials by Seb Lee-Delisle.
 
 #### Hardware
+
 - [Pen Plotter Art & Algorithms Part 1](https://mattdesl.svbtle.com/pen-plotter-1), [2](https://mattdesl.svbtle.com/pen-plotter-2) - How to use the AxiDraw pen plotter with JavaScript.
 
 #### Other
@@ -305,6 +306,8 @@ Creative coding is a different discipline than programming systems in which the 
 - [Adventures in Game Development World](http://ruh.li/) - Easy to understand collection of articles on game developement, but relevant to creative coding as well.
 - [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers.
 - [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Collection of resources on stuff like path-finding, Ai, math etc.
+- [Tips to Improve Your Generative Artwork](http://www.tylerlhobbs.com/writings/tips) - Tips to make your art look better.
+- [Working With Color in Generative Art](http://www.tylerlhobbs.com/writings/generative-colors) - Tips on how to get color right.
 
 
 ### Interactive
