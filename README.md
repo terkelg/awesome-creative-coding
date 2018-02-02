@@ -132,6 +132,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [openFrameworks](http://openframeworks.cc/) [Cross-platform] - Open source C++ toolkit for creative coding.
 - [C4](http://www.c4ios.com) [iOS] - Open-source creative coding framework for iOS.
 - [Unity](https://unity3d.com/) [Mac, Win] - Game engine, but useful for creative coding and installations.
+- [PlayCanvas](https://playcanvas.com/) [Cross-platform] - Open source, realtime collaborative WebGL engine.
 - [hg_sdf](http://mercury.sexy/hg_sdf/) [Cross-platform] - GLSL library for building signed distance functions.
 
 ### Visual Programming Languages
