@@ -472,7 +472,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [syntopia](http://blog.hvidtfeldts.net/) - Blog about generative art and systems, by Mikael Hvidtfeldt Christensen.
 - [madebyevan.com](http://madebyevan.com/) - WebGL experiments and articles by Evan Wallace.
 - [songho.ca](http://www.songho.ca/) - Home of Song Ho Ahn, with a good collection of tutorials on OpenGL and math.
-- [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design triks by Simon schreibt.
+- [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon schreibt.
 
 ## Related
 
