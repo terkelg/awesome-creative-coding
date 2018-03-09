@@ -186,7 +186,7 @@ Some projects need a host or server. Here are some options that can be free or l
         - Functions-as-a-Service [_can_ be a low or no cost solution at low traffic levels](https://dev.to/hivickylai/running-a-free-twitter-bot-on-aws-lambda--2pik). 
             - Here's a [cost comparison calculator](http://serverlesscalc.com) that can help you choose a service, but it is not the whole picture. If you need to support incoming web traffic, [AWS API Gateway](https://aws.amazon.com/api-gateway/pricing/) may cost you, making Google Cloud Functions the cheaper option.
             - [Serverless](https://serverless.com) [node.js, Python, more] is a popular code framework for these purposes. It supports multiple backends.
-            - [Zappa](https://github.com/Miserlou/Zappa) [Python] is a "turn-key" way to run a Django or Flask web app on AWS Lambda. Unlike some other FaaS options, you are not coupled to the FaaS architecture so you can host other ways without changing your web app code.
+            - [Zappa](https://github.com/Miserlou/Zappa) [Python] is a "turn-key" way to run a Django or Flask web app on AWS Lambda. This library has minimal coupling to the FaaS aspect, so your web app can run without your cloud provider. [pycloudfn](https://github.com/MartinSahlen/cloud-functions-python) is a similar approach for Google Cloud.
 
 ### Projection Mapping • VJing
 
