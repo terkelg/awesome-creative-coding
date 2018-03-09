@@ -170,6 +170,14 @@ Creative coding is a different discipline than programming systems in which the 
 - [Two.js](https://two.js.org/) - Two-dimensional drawing api geared towards modern web browsers.
 - [ClayGL](http://claygl.xyz/) - WebGL graphic library for building scalable Web3D applications.
 
+#### Hosting
+
+Some projects need a host or server. Here are some options that are low to no cost, at least to start with.
+
+- [Neocities.org](https://neocities.org) - "Neocities is here to bring back the creativity and free expression to the world wide web that made it great." You get to host HTML, CSS, images, and so on. And you get your own subdomain. It's free and funded by donations. You get your own subdomain too! [You can browse other neocities.org sites.](https://neocities.org/browse)
+- [GitHub Pages](https://pages.github.com) - Good for static sites or landing pages.
+- There are free tiers for popular cloud hosting providers including Heroku, Google Cloud, and AWS. 
+
 ### Projection Mapping • VJing
 
 - [MadMapper](http://www.madmapper.com/) [Mac] - Video mapping projections and Light mapping.
