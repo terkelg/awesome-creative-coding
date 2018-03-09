@@ -170,13 +170,21 @@ Creative coding is a different discipline than programming systems in which the 
 - [Two.js](https://two.js.org/) - Two-dimensional drawing api geared towards modern web browsers.
 - [ClayGL](http://claygl.xyz/) - WebGL graphic library for building scalable Web3D applications.
 
-#### Hosting
+#### Web Hosting
 
 Some projects need a host or server. Here are some options that are low to no cost, at least to start with.
 
-- [Neocities.org](https://neocities.org) - "Neocities is here to bring back the creativity and free expression to the world wide web that made it great." You get to host HTML, CSS, images, and so on. And you get your own subdomain. It's free and funded by donations. You get your own subdomain too! [You can browse other neocities.org sites.](https://neocities.org/browse)
-- [GitHub Pages](https://pages.github.com) - Good for static sites or landing pages.
-- There are free tiers for popular cloud hosting providers including Heroku, Google Cloud, and AWS. 
+- Static sites
+    - [Neocities.org](https://neocities.org) - "Neocities is here to bring back the creativity and free expression to the world wide web that made it great." You get to host HTML, CSS, images, and so on. And you get your own subdomain. It's free and funded by donations. You get your own subdomain too! [You can browse other neocities.org sites.](https://neocities.org/browse)
+    - [GitHub Pages](https://pages.github.com) - Good for static sites or landing pages.
+- Need a backend?
+    - There are free tiers for popular cloud hosting providers including Heroku, Google Cloud, and AWS. 
+        - [Heroku free tier](https://www.heroku.com/free)
+        - [Google Cloud AKA App Engine free tier](https://cloud.google.com/free/)
+        - Functions-as-a-Service [_can_ be a low or no cost solution at low traffic levels](https://dev.to/hivickylai/running-a-free-twitter-bot-on-aws-lambda--2pik). 
+            - Here's a [cost comparison calculator](http://serverlesscalc.com) that can help you choose a service, but it is not the whole picture. If you need to support incoming web traffic, [AWS API Gateway](https://aws.amazon.com/api-gateway/pricing/) may cost you, making Google Cloud Functions the cheaper option.
+            - [Serverless](https://serverless.com) [node.js, Python, more] is a popular code framework for these purposes. It supports multiple backends.
+            - [Zappa](https://github.com/Miserlou/Zappa) [Python] is a "turn-key" way to run a Django or Flask web app on AWS Lambda. Unlike some other FaaS options, you are not coupled to the FaaS architecture so you can host other ways without changing your web app code.
 
 ### Projection Mapping • VJing
 
