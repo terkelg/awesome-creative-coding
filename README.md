@@ -4,7 +4,7 @@
 
 > Carefully curated list of awesome [creative coding](https://en.wikipedia.org/wiki/Creative_coding) resources primarily for beginners/intermediates.
 
-Creative coding is a different discipline than programming systems in which the goal is to create something expressive instead of something functional. **Interaction design**, **information visualization** and **generative art** are all different types of creative coding – which has become a household term describing **artworks articulated as code**.
+Creative coding is a different discipline than programming systems. The goal is to create something expressive instead of something functional. **Interaction design**, **information visualization** and **generative art** are all different types of creative coding – which has become a household term describing **artworks articulated as code**.
 
 *You might also like [Graphics resources](https://github.com/mattdesl/graphics-resources) and [Awesome OpenGL](https://github.com/eug/awesome-opengl).*
 
