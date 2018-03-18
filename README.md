@@ -10,60 +10,43 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
-<hr>
+---
 
 ## Contents
-  <ul>
-  <li><a href="#books">Books</a></li>
-  <li><a href="#online-books">Online Books</a></li>
-  <li><a href="#courses">Courses</a></li>
-  <li>
-    <a href="#tools">Tools</a>
-    <ul>
-      <li><a href="#frameworks--libraries--ecosystems">Frameworks • Libraries • Ecosystems</a></li>
-      <li><a href="#visual-programming-languages">Visual Programming Languages</a></li>
-      <li><a href="#sound-programming-languages">Sound Programming Languages</a></li>
-      <li><a href="#web-programming--libraries">Web Programming • Libraries</a></li>
-      <li><a href="#projection-mapping--vjing">Projection Mapping • VJing</a></li>
-      <li><a href="#online">Online</a></li>
-      <li><a href="#hardware">Hardware</a></li>
-      <li><a href="#other">Other</a></li>
-    </ul>
-  </li>
-  <li>
-    <a href="#learning-resources">Learning Resources</a>
-    <ul>
-      <li><a href="#videos">Videos</a></li>
-      <li><a href="#talks">Talks</a></li>
-      <li>
-        <a href="#articles">Articles</a>
-          <ul>
-            <li><a href="#shaders--opengl--webgl">Shaders • OpenGL • WebGL</a></li>
-            <li><a href="#canvas">Canvas</a></li>
-            <li><a href="#hardware-1">Hardware</a></li>
-            <li><a href="#other-1">Other</a></li>
-          </ul>
-      </li>
-      <li><a href="#interactive">Interactive</a></li>
-      <li><a href="#quick-references--cheatsheets">Quick References • Cheat-Sheets</a></li>
-    </ul>
-  </li>
-  <li>
-    <a href="#communities">Communities</a>
-    <ul>
-      <li><a href="#subreddits">Subreddits</a></li>
-      <li><a href="#slack">Slack</a></li>
-      <li><a href="#other-2">Other</a></li>
-    </ul>
-  </li>
-  <li><a href="#math">Math</a></li>
-  <li><a href="#machine-learning--computer-vision--ai">Machine learning • Computer Vision • Ai</a></li>
-  <li><a href="#inspiration">Inspiration</a></li>
-  <li><a href="#events">Events</a></li>
-  <li><a href="#schools--workshops">Schools • Workshops</a></li>
-  <li><a href="#blogs--websites">Blogs • Websites</a></li>
-  <li><a href="#related">Related</a></li>
-  </ul>
+
+- [Books](#books)
+- [Online Books](#online-books)
+- [Courses](#courses)
+- [Tools](#tools)
+  - [Frameworks • Libraries • Ecosystems](#frameworks--libraries--ecosystems)
+  - [Visual Programming Languages](#visual-programming-languages)
+  - [Sound Programming Languages](#sound-programming-languages)
+  - [Web Programming • Libraries](#web-programming--libraries)
+  - [Projection Mapping • VJing](#projection-mapping--vjing)
+  - [Online](#online)
+  - [Hardware](#hardware)
+  - [Other](#other)
+- [Learning Resources](#learning-resources)
+  - [Videos](#videos)
+  - [Talks](#talks)
+  - [Articles](#articles)
+    - [Shaders • OpenGL • WebGL](#shaders--opengl--webgl)
+    - [Canvas](#canvas)
+    - [Hardware](#hardware-1)
+    - [Other](#other-1)
+  - [Interactive](#interactive)
+  - [Quick References • Cheat-Sheets](#quick-references--cheatsheets)
+- [Communities](#communities)
+  - [Subreddits](#subreddits)
+  - [Slack](#slack)
+  - [Other](#other-2)
+- [Math](#math)
+- [Machine learning • Computer Vision • Ai](#machine-learning--computer-vision--ai)
+- [Inspiration](#inspiration)
+- [Events](#events)
+- [Schools • Workshops](#schools--workshops)
+- [Blogs • Websites](#blogs--websites)
+- [Related](#related)
 
 ## Books
 
