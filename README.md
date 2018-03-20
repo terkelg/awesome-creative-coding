@@ -152,6 +152,24 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Two.js](https://two.js.org/) - Two-dimensional drawing api geared towards modern web browsers.
 - [ClayGL](http://claygl.xyz/) - WebGL graphic library for building scalable Web3D applications.
 
+#### Web Hosting
+
+Some projects need a host or server. Here are some options that can be free or low cost.
+
+- Static sites
+    - [Neocities.org](https://neocities.org) - "Neocities is here to bring back the creativity and free expression to the world wide web that made it great." You get to host HTML, CSS, images, and so on. And you get your own subdomain. It's free and funded by donations. You get your own subdomain too! [You can browse other neocities.org sites.](https://neocities.org/browse)
+    - [GitHub Pages](https://pages.github.com) - Good for static sites or landing pages.
+    - [NearlyFreeSpeech.NET](https://www.nearlyfreespeech.net) has cheap static hosting options.
+- Need a backend?
+    - [NearlyFreeSpeech.NET](https://www.nearlyfreespeech.net) — [Pay-as-you go, $0.25 to start, no minimums or monthly fees.](https://www.nearlyfreespeech.net/services/pricing) Tried and true since 2002!
+    - There are free tiers for popular cloud hosting providers including Heroku, Google Cloud, and AWS. 
+        - [Heroku free tier](https://www.heroku.com/free)
+        - [Google Cloud AKA App Engine free tier](https://cloud.google.com/free/)
+        - Functions-as-a-Service [_can_ be a low or no cost solution at low traffic levels](https://dev.to/hivickylai/running-a-free-twitter-bot-on-aws-lambda--2pik). 
+            - Here's a [cost comparison calculator](http://serverlesscalc.com) that can help you choose a service, but it is not the whole picture. If you need to support incoming web traffic, [AWS API Gateway](https://aws.amazon.com/api-gateway/pricing/) may cost you, making Google Cloud Functions the cheaper option.
+            - [Serverless](https://serverless.com) [node.js, Python, more] is a popular code framework for these purposes. It supports multiple backends.
+            - [Zappa](https://github.com/Miserlou/Zappa) [Python] is a "turn-key" way to run a Django or Flask web app on AWS Lambda. This library has minimal coupling to the FaaS aspect, so your web app can run without your cloud provider. [pycloudfn](https://github.com/MartinSahlen/cloud-functions-python) is a similar approach for Google Cloud.
+
 ### Projection Mapping • VJing
 
 - [MadMapper](http://www.madmapper.com/) [Mac] - Video mapping projections and Light mapping.
