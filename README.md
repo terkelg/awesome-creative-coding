@@ -15,6 +15,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 ## Contents
 
 - [Books](#books)
+  - [Magazines](#magazines)
 - [Online Books](#online-books)
 - [Courses](#courses)
 - [Tools](#tools)
@@ -68,6 +69,10 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Graphics Shaders: Theory and Practice](https://www.amazon.com/Graphics-Shaders-Theory-Practice-Second/dp/1568814348/) - Introduction to shader programming in general, but focusing on the GLSL shading language.
 - [Anton's OpenGL 4 Tutorials](https://www.amazon.com/gp/product/B00LAMQYF2/) -  Practical guide to starting 3d programming with OpenGL.
 - [Physics for JavaScript Games, Animation, and Simulations](http://www.apress.com/us/book/9781430263371) - Teaches JavaScript programmers how to incorporate real physics into their HTML5 games, animations, and simulations.
+
+### Magazines
+
+- [HOLO](http://holo-magazine.com) - A magazine about emerging trajectories in art, science, and technology.
 
 ## Online Books
 
