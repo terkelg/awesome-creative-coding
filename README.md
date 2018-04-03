@@ -448,7 +448,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Blogs • Websites
 
-- [CreativeApplications.Net [CAN]](http://creativeapplications.net/) - famous digital art blog 
+- [CreativeApplications.Net [CAN]](http://creativeapplications.net/) - Famous digital art blog.
 - [abandonedart.org](http://abandonedart.org/) - Generative art blog by Matt Pearso. Good for inspiration.
 - [iquilezles.org](http://www.iquilezles.org) - Home of Íñigo Quílez, specialised in GLSL and math snippets.
 - [bit-101.com](http://www.bit-101.com/blog/) - Blog by Keith Peters, specialised in creative coding.
