@@ -185,6 +185,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Tessel](https://tessel.io/) - Easy to use microcontroller that runs JavaScript.
 - [Leap Motion](https://www.leapmotion.com/) - Sensor device that supports hand and finger motions as input.
 - [AxiDraw](https://www.axidraw.com/) - Simple, modern, and precise pen plotter.
+- [Phidgets](https://www.phidgets.com) - Sensors, input devices and controllers for computers.
 
 ### Other
 
