@@ -199,6 +199,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [glslViewer](http://patriciogonzalezvivo.com/2015/glslViewer/) - Live-coding console tool that renders GLSL Shaders.
 - [DrawBot](http://www.drawbot.com/) [Mac] - Education oriented 2d graphics programming environment based on python. 
 - [Klak](https://github.com/keijiro/Klak) -  A collection of scripts for creative coding with Unity.
+- [Joukkue](https://github.com/hamoid/Joukkue) - Collaborative Creative Coding with Node.js and p5.js
 
 ## Learning Resources
 
