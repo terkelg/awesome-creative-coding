@@ -84,6 +84,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [OpenGLBook](http://openglbook.com/) - Free OpenGL programming tutorial in online book format.
 - [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html) - Book about 3D computational graphics by Morgan McGuire.
 - [On Generative Algorithms](http://inconvergent.net/generative/) - Notes about generating various organic patterns, with examples and Python code, by Anders Hoff.
+- [Computer Graphics from Scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html) -  A raytracing and rasterization textbook that teaches you how OpenGL and DirectX works.
 
 ## Courses
 
