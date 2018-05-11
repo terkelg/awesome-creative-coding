@@ -117,6 +117,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Unity](https://unity3d.com/) [Mac, Win] - Game engine, but useful for creative coding and installations.
 - [PlayCanvas](https://playcanvas.com/) [Cross-platform] - Open source, realtime collaborative WebGL engine.
 - [hg_sdf](http://mercury.sexy/hg_sdf/) [Cross-platform] - GLSL library for building signed distance functions.
+- [LuaStudio](http://scormpool.com/luastudio) [Cross-platform] - Free Open GL vector graphic, bitmap textures development tool for games, animation, presentations, etc. focused on creative coding in Lua/LuaJIT.
 
 ### Visual Programming Languages
 
