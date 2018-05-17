@@ -153,6 +153,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Sketch.js](http://soulwire.github.io/sketch.js/) - Minimal JavaScript creative coding framework.
 - [Two.js](https://two.js.org/) - Two-dimensional drawing api geared towards modern web browsers.
 - [ClayGL](http://claygl.xyz/) - WebGL graphic library for building scalable Web3D applications.
+- [Proton](https://github.com/a-jie/Proton) - A lightweight and powerful javascript particle engine.
 
 ### Projection Mapping • VJing
 
