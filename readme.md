@@ -154,6 +154,12 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Two.js](https://two.js.org/) - Two-dimensional drawing api geared towards modern web browsers.
 - [ClayGL](http://claygl.xyz/) - WebGL graphic library for building scalable Web3D applications.
 - [Proton](https://github.com/a-jie/Proton) - A lightweight and powerful javascript particle engine.
+- [lightgl.js](https://github.com/evanw/lightgl.js) - A lightweight WebGL library.
+- [picogl.js](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
+- [Alfrid](https://github.com/yiwenl/Alfrid) - A WebGL tool set.
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js) -  complete JavaScript framework for building 3D games with HTML 5 and WebGL.
+- [twigl](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
+- [luma.gl](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization.
 
 ### Projection Mapping • VJing
 
@@ -202,6 +208,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [DrawBot](http://www.drawbot.com/) [Mac] - Education oriented 2d graphics programming environment based on python. 
 - [Klak](https://github.com/keijiro/Klak) -  A collection of scripts for creative coding with Unity.
 - [basil.js](http://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
+
 
 ## Learning Resources
 
