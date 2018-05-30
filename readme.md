@@ -402,6 +402,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Making Things With Maths](https://acko.net/tv/wdcode/) - Talk by Steven Wittens about bezier curves, procedural generation, physics engines and fractals.
 - [MyPhysicsLab](https://www.myphysicslab.com/) - Interactive real-time physics simulations, with formulars and code.
 - [Intuitive Math](https://intuitive-math.club/) - Explanations of fields like Linear Algebra and Geometry designed to help you develop a visual intuition for what is going on.
+- [L-systems](https://github.com/arendsee/lsystems) - A Haskell package for L-systems.
 
 ## Machine learning • Computer Vision • Ai
 
