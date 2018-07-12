@@ -419,7 +419,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Teachable Machine](https://github.com/googlecreativelab/teachable-machine) - Explore how machine learning works, live in the browser.
 - [TensorFlow.js](https://js.tensorflow.org/) - JavaScript library for training and deploying ML models in the browser and on Node.js.
 - [Hello TensorFlow](https://hello-tensorflow.glitch.me/) - Fully commented TensorFlow.js demo.
-
+- [ml5.js](https://ml5js.org/) - Friendly machine learning for the web.
 
 ## Inspiration
 
