@@ -148,6 +148,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
 - [Pixi.js](http://www.pixijs.com/) - HTML 5 2D rendering engine that uses webGL with canvas fallback.
 - [p5.js](https://p5js.org/) - JavaScript library that starts with the original goal of Processing.
+- [Pts.js](https://ptsjs.org/) - JavaScript library for visualization and creative-coding.
 - [Fabric.js](http://fabricjs.com/) - Javascript canvas library, SVG-to-canvas parser.
 - [Maker.js](https://maker.js.org) - Parametric line drawing for SVG, CNC & laser cutters.
 - [OpenJSCAD](https://openjscad.org) - Programmatic 3D modeling in JavaScript.
