@@ -289,6 +289,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Particles in a Simplex Noise Flow Field](https://codepen.io/DonKarlssonSan/post/particles-in-simplex-noise-flow-field) - Perlin noise flow field tutorial.
 - [Flow Fields, Part 1](https://www.bit-101.com/blog/2017/10/23/flow-fields-part-i/) [Part 2](https://www.bit-101.com/blog/2017/10/28/flow-fields-part-ii/) - Introduction to flow fields also known as vector fields.
 - [Graphics for Games](https://research.ncl.ac.uk/game/mastersdegree/graphicsforgames/) - Introduction to 3D graphics programming including shaders, math post-processing etc. from Newcastle University.
+- [Three.js Basics](http://www.realtimerendering.com/basics3js/#1) - Introduction to Three.js by Eric Haines.
 
 #### Canvas
 
