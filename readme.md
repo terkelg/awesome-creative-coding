@@ -164,6 +164,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) -  complete JavaScript framework for building 3D games with HTML 5 and WebGL.
 - [twigl](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
 - [luma.gl](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization.
+- [<css-doodle />](https://css-doodle.com/) - A web component for drawing patterns with CSS.
 
 ### Projection Mapping • VJing
 
