@@ -414,6 +414,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [MyPhysicsLab](https://www.myphysicslab.com/) - Interactive real-time physics simulations, with formulars and code.
 - [Intuitive Math](https://intuitive-math.club/) - Explanations of fields like Linear Algebra and Geometry designed to help you develop a visual intuition for what is going on.
 - [L-systems](https://github.com/arendsee/lsystems) - A Haskell package for L-systems.
+- [Linear Interpolation](https://mattdesl.svbtle.com/linear-interpolation) - Introduction to linear interpolation (also known as mix/lerp).
 
 ## Machine learning • Computer Vision • Ai
 
