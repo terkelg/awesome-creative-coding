@@ -142,6 +142,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [ChucK](http://chuck.cs.princeton.edu/) - Strongly-timed, concurrent, and on-the-fly music programming language.
 - [TidalCycles](https://tidalcycles.org/) - Domain specific language for live coding of pattern.
 - [Sonic Pi](http://sonic-pi.net/) - The live coding music synth for everyone.
+- [Csound](https://csound.com/) - A sound and music computing system.
 
 ### Web Programming • Libraries
 
