@@ -471,6 +471,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [NextArt Night](https://nextart.tech/) - Inspiring people through creative uses of tech.
 - [GROW](https://www.grow.paris/) - The Parisian rendez-vous for creative coders, GROW is about opening new possibilities in digital creation.
 
+
 ## Schools • Workshops
 
 - [School for Poetic Computation](http://sfpc.io/) - School in New York that explore the intersections of code, design, hardware and theory.
