@@ -469,6 +469,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [CODAME ART+TECH](http://codame.com/) - Projects and nonprofit events, to inspire through experience.
 - [Curated Creative Events](http://events.thesupply.com/) - Hand-picked design, code, art, fashion and maker events.
 - [NextArt Night](https://nextart.tech/) - Inspiring people through creative uses of tech.
+- [GROW](https://www.grow.paris/) - The Parisian rendez-vous for creative coders, GROW is about opening new possibilities in digital creation.
 
 
 ## Schools • Workshops
