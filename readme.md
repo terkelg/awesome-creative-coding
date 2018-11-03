@@ -213,7 +213,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [KodeLife](https://hexler.net/software/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
 - [ISF](https://www.interactiveshaderformat.com/) - GLSL shaders for use in interactive applications.
 - [glslViewer](http://patriciogonzalezvivo.com/2015/glslViewer/) - Live-coding console tool that renders GLSL Shaders.
-- [DrawBot](http://www.drawbot.com/) [Mac] - Education oriented 2d graphics programming environment based on python. 
+- [DrawBot](http://www.drawbot.com/) [Mac] - Education oriented 2d graphics programming environment based on python.
 - [Klak](https://github.com/keijiro/Klak) -  A collection of scripts for creative coding with Unity.
 - [basil.js](http://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
 
@@ -446,6 +446,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Art From Code](http://www.artfromcode.com/) - Code sketches by Keith Peters.
 - [Generator.x](https://www.flickr.com/groups/generatorx/) - Flickr group about generative strategies in art & design.
 - [Generative Art](https://www.flickr.com/groups/generativeart/) - Flickr group about generative art.
+- [Inspiring Online](https://inspiring.online) - Open source micro blog about inspiring and creative works published online.
 - [People You Should Follow on CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
 - [Raven Kwok](https://ravenkwok.tumblr.com/) - Tumblr by visual artist Raven Kwok.
 - [P5Art](http://p5art.tumblr.com/) - Really good collection of experiments in Processing.
