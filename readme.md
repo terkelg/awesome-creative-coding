@@ -122,7 +122,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ### Visual Programming Languages
 
-- [vvvv](https://vvvv.org/) [Mac, Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
+- [vvvv](https://vvvv.org/) [Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
 - [NodeBox](https://www.nodebox.net/node/) [Mac, Win] - Cross-platform, node-based GUI for efficient data visualizations and generative design.
 - [TouchDesigner](http://www.derivative.ca/) [Mac, Win] - Visual development platform to create realtime projects.
 - [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html) [Mac] - Development tool for processing and rendering graphical data.
