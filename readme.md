@@ -417,6 +417,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Intuitive Math](https://intuitive-math.club/) - Explanations of fields like Linear Algebra and Geometry designed to help you develop a visual intuition for what is going on.
 - [L-systems](https://github.com/arendsee/lsystems) - A Haskell package for L-systems.
 - [Linear Interpolation](https://mattdesl.svbtle.com/linear-interpolation) - Introduction to linear interpolation (also known as mix/lerp).
+- [Practical use of Vector Math in Games](https://www.gamedev.net/articles/programming/math-and-physics/practical-use-of-vector-math-in-games-r2968/) - In-depth article on vectors for game math.
 
 ## Machine learning • Computer Vision • Ai
 
