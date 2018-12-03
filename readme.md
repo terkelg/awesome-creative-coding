@@ -435,6 +435,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Hello TensorFlow](https://hello-tensorflow.glitch.me/) - Fully commented TensorFlow.js demo.
 - [ml5.js](https://ml5js.org/) - Friendly machine learning for the web.
 - [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
+- [Runway](https://runwayapp.ai/) - A toolkit that adds artificial intelligence capabilities to design and creative platforms.
 
 ## Inspiration
 
