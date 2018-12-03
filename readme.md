@@ -436,6 +436,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [ml5.js](https://ml5js.org/) - Friendly machine learning for the web.
 - [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
 - [Runway](https://runwayapp.ai/) - A toolkit that adds artificial intelligence capabilities to design and creative platforms.
+- [Lobe](https://lobe.ai/) - Build, train, and ship custom deep learning models using a simple visual interface.
 
 ## Inspiration
 
