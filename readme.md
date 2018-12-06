@@ -495,6 +495,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [madebyevan.com](http://madebyevan.com/) - WebGL experiments and articles by Evan Wallace.
 - [songho.ca](http://www.songho.ca/) - Home of Song Ho Ahn, with a good collection of tutorials on OpenGL and math.
 - [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon schreibt.
+- [sighack.com](https://sighack.com/) - Blog about generative art algorithms and techniques, by Manohar Vanga
 
 ## Related
 
