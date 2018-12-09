@@ -497,7 +497,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [songho.ca](http://www.songho.ca/) - Home of Song Ho Ahn, with a good collection of tutorials on OpenGL and math.
 - [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon schreibt.
 - [sighack.com](https://sighack.com/) - Blog about generative art algorithms and techniques, by Manohar Vanga.
-- [DevArt](https://devart.withgoogle.com/) - Google's creative coding sharing and competition platform.
 ## Related
 
 - [Awesome opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
