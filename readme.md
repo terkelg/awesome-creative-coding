@@ -244,6 +244,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [How We Do This Shit](http://how-we-do-this-shit.com/) - Talk on how tech-based artists do this financially.
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) - How I Learnt to Stop Worrying and Love Linear Algebra.
 - [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) - Talk about WebGL, GPUs and Math by Steven Wittens.
+- [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) - Inspiring talk by Zach Lieberman.
 
 
 ### Articles • Tutorials
@@ -496,7 +497,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [songho.ca](http://www.songho.ca/) - Home of Song Ho Ahn, with a good collection of tutorials on OpenGL and math.
 - [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon schreibt.
 - [sighack.com](https://sighack.com/) - Blog about generative art algorithms and techniques, by Manohar Vanga.
-
 ## Related
 
 - [Awesome opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
