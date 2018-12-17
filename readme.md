@@ -105,7 +105,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Programming Data Visualizations: A Coding Toolkit for Processing](https://www.skillshare.com/classes/Programming-Data-Visualizations-A-Coding-Toolkit-for-Processing/1782124914) - Join information designer Nicholas Felton in the world of Processing.
 - [Introduction to Data Visualization](https://www.skillshare.com/classes/Introduction-to-Data-Visualization-From-Data-to-Design/1435958330) - Join Nicholas Felton for a smart, comprehensive, and inspiring intro to data visualization.
 - [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - Learn generative art and Processing with art with Joshua Davis.
-- [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/) - Learn about generative art, interactive animations, 3D graphics with ThreeJS, and custom shaders in GLSL with Matt DesLauriers.
+- [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/) - Workshop by Matt DesLauriers. that teaches you about generative art, interactive animations, 3D graphics, and shaders.
 
 
 ## Tools
@@ -164,7 +164,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [lightgl.js](https://github.com/evanw/lightgl.js) - A lightweight WebGL library.
 - [picogl.js](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
 - [Alfrid](https://github.com/yiwenl/Alfrid) - A WebGL tool set.
-- [Babylon.js](https://github.com/BabylonJS/Babylon.js) -  complete JavaScript framework for building 3D games with HTML 5 and WebGL.
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js) - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
 - [twigl](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
 - [luma.gl](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization.
 - [css-doodle](https://css-doodle.com/) - A web component for drawing patterns with CSS.
@@ -217,7 +217,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [ISF](https://www.interactiveshaderformat.com/) - GLSL shaders for use in interactive applications.
 - [glslViewer](http://patriciogonzalezvivo.com/2015/glslViewer/) - Live-coding console tool that renders GLSL Shaders.
 - [DrawBot](http://www.drawbot.com/) [Mac] - Education oriented 2d graphics programming environment based on python.
-- [Klak](https://github.com/keijiro/Klak) -  A collection of scripts for creative coding with Unity.
+- [Klak](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
 - [basil.js](http://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
 
 
