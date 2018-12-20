@@ -6,9 +6,11 @@
 
 Creative coding is a different discipline than programming systems. The goal is to create something expressive instead of something functional. **Interaction design**, **information visualization** and **generative art** are all different types of creative coding – which has become a household term describing **artworks articulated as code**.
 
-*You might also like [Graphics resources](https://github.com/mattdesl/graphics-resources) and [Awesome OpenGL](https://github.com/eug/awesome-opengl).*
-
 *Please read the [contribution guidelines](contributing.md) before contributing.*
+
+---
+
+**[Don't know where to start? Check out Matt DesLauriers Creative Coding course on Frontend Masters](https://frontendmasters.com/courses/canvas-webgl/).**
 
 ---
 
@@ -501,6 +503,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [songho.ca](http://www.songho.ca/) - Home of Song Ho Ahn, with a good collection of tutorials on OpenGL and math.
 - [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon schreibt.
 - [sighack.com](https://sighack.com/) - Blog about generative art algorithms and techniques, by Manohar Vanga.
+
+
 ## Related
 
 - [Awesome opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
@@ -517,6 +521,11 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
+
+
+## Special Thanks
+
+<a href="https://frontendmasters.com"><img src="https://frontendmasters.com/static/frontendmasters.0e71088726.svg" height="25"></a>
 
 
 ## License
