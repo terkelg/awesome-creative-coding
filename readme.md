@@ -70,7 +70,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Graphics Shaders: Theory and Practice](https://www.amazon.com/Graphics-Shaders-Theory-Practice-Second/dp/1568814348/) - Introduction to shader programming in general, but focusing on the GLSL shading language.
 - [Anton's OpenGL 4 Tutorials](https://www.amazon.com/gp/product/B00LAMQYF2/) -  Practical guide to starting 3d programming with OpenGL.
 - [Physics for JavaScript Games, Animation, and Simulations](http://www.apress.com/us/book/9781430263371) - Teaches JavaScript programmers how to incorporate real physics into their HTML5 games, animations, and simulations.
-
+- [Math for Programmers](https://www.manning.com/books/math-for-programmers) - Book teaches you to solve mathematical problems in code. With accessible examples, scenarios, and exercises perfect for the working developer, you’ll start by exploring functions and geometry in 2D and 3D.
 ## Online Books
 
 - [The Book of Shaders](https://thebookofshaders.com/) - Step-by-step guide through the abstract and complex universe of fragment shaders.
