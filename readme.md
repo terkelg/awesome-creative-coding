@@ -361,6 +361,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Procedural Patterns And Noises](http://www.neilblevins.com/cg_education/procedural_noise/procedural_noise.html) - Collection of procedural patterns and procedural noises.
 - [Three.js Reference](https://www.udacity.com/wiki/cs291/threejs-reference) - Reference from the Udacity Interactive 3D Graphics course.
 - [Visual Noises](https://ramesaliyev.com/visual-noises/) - Visualize noise algorithms in 1D and 2D.
+- [Trigonoparty](https://ramesaliyev.com/trigonoparty/) - Simple trigonometry visualisation.
 
 
 ## Communities
