@@ -233,6 +233,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Shaders Laboratory](https://www.youtube.com/channel/UCDk9-aPr8zQzwi4ylnuoJ6w) - YouTube channel about shaders.
 - [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg) - YouTube channel about shaders case studies.
 - [openFrameworks tutorials](https://www.youtube.com/watch?v=IKSTo_0pB28&index=51&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr) - YouTube playlist about openFrameworks.
+- [Shader Tutorial Series](https://www.youtube.com/watch?v=HIvNePu7UEE&list=PL4neAtv21WOmIrTrkNO3xCyrxg4LKkrF7) - YouTube playlist about Shaders.
 - [Fun with WebGL 2.0](https://www.youtube.com/watch?v=LtFujAtKM5I&list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF) - YouTube playlist about WebGL 2.0.
 - [Modern OpenGL 3.0+ Tutorials](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) - YouTube playlist about modern OpenGL.
 - [Vertexshaderart](https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw) - YouTube playlist about vertex shaders.
