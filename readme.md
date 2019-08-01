@@ -124,6 +124,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [hg_sdf](http://mercury.sexy/hg_sdf/) [Cross-platform] - GLSL library for building signed distance functions.
 - [HYPE](http://www.hypeframework.org/) [Cross-platform] - HYPE_processing, is a collection of classes that performs heavy lifting tasks while using a minimal amount of code writing.
 - [PixelKit](http://pixelkit.net/) [iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
+- [Nannou](https://nannou.cc) [Cross-platform] - An open-source creative-coding framework for Rust
 
 ### Visual Programming Languages
 
