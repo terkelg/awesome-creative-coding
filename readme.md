@@ -71,6 +71,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Anton's OpenGL 4 Tutorials](https://www.amazon.com/gp/product/B00LAMQYF2/) -  Practical guide to starting 3d programming with OpenGL.
 - [Physics for JavaScript Games, Animation, and Simulations](http://www.apress.com/us/book/9781430263371) - Teaches JavaScript programmers how to incorporate real physics into their HTML5 games, animations, and simulations.
 - [Math for Programmers](https://www.manning.com/books/math-for-programmers) - Book teaches you to solve mathematical problems in code.
+- [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) - A book introduction to R language, focusing on practical solutions and real-world applications that are most relevant to business developers. 
 
 ## Online Books
 
