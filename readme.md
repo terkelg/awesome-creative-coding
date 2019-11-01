@@ -227,7 +227,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 - [Structure Synth](http://structuresynth.sourceforge.net/) [Cross-platform] - Application for generating 3D structures by specifying a design grammar.
 - [F3](http://www.syedrezaali.com/f3-mac-app/) [Mac] - Powerful 3D design app that enables you to live code 3D form.
-- [Fragment](http://www.syedrezaali.com/store/fragment-osx-app) [Mac]- App to live code GLSL graphics.
+- [Fragment](https://github.com/rezaali/fragment) [Mac]- App to live code GLSL graphics.
 - [ShaderTool](http://store.steampowered.com/app/314720/) [Win] - Modern shader IDE for programmers and FX artists.
 - [Syphon](http://syphon.v002.info/) [Mac] - Allows applications to share frames with one another in realtime.
 - [KodeLife](https://hexler.net/software/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
