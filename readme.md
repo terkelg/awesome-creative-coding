@@ -467,8 +467,13 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Digital Design Days - OFFF](http://www.ddd.it/en) - 3 day event offering conferences, workshops, digital showcases & installations.
 - [CODAME ART+TECH](http://codame.com/) - Projects and nonprofit events, to inspire through experience.
 - [Curated Creative Events](http://events.thesupply.com/) - Hand-picked design, code, art, fashion and maker events.
-- [NextArt Night](https://nextart.tech/) - Inspiring people through creative uses of tech.
-
+- [NextArt Night](https://nextart.tech/) - Inspiring people through creative
+  uses of tech.
+  
+## Museums • Galleries
+- [ZKM — Zentrum für Kunst und Medien, Karlsruhe/Germany](https://zkm.de) -  ZKM organizes exhibitions and events on the effects of media, digitization, and globalization.
+- [Ars Electronica Center, Linz/Austria](https://ars.electronica.art/center/) - Museum of the Future — a place where diverse blends of artistic genres, scientific domains and technological directions are displayed and processed.
+- [Technorama, Zurich/Switzerland](https://www.technorama.ch/en/home) - Technorama allows hands-on experiences of hundreds of natural phenomena and technology.
 
 ## Schools • Workshops
 
