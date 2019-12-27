@@ -473,6 +473,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [ZKM — Zentrum für Kunst und Medien, Karlsruhe/Germany](https://zkm.de) -  ZKM organizes exhibitions and events on the effects of media, digitization, and globalization.
 - [Ars Electronica Center, Linz/Austria](https://ars.electronica.art/center/) - Museum of the Future — a place where diverse blends of artistic genres, scientific domains and technological directions are displayed and processed.
 - [Technorama, Zurich/Switzerland](https://www.technorama.ch/en/home) - Technorama allows hands-on experiences of hundreds of natural phenomena and technology.
+- [Kate Vass Gallery](https://www.katevassgalerie.com/) - Contemporary art gallery presenting works by international established, mid-career, and emerging artists focusing on photography and new technologies.
 
 ## Schools • Workshops
 
