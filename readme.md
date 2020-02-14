@@ -556,7 +556,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Special Thanks
 
-[<img src="https://frontendmasters.com/static/frontendmasters.0e71088726.svg" height="25">](https://frontendmasters.com)
+[<img src="https://static.frontendmasters.com/assets/fm/js/frontendmasters.478a4e60fe.svg" height="35">](https://frontendmasters.com)
 
 
 ## License
