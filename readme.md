@@ -110,7 +110,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - Learn generative art and Processing with art with Joshua Davis.
 - [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/) - Workshop by Matt DesLauriers. that teaches you about generative art, interactive animations, 3D graphics, and shaders.
 
-
 ## Tools
 
 ### Frameworks • Libraries • Ecosystems
@@ -194,7 +193,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Smode](https://smode.fr/) [Win] - A real-time 2D/3D creation, compositing and video-mapping engine.
 - [Veejay](http://veejayhq.net/) [Linux] - A live performance tool featuring simple non-linear editing and mixing from multiple sources (files, devices, streams...)
 
-
 ### Online
 
 - [Shadertoy](https://www.shadertoy.com/) - Build and share shaders with the world and get inspired.
@@ -241,7 +239,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Klak](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
 - [basil.js](http://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
 
-
 ## Learning Resources
 
 ### Videos
@@ -273,7 +270,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) - Talk about WebGL, GPUs and Math by Steven Wittens.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) - Inspiring talk by Zach Lieberman.
 - [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) - FITC talk by Matt DesLauriers about his passion for generative art.
-
 
 ### Articles • Tutorials
 
@@ -350,7 +346,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Tips to Improve Your Generative Artwork](http://www.tylerlhobbs.com/writings/tips) - Tips to make your art look better.
 - [Working With Color in Generative Art](http://www.tylerlhobbs.com/writings/generative-colors) - Tips on how to get color right.
 
-
 ### Interactive
 
 - [Shader-school](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
@@ -363,7 +358,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Bubble Breakdown](http://mrl.nyu.edu/~perlin/bubble_breakdown/) - Shader breakdown by Perlin.
 - [Let's Make A Ray Marcher](https://www.shadertoy.com/view/MdBfRK) - Interactive Shader-Toy on writing a ray marcher.
 - [Raymarching](https://www.shadertoy.com/view/4dSfRc) - Interactive Shader-Toy raymarching tutorial.
-
 
 ### Quick References • Cheatsheets
 
@@ -385,7 +379,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Three.js Reference](https://www.udacity.com/wiki/cs291/threejs-reference) - Reference from the Udacity Interactive 3D Graphics course.
 - [Visual Noises](https://ramesaliyev.com/visual-noises/) - Visualize noise algorithms in 1D and 2D.
 - [Trigonoparty](https://ramesaliyev.com/trigonoparty/) - Simple trigonometry visualisation.
-
 
 ## Communities
 
@@ -415,7 +408,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Data Stories](http://datastori.es/) - Podcast on data visualization.
 - [3D Programming Weekly Articles](https://www.3dkingdoms.com/weekly/weekly.php) - Great collection of shader and math related resources.
 - [Pass The Pen](https://spectrum.chat/codepen/pass-the-pen/) - A community of front-end developers who build collaborative creative coding projects on CodePen.
-
+- [Creative Tech Weekly](https://us19.campaign-archive.com/home/?u=ac884610ba6fe07f4988a2182&id=ad49a755b1) - A weekly newsletter of resources around creative technology.
 
 ## Math
 
@@ -494,7 +487,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Folds2d](http://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
 - [W:BLUT Inspiration](http://inspiration.wblut.com/) - Collection of gifs, links and images by W:Blut.
 
-
 ## Events
 
 - [OFFF Festival](http://offf.barcelona/) - Digital design festival (*Online Flash Film Festival*).
@@ -535,7 +527,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon schreibt.
 - [sighack.com](https://sighack.com/) - Blog about generative art algorithms and techniques, by Manohar Vanga.
 
-
 ## Related
 
 - [Awesome opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
@@ -553,11 +544,9 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
 
-
 ## Special Thanks
 
 [<img src="https://static.frontendmasters.com/assets/fm/js/frontendmasters.478a4e60fe.svg" height="35">](https://frontendmasters.com)
-
 
 ## License
 
