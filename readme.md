@@ -344,8 +344,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Adventures in Game Development World](http://ruh.li/) - Easy to understand collection of articles on game developement, but relevant to creative coding as well.
 - [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - Tiny guide to shepherding random numbers.
 - [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Collection of resources on stuff like path-finding, Ai, math etc.
-- [Tips to Improve Your Generative Artwork](http://www.tylerlhobbs.com/writings/tips) - Tips to make your art look better.
-- [Working With Color in Generative Art](http://www.tylerlhobbs.com/writings/generative-colors) - Tips on how to get color right.
+- [Tips to Improve Your Generative Artwork](https://tylerxhobbs.com/essays/2018/tips-to-improve-your-generative-artwork) - Tips to make your art look better.
+- [Working With Color in Generative Art](https://tylerxhobbs.com/essays/2016/working-with-color-in-generative-art) - Tips on how to get color right.
 
 ### Interactive
 
