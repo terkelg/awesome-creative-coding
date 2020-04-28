@@ -10,9 +10,9 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ---
 
-⭐ **Don't know where to start?** Check out Matt DesLauriers **[Creative Coding course on Frontend Masters](https://frontendmasters.com/courses/canvas-webgl/)**. ⭐
+⭐ **Don't know where to start?** Check out **[Creative Coding course on Frontend Masters](https://frontendmasters.com/courses/canvas-webgl/)**. ⭐
 
-🌟 **Want to go depper?** Check out **[Advanced Creative Coding with WebGL & Shaders](https://frontendmasters.com/courses/webgl-shaders/) on Frontend Masters**. 🌟
+🌟 **Want to go depper?** Check out **[Advanced Creative Coding with WebGL & Shaders on Frontend Masters](https://frontendmasters.com/courses/webgl-shaders/)**. 🌟
 
 ---
 
