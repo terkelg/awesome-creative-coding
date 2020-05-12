@@ -405,6 +405,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Creative Coding Club](http://creative-coding-club.slack.com/) - Creative Coding Club Slack.
 - [Creative Coding](http://the-mccc-project.github.io/creative-coding-sign-up/) - Creative Coding Slack.
 - [openFrameworks](https://ofslack.herokuapp.com/) - openFrameworks Slack.
+- [Seattle Creative Code Slack](http://livecodeseattle.com/) - A slack for Seattle-based Creative Coders
 
 ### Other
 
