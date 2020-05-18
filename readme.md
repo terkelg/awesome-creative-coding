@@ -92,6 +92,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Computer Graphics from Scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html) -  A raytracing and rasterization textbook that teaches you how OpenGL and DirectX works.
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) - A free book for when you really need to know how to do Bézier things.
 - [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners) - Step-by-step guide to real-time shading techniques.
+- [Python for Designers](http://pythonfordesigners.com) - Friendly and very well organized beginner's manual to Python3 and DrawBot.
 
 ## Courses
 
