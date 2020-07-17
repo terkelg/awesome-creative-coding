@@ -224,6 +224,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [ShaderGif](https://shadergif.com/) - Open source home for art made with code (WebGL1/2, JavaScript Canvas & P5.js).
 - [P5LIVE](https://teddavis.org/p5live/) - p5.js live-coding environment.
 - [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, Javascript Canvas).
+- [Shelly](https://shelly.dev/) - Learn programming by issuing instructions to a turtle.
 
 ### Hardware
 
