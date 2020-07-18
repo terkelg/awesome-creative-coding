@@ -54,7 +54,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Books
 
-- [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - Practical guide using Processing.
+- [Generative Art: A Practical Guide](https://www.manning.com/books/generative-art) - Practical guide using Processing.
 - [Generative Design](http://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
 - [The Nature of Code](http://natureofcode.com/) - Simulating natural systems with Processing.
 - [Programming Design Systems](https://programmingdesignsystems.com/) - Practical introduction to the new foundations of graphic design.
