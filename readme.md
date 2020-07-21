@@ -193,6 +193,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Zdog](https://zzz.dog/) - A pseudo-3D engine for canvas & SVG 
 - [Oimo.js](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript 
 - [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten 
+- [tsParticles](https://github.com/matteobruni/tsparticles) - tsParticles is a lightweight Javascript/Typescript library for easily create particles animations. It includes ready to use components for the most used Javascript frameworks (ReactJS, VueJS, Angular, etc.)
 
 ### Projection Mapping • VJing
 
@@ -336,6 +337,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [An Interactive Introduction to WebGL and three.js](https://www.cs.unm.edu/~angel/SIGGRAPH17/COURSE/s17_final.pdf) - Slides from the SIGGRAPH 2017 WebGL workshop.
 - [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html) - Advice and thoughts on how to get started by Eric Arnebäck.
 - [What Every Coder Should Know About Gamma](http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/) - Deep dive into the importance of gamma.
+- [tsParticles samples collection](https://codepen.io/tv/DPOage) - The official tsParticles samples collection, actively updated
 
 #### Canvas
 
