@@ -156,6 +156,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Synopsis](https://synopsis.video/) - A suite of open source software for computational cinematography.
 - [JOY.JS](https://ncase.me/joy/) - Realtime visual coding tool, easy to understand and aimed at beginners.
 - [Pixel Nodes](https://pixelnodes.app/) [iPad] - Live graphics node editor, powered by PixelKit.
+- [Extempore](https://extemporelang.github.io/) [Cross-platform] - An audiovisual live programming environment designed to support cyberphysical programming.
 
 ### Sound Programming Languages
 
@@ -165,6 +166,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Sonic Pi](http://sonic-pi.net/) - The live coding music synth for everyone.
 - [Csound](https://csound.com/) - A sound and music computing system.
 - [Orca](https://100r.co/pages/orca.html) - Live coding environment to quickly create procedural sequencers.
+- [Extempore](https://extemporelang.github.io/) [Cross-platform] - An audiovisual live programming environment designed to support cyberphysical programming.
 
 ### Web Programming • Libraries
 
