@@ -125,6 +125,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [openFrameworks](http://openframeworks.cc/) [Cross-platform] - Open source C++ toolkit for creative coding.
 - [C4](http://www.c4ios.com) [iOS] - Open-source creative coding framework for iOS.
 - [Unity](https://unity3d.com/) [Mac, Win] - Game engine, but useful for creative coding and installations.
+- [Godot](https://github.com/godotengine/godot) [Cross-platform] - Open source game engine, that can also be used for all sorts of things.
 - [PlayCanvas](https://playcanvas.com/) [Cross-platform] - Open source, realtime collaborative WebGL engine.
 - [hg_sdf](http://mercury.sexy/hg_sdf/) [Cross-platform] - GLSL library for building signed distance functions.
 - [HYPE](http://www.hypeframework.org/) [Cross-platform] - HYPE_processing, is a collection of classes that performs heavy lifting tasks while using a minimal amount of code writing.
@@ -140,6 +141,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 ### Visual Programming Languages
 
 - [vvvv](https://vvvv.org/) [Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
+- [VisualScript](https://docs.godotengine.org/en/stable/getting_started/scripting/visual_script/) [Cross-platform] - Visual coding language in the Godot game engine. 
 - [NodeBox](https://www.nodebox.net/node/) [Mac, Win] - Cross-platform, node-based GUI for efficient data visualizations and generative design.
 - [TouchDesigner](http://www.derivative.ca/) [Mac, Win] - Visual development platform to create realtime projects.
 - [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html) [Mac] - Development tool for processing and rendering graphical data.
