@@ -501,6 +501,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [DevArt](https://devart.withgoogle.com/) - Celebration of art made with code by artists that push the possibilities of creativity.
 - [Folds2d](http://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
 - [W:BLUT Inspiration](http://inspiration.wblut.com/) - Collection of gifs, links and images by W:Blut.
+- [Creative Matplotlib](https://github.com/sadielbartholomew/creative-matplotlib) - Creative mini-projects made with the Python plotting library Matplotlib.
 
 ## Events
 
