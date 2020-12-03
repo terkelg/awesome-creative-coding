@@ -412,6 +412,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [r/shaders](https://www.reddit.com/r/shaders/) - Subreddit on shaders.
 - [r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/) - Subreddit on procedural generation.
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - Subreddit on machine learning.
+- [r/generative](https://www.reddit.com/r/generative/) - Subreddit on generative art and music.
 
 ### Slack
 
