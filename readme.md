@@ -168,6 +168,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Sonic Pi](http://sonic-pi.net/) - The live coding music synth for everyone.
 - [Csound](https://csound.com/) - A sound and music computing system.
 - [Orca](https://100r.co/pages/orca.html) - Live coding environment to quickly create procedural sequencers.
+- [handel](https://handel-pl.github.io/) - A small procedural programming language for writing songs in browser. 
 
 ### Web Programming • Libraries
 
