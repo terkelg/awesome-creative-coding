@@ -512,7 +512,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 ## Events
 
 - [OFFF Festival](http://offf.barcelona/) - Digital design festival (*Online Flash Film Festival*).
-- [Resonate](http://resonate.io/) - Festical in Belgrade about cutting edge music, visual arts and digital culture.
 - [Gray Area Festival](http://grayareafestival.io/) - Creative coding, art and technology festival.
 - [Signal Festival](http://www.signalfestival.com/) - Showcase of light art and emerging technologies in Prague, the Czech Republic.
 - [Eyeo Festival](http://eyeofestival.com/) - Bring together creative coders, data designers and creators working at the intersection of data, art and technology.
