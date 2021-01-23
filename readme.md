@@ -197,7 +197,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Zdog](https://zzz.dog/) - A pseudo-3D engine for canvas & SVG
 - [Oimo.js](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
 - [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten
-- [shader-web-background](https://xemantic.github.io/shader-web-background/) - Transforming shaders into immersive web experiences.
+- [shader-web-background](https://xemantic.github.io/shader-web-background/) - Transforming shaders into immersive web experiences (compatible with Shadertoy).
 
 ### Projection Mapping • VJing
 
