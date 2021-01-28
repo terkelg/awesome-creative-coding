@@ -124,7 +124,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Processing](https://processing.org) [Cross-platform] - Computer programming language and IDE for visual arts.
 - [Cinder](https://libcinder.org/) [Cross-platform] - Open source library for professional-quality creative coding in C++.
 - [openFrameworks](http://openframeworks.cc/) [Cross-platform] - Open source C++ toolkit for creative coding.
-- [C4](http://www.c4ios.com) [iOS] - Open-source creative coding framework for iOS.
+- [C4](http://www.c4ios.com) [iOS] - Open-source creative coding framework for iOS.
 - [Unity](https://unity3d.com/) [Mac, Win] - Game engine, but useful for creative coding and installations.
 - [Godot](https://github.com/godotengine/godot) [Cross-platform] - Open source game engine, that can also be used for all sorts of things.
 - [PlayCanvas](https://playcanvas.com/) [Cross-platform] - Open source, realtime collaborative WebGL engine.
@@ -150,7 +150,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Max](https://cycling74.com/products/max/) [Mac, Win] - Visual programming language for media.
 - [Pure Data](https://puredata.info/) [Cross-platform] - Open source visual programming language for multimedia.
 - [i-score](http://www.i-score.org) [Cross-platform] - Interactive sequencer to control creative coding libraries and toolkits.
-- [Origami Studio](http://origami.design/) [Mac] - A new tool for designing modern interfaces, prototyping and interactions.
 - [tooll](http://tooll.io/) [Win] - Open source tool for creating interactive 3d content and animations.
 - [XOD](https://xod.io/) [Cross-platform] - Open source visual programming language and environment for microcontroller-based projects.
 - [Isadora](https://troikatronix.com) [Cross-platform] - Scene based media control software with integrated projection mapper.
