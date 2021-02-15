@@ -400,6 +400,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Three.js Reference](https://www.udacity.com/wiki/cs291/threejs-reference) - Reference from the Udacity Interactive 3D Graphics course.
 - [Visual Noises](https://ramesaliyev.com/visual-noises/) - Visualize noise algorithms in 1D and 2D.
 - [Trigonoparty](https://ramesaliyev.com/trigonoparty/) - Simple trigonometry visualisation.
+- [Morphogenesis](https://github.com/jasonwebb/morphogenesis-resources) - Exploration of how shapes, forms, and patterns emerge in nature.
 
 ## Communities
 
