@@ -355,6 +355,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 #### Other
 
+- [Noise in Creative Coding](https://varun.ca/noise/) - In-depth blog post about noise as an indispensable tool for creative coding.
 - [Cat Like Coding](http://catlikecoding.com/unity/tutorials/) - In depth tutorials on math, algorithms and Unity.
 - [Fun Programming](http://funprogramming.org/) - Learn creative coding writing simple programs.
 - [Creative-coding on iOS with C4](http://www.creativeapplications.net/tutorials/creative-coding-on-ios-with-c4-tutorial/) - Introduction to C4 published on Creative Applications.
