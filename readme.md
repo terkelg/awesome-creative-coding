@@ -124,7 +124,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Processing](https://processing.org) [Cross-platform] - Computer programming language and IDE for visual arts.
 - [Cinder](https://libcinder.org/) [Cross-platform] - Open source library for professional-quality creative coding in C++.
 - [openFrameworks](http://openframeworks.cc/) [Cross-platform] - Open source C++ toolkit for creative coding.
-- [C4](http://www.c4ios.com) [iOS] - Open-source creative coding framework for iOS.
+- [C4](http://www.c4ios.com) [iOS] - Open-source creative coding framework for iOS.
 - [Unity](https://unity3d.com/) [Mac, Win] - Game engine, but useful for creative coding and installations.
 - [Godot](https://github.com/godotengine/godot) [Cross-platform] - Open source game engine, that can also be used for all sorts of things.
 - [PlayCanvas](https://playcanvas.com/) [Cross-platform] - Open source, realtime collaborative WebGL engine.
@@ -229,7 +229,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [P5LIVE](https://teddavis.org/p5live/) - p5.js live-coding environment.
 - [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, Javascript Canvas).
 - [Shelly](https://shelly.dev/) - Learn programming by issuing instructions to a turtle.
-- [tixy.land](https://tixy.land/) - The most minimalist creative coding environment is alive.
+- [tixy.land](https://tixy.land) - The most minimalist creative coding environment is alive.
+- [Audiotool](https://www.audiotool.com/) - Audiotool is a powerful online digital audio workstation right in your browser.
 - [BBC Micro bot](https://www.bbcmicrobot.com/) - Run your tweet on an 8-bit computer emulator.
 
 ### Hardware
