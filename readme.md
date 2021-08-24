@@ -75,6 +75,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Math for Programmers](https://www.manning.com/books/math-for-programmers) - Book teaches you to solve mathematical problems in code.
 - [Synthèse d'images avec OpenGL (ES)](https://www.d-booker.fr/opengl/78-synthese-d-images.html) - Book in french, which covers OpenGL, OpenGL ES and WebGL.
 - [Hands-On Music Generation with Magenta](https://alexandredubreuil.com/publications/2020-01-31-music-generation-with-magenta-deep-learning-in-music-generation/) - Design and use machine learning models for music generation using Magenta and make them interact with existing music creation tools
+- [Code Well with Others](https://www.manning.com/books/code-well-with-others) - The skills and knowledge you need to grow from a solo coder into a productive member of a software development team, along with seasoned advice on everything from effective refactoring to acing an interview.
 
 ## Online Books
 
