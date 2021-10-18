@@ -232,6 +232,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Shelly](https://shelly.dev/) - Learn programming by issuing instructions to a turtle.
 - [tixy.land](https://tixy.land/) - The most minimalist creative coding environment is alive.
 - [BBC Micro bot](https://www.bbcmicrobot.com/) - Run your tweet on an 8-bit computer emulator.
+- [Closing Tag Checker](https://www.aliciaramirez.com/closing-tags-checker/) - Checks for unclosed tags in HTML.
 
 ### Hardware
 
