@@ -171,6 +171,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Orca](https://100r.co/pages/orca.html) - Live coding environment to quickly create procedural sequencers.
 - [handel](https://handel-pl.github.io/) - A small procedural programming language for writing songs in browser.
 - [Melrōse](https://melrōse.org/) - A MIDI producing environment for creating (live) music.
+- [Cane](https://github.com/Jackojc/cane) - A small MIDI sequencer DSL designed around vectors and euclidean rhythms .
 
 ### Web Programming • Libraries
 
