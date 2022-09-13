@@ -494,6 +494,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Runway](https://runwayapp.ai/) - Toolkit that adds artificial intelligence capabilities to design and creative platforms.
 - [Lobe](https://lobe.ai/) - Build, train, and ship custom deep learning models using a simple visual interface.
 - [ModelDepot](https://modeldepot.io/) - Platform for discovering, sharing, and discussing easy to use and pre-trained machine learning models.
+- [Computer Vision Notebooks](https://diegoinacio.github.io/computer-vision-notebooks-page/) - Collection of fundamental Python recipes on Computer Vision and Digital Image Processing, by Diego Inácio.
 
 ## Inspiration
 
