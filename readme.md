@@ -96,6 +96,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners) - Step-by-step guide to real-time shading techniques.
 - [XEM WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - Step-by-step guide to WebGL.
 - [WebGL Academy](http://www.webglacademy.com/) - Learn WebGL and 3D algorithmic in a progressive and interactive way.
+- [Creative Coding Notebooks](https://diegoinacio.github.io/creative-coding-notebooks-page/) - Collection of fundamental Python recipes on Creative Coding and Recreational Programming, by Diego Inácio.
 
 ## Courses
 
