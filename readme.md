@@ -514,6 +514,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [DevArt](https://devart.withgoogle.com/) - Celebration of art made with code by artists that push the possibilities of creativity.
 - [Folds2d](http://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
 - [W:BLUT Inspiration](http://inspiration.wblut.com/) - Collection of gifs, links and images by W:Blut.
+- [SVG Experiments](https://diegoinacio.github.io/svg-experiments/) - A gallery of experiments with Scalable Vector Graphics (SVG) and interactive visualizations, by Diego Inácio.
 
 ## Events
 
