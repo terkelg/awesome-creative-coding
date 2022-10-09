@@ -139,6 +139,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [OPENRNDR](https://openrndr.org/) [Cross-platform] - Open source library for creative coding written in Kotlin.
 - [Phaser](https://phaser.io/) [Cross-platform] - HTML5 framework for building games, uses both a Canvas and WebGL renderer.
 - [Canvas-sketch](https://github.com/mattdesl/canvas-sketch) [Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
+- [AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) [iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
 
 ### Visual Programming Languages
 
