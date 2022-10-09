@@ -12,7 +12,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ⭐ **Don't know where to start?** Check out **[Creative Coding course on Frontend Masters](https://frontendmasters.com/courses/canvas-webgl/)**. ⭐
 
-🌟 **Want to go depper?** Check out **[Advanced Creative Coding with WebGL & Shaders on Frontend Masters](https://frontendmasters.com/courses/webgl-shaders/)**. 🌟
+🌟 **Want to go deeper?** Check out **[Advanced Creative Coding with WebGL & Shaders on Frontend Masters](https://frontendmasters.com/courses/webgl-shaders/)**. 🌟
 
 ---
 
@@ -54,7 +54,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Books
 
-- [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - Practical guide using Processing.
+- [Generative Art: A Practical Guide](https://www.manning.com/books/generative-art) - Practical guide using Processing.
 - [Generative Design](http://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
 - [The Nature of Code](http://natureofcode.com/) - Simulating natural systems with Processing.
 - [Programming Design Systems](https://programmingdesignsystems.com/) - Practical introduction to the new foundations of graphic design.
@@ -73,6 +73,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Anton's OpenGL 4 Tutorials](https://www.amazon.com/gp/product/B00LAMQYF2/) -  Practical guide to starting 3d programming with OpenGL.
 - [Physics for JavaScript Games, Animation, and Simulations](http://www.apress.com/us/book/9781430263371) - Teaches JavaScript programmers how to incorporate real physics into their HTML5 games, animations, and simulations.
 - [Math for Programmers](https://www.manning.com/books/math-for-programmers) - Book teaches you to solve mathematical problems in code.
+- [Synthèse d'images avec OpenGL (ES)](https://www.d-booker.fr/opengl/78-synthese-d-images.html) - Book in french, which covers OpenGL, OpenGL ES and WebGL.
+- [Hands-On Music Generation with Magenta](https://alexandredubreuil.com/publications/2020-01-31-music-generation-with-magenta-deep-learning-in-music-generation/) - Design and use machine learning models for music generation using Magenta and make them interact with existing music creation tools
 
 ## Online Books
 
@@ -92,6 +94,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Computer Graphics from Scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html) -  A raytracing and rasterization textbook that teaches you how OpenGL and DirectX works.
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) - A free book for when you really need to know how to do Bézier things.
 - [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners) - Step-by-step guide to real-time shading techniques.
+- [XEM WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - Step-by-step guide to WebGL.
+- [WebGL Academy](http://www.webglacademy.com/) - Learn WebGL and 3D algorithmic in a progressive and interactive way.
 
 ## Courses
 
@@ -112,6 +116,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - Learn generative art and Processing with art with Joshua Davis.
 - [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/) - Workshop by Matt DesLauriers. that teaches you about generative art, interactive animations, 3D graphics, and shaders.
 - [Advanced Creative Coding with WebGL & Shaders](https://frontendmasters.com/courses/webgl-shaders/) - Workshop by Matt DesLauriers that go deeper into graphics programming, math and shaders.
+- [Three.js Journey](https://threejs-journey.com/) - This course by Bruno Simon will teach you the secrets to create the coolest WebGL websites with Three.js whether your are a beginner or an advanced developer.
 
 ## Tools
 
@@ -122,6 +127,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [openFrameworks](http://openframeworks.cc/) [Cross-platform] - Open source C++ toolkit for creative coding.
 - [C4](http://www.c4ios.com) [iOS] - Open-source creative coding framework for iOS.
 - [Unity](https://unity3d.com/) [Mac, Win] - Game engine, but useful for creative coding and installations.
+- [Godot](https://github.com/godotengine/godot) [Cross-platform] - Open source game engine, that can also be used for all sorts of things.
 - [PlayCanvas](https://playcanvas.com/) [Cross-platform] - Open source, realtime collaborative WebGL engine.
 - [hg_sdf](http://mercury.sexy/hg_sdf/) [Cross-platform] - GLSL library for building signed distance functions.
 - [HYPE](http://www.hypeframework.org/) [Cross-platform] - HYPE_processing, is a collection of classes that performs heavy lifting tasks while using a minimal amount of code writing.
@@ -137,13 +143,14 @@ Creative coding is a different discipline than programming systems. The goal is 
 ### Visual Programming Languages
 
 - [vvvv](https://vvvv.org/) [Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
+- [VisualScript](https://docs.godotengine.org/en/stable/getting_started/scripting/visual_script/) [Cross-platform] - Visual coding language in the Godot game engine.
 - [NodeBox](https://www.nodebox.net/node/) [Mac, Win] - Cross-platform, node-based GUI for efficient data visualizations and generative design.
 - [TouchDesigner](http://www.derivative.ca/) [Mac, Win] - Visual development platform to create realtime projects.
 - [Quartz Composer](https://developer.apple.com/library/content/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html) [Mac] - Development tool for processing and rendering graphical data.
 - [Vuo](http://vuo.org/) [Mac] - Live interactive-media programming environment.
 - [Max](https://cycling74.com/products/max/) [Mac, Win] - Visual programming language for media.
 - [Pure Data](https://puredata.info/) [Cross-platform] - Open source visual programming language for multimedia.
-- [i-score](http://www.i-score.org) [Cross-platform] - Interactive sequencer to control creative coding libraries and toolkits.
+- [ossia score](https://ossia.io) [Cross-platform] - Interactive, intermedia audio-visual sequencer.
 - [tooll](http://tooll.io/) [Win] - Open source tool for creating interactive 3d content and animations.
 - [XOD](https://xod.io/) [Cross-platform] - Open source visual programming language and environment for microcontroller-based projects.
 - [Isadora](https://troikatronix.com) [Cross-platform] - Scene based media control software with integrated projection mapper.
@@ -162,6 +169,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Sonic Pi](http://sonic-pi.net/) - The live coding music synth for everyone.
 - [Csound](https://csound.com/) - A sound and music computing system.
 - [Orca](https://100r.co/pages/orca.html) - Live coding environment to quickly create procedural sequencers.
+- [handel](https://handel-pl.github.io/) - A small procedural programming language for writing songs in browser.
+- [Melrōse](https://melrōse.org/) - A MIDI producing environment for creating (live) music.
 
 ### Web Programming • Libraries
 
@@ -186,6 +195,11 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [twigl](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
 - [luma.gl](https://github.com/uber/luma.gl) - WebGL2 Components for Data Visualization.
 - [css-doodle](https://css-doodle.com/) - A web component for drawing patterns with CSS.
+- [OGL.js](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL)
+- [Zdog](https://zzz.dog/) - A pseudo-3D engine for canvas & SVG
+- [Oimo.js](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
+- [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten
+- [Theatre.js](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
 
 ### Projection Mapping • VJing
 
@@ -202,6 +216,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 ### Online
 
 - [Shadertoy](https://www.shadertoy.com/) - Build and share shaders with the world and get inspired.
+- [Shader Park](https://shaderpark.com/) - A JavaScript library for creating interactive procedural 2D and 3D shaders.
 - [GLSLbin](http://glslb.in/) - Fragment shader sandbox with support for glslify.
 - [GLSL Sandbox](http://glslsandbox.com/) - Online shader editor and gallery.
 - [Shdr Editor](http://shdr.bkcore.com/) - Online shader editor.
@@ -217,6 +232,9 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [ShaderGif](https://shadergif.com/) - Open source home for art made with code (WebGL1/2, JavaScript Canvas & P5.js).
 - [P5LIVE](https://teddavis.org/p5live/) - p5.js live-coding environment.
 - [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, Javascript Canvas).
+- [Shelly](https://shelly.dev/) - Learn programming by issuing instructions to a turtle.
+- [tixy.land](https://tixy.land/) - The most minimalist creative coding environment is alive.
+- [BBC Micro bot](https://www.bbcmicrobot.com/) - Run your tweet on an 8-bit computer emulator.
 
 ### Hardware
 
@@ -245,6 +263,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [DrawBot](http://www.drawbot.com/) [Mac] - Education oriented 2d graphics programming environment based on python.
 - [Klak](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
 - [basil.js](http://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
+- [Konstrukt](https://github.com/MarcelMue/konstrukt) [Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
 
 ## Learning Resources
 
@@ -254,7 +273,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [MFGD - Fragment Shaders](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWMpFSRpeMmSBGDShbkiV1Cq) - YouTube playlist about fragment shaders.
 - [Shaders Laboratory](https://www.youtube.com/channel/UCDk9-aPr8zQzwi4ylnuoJ6w) - YouTube channel about shaders.
 - [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg) - YouTube channel about shaders case studies.
--[openFrameworks Tutorial Series](https://www.youtube.com/watch?v=dwt2NAd1ZYY&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7) - YouTube series to learning openFrameworks
+- [openFrameworks Tutorial Series](https://www.youtube.com/watch?v=dwt2NAd1ZYY&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7) - YouTube series to learning openFrameworks
 - [openFrameworks tutorial](https://www.youtube.com/watch?v=IKSTo_0pB28&index=51&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr) - YouTube playlist about openFrameworks - not updated [2015].
 - [Shader Tutorial Series](https://www.youtube.com/watch?v=HIvNePu7UEE&list=PL4neAtv21WOmIrTrkNO3xCyrxg4LKkrF7) - YouTube playlist about Shaders, using Visual Studio Code.
 - [Kha Tutorial Series](https://www.youtube.com/watch?v=5Uxht76ODtQ&list=PL4neAtv21WOmmR5mKb7TQvEQHpMh1h0po) - YouTube playlist about the Kha framework, built in Haxe.
@@ -318,7 +337,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [THREE.js & instanced geometry](http://barradeau.com/blog/?p=1109) - Fluffy predator with three.js and instanced geometry.
 - [Particle Effects via Billboards](http://www.chinedufn.com/webgl-particle-effect-billboard-tutorial/) - How to create a particle effects with billboarding and WebGL.
 - [Beautifully Animate Points with WebGL and regl](https://peterbeshai.com/beautifully-animate-points-with-webgl-and-regl.html) - How to create GPGPU particles with regl.
-- [WebGL Tutorial: Directional Shadow Mapping without extensions](9www.chinedufn.com/webgl-shadow-mapping-tutorial/) - Introduction to the concepts behind real time directional light shadow mapping.
+- [WebGL Tutorial: Directional Shadow Mapping without extensions](https://www.chinedufn.com/webgl-shadow-mapping-tutorial/) - Introduction to the concepts behind real time directional light shadow mapping.
 - [WebGL Quest](http://xem.github.io/articles/#webgl_quest_2) - A tutorial and a list of useful resources to use WebGL raymarching and distance functions easily.
 - [Exploring bump mapping with WebGL](http://apoorvaj.io/exploring-bump-mapping-with-webgl.html) - Introduction to different bump mapping techniques.
 - [OpenGL/GLSL Shader Programing](http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programing.
@@ -341,6 +360,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 #### Other
 
+- [Noise in Creative Coding](https://varun.ca/noise/) - In-depth blog post about noise as an indispensable tool for creative coding.
 - [Cat Like Coding](http://catlikecoding.com/unity/tutorials/) - In depth tutorials on math, algorithms and Unity.
 - [Fun Programming](http://funprogramming.org/) - Learn creative coding writing simple programs.
 - [Creative-coding on iOS with C4](http://www.creativeapplications.net/tutorials/creative-coding-on-ios-with-c4-tutorial/) - Introduction to C4 published on Creative Applications.
@@ -371,7 +391,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Shaderific GLSL](http://www.shaderific.com/glsl/) - OpenGL ES shading language reference.
 - [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) - Shader glossary by theme.
 - [gltut glossary pages: 1](https://paroj.github.io/gltut/Basics/Intro%20Glossary.html), [2](https://paroj.github.io/gltut/Basics/Tut01%20Glossary.html), [3](https://paroj.github.io/gltut/Basics/Tut02%20Glossary.html), [4](https://paroj.github.io/gltut/Positioning/Tut04%20Glossary.html), [5](https://paroj.github.io/gltut/Positioning/Tut05%20Glossary.html), [6](https://paroj.github.io/gltut/Positioning/Tut06%20Glossary.html), [7](https://paroj.github.io/gltut/Positioning/Tut07%20Glossary.html), [8](https://paroj.github.io/gltut/Positioning/Tut08%20Glossary.html) - OpenGL 3D programming glossary.
-- [Canvas Cheatsheet](https://skilled.co/html-canvas/images/HTML_Canvas_Cheatsheet.pdf) - Quick and visual canvas cheatsheet.
+- [Canvas Cheatsheet](https://web.archive.org/web/20171226205420/https://skilled.co/html-canvas/) - Quick and visual canvas cheatsheet.
 - [WebGL Cheatsheet](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API reference card.
 - [Glossary of Computer Graphics](https://en.wikipedia.org/wiki/Glossary_of_computer_graphics) - Glossary of terms relating computer graphics.
 - [GLSL Reference Guide](http://www.cs.cmu.edu/afs/cs/academic/class/15462-f10/www/lec_slides/glslref.pdf) - OpenGL Shading Language quick reference guide.
@@ -399,6 +419,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [r/shaders](https://www.reddit.com/r/shaders/) - Subreddit on shaders.
 - [r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/) - Subreddit on procedural generation.
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - Subreddit on machine learning.
+- [r/generative](https://www.reddit.com/r/generative/) - Subreddit on generative art and music.
 
 ### Slack
 
@@ -497,7 +518,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 ## Events
 
 - [OFFF Festival](http://offf.barcelona/) - Digital design festival (*Online Flash Film Festival*).
-- [Resonate](http://resonate.io/) - Festical in Belgrade about cutting edge music, visual arts and digital culture.
 - [Gray Area Festival](http://grayareafestival.io/) - Creative coding, art and technology festival.
 - [Signal Festival](http://www.signalfestival.com/) - Showcase of light art and emerging technologies in Prague, the Czech Republic.
 - [Eyeo Festival](http://eyeofestival.com/) - Bring together creative coders, data designers and creators working at the intersection of data, art and technology.
@@ -508,14 +528,19 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Curated Creative Events](http://events.thesupply.com/) - Hand-picked design, code, art, fashion and maker events.
 - [NextArt Night](https://nextart.tech/) - Inspiring people through creative uses of tech.
 - [GROW](https://www.grow.paris/) - The Parisian rendez-vous for creative coders, GROW is about opening new possibilities in digital creation.
-  
+
 ## Museums • Galleries
 - [ZKM — Zentrum für Kunst und Medien, Karlsruhe/Germany](https://zkm.de) -  ZKM organizes exhibitions and events on the effects of media, digitization, and globalization.
 - [Ars Electronica Center, Linz/Austria](https://ars.electronica.art/center/) - Museum of the Future — a place where diverse blends of artistic genres, scientific domains and technological directions are displayed and processed.
 - [Technorama, Zurich/Switzerland](https://www.technorama.ch/en/home) - Technorama allows hands-on experiences of hundreds of natural phenomena and technology.
+- [Kate Vass Gallery - Zürich/Switzerland](https://www.katevassgalerie.com/) - Contemporary art gallery presenting works by international established, mid-career, and emerging artists focusing on photography and new technologies.
+- [Digital Art Museum - Berlin/Germany](http://dam.org) - Digital Art Museum is an **online** resource for the history and practice of digital fine art.
+- [NXT Museum - Amsterdam/Netherlands](https://nxtmuseum.com) - The first museum in the Netherlands dedicated to new media art.
 
 ## Schools • Workshops
 
+- [Goldsmiths, UoL, MA Computational Art](https://www.gold.ac.uk/pg/ma-computational-arts/) - Graduate program in London which develops your arts practice through the expressive world of creative computation
+- [UAL Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute) - school in London working at the intersection of creativity and computational technologies
 - [School for Poetic Computation](http://sfpc.io/) - School in New York that explore the intersections of code, design, hardware and theory.
 - [Copenhagen Institute of Interaction Design](http://ciid.dk/) - Hosts a range of educational initiatives, most notably, the Interaction Design Programme and the CIID Summer School.
 - [Residencies, Fellowships, Summer Schools](https://docs.google.com/spreadsheets/d/1o__WKUBTHLoQX8pSRJsh0wMC8fCGzycQ0ezxe5CklxM/edit?usp=sharing) - Huge list of residencies, fellowships and summer schools around the world (Navigate with the bottom left tabs).
@@ -533,6 +558,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [songho.ca](http://www.songho.ca/) - Home of Song Ho Ahn, with a good collection of tutorials on OpenGL and math.
 - [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon schreibt.
 - [sighack.com](https://sighack.com/) - Blog about generative art algorithms and techniques, by Manohar Vanga.
+- [jsdo.it-archives](https://github.com/cx20/jsdo.it-archives) - Compilation of WebGL experiments including comparisons on WebGL frameworks and physics engine (oimo.js, cannon.js, ammo.js)
+- [WebAudio Weekly](https://www.webaudioweekly.com/) - Newsletter to know everything about the WebAudio API
 
 ## Related
 
@@ -550,6 +577,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
+- [Awesome creative technology](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
 
 ## Special Thanks
 
