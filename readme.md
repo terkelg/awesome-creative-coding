@@ -159,7 +159,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Notch Builder](https://www.notch.one) [Win] - Node-based authoring tool with a strong focus on real-time graphics. Currently in beta.
 - [Synopsis](https://synopsis.video/) - A suite of open source software for computational cinematography.
 - [JOY.JS](https://ncase.me/joy/) - Realtime visual coding tool, easy to understand and aimed at beginners.
-- [Pixel Nodes](https://pixelnodes.app/) [iPad] - Live graphics node editor, powered by PixelKit.
+- [Circles](http://circles.software) [iPhone, iPad, Mac] - Live graphics node editor, powered by AsyncGraphics.
 
 ### Sound Programming Languages
 
