@@ -476,7 +476,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Machine learning • Computer Vision • Ai
 
-- [ml4a](http://ml4a.github.io/) - Machine learning for artists.
+- [ml4a](https://ml4a.net/) - Machine learning for artists.
 - [Keras.js](https://transcranial.github.io/keras-js/) - Run Keras models (tensorflow backend) in the browser, with GPU support.
 - [Tesseract.js](http://tesseract.projectnaptha.com/) - Pure Javascript Multilingual OCR.
 - [Google ML](https://cloud.google.com/ml/) - Cloud machine learning by Google.
