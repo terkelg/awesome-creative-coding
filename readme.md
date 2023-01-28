@@ -8,14 +8,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
----
-
-⭐ **Don't know where to start?** Check out **[Creative Coding course on Frontend Masters](https://frontendmasters.com/courses/canvas-webgl/)**. ⭐
-
-🌟 **Want to go deeper?** Check out **[Advanced Creative Coding with WebGL & Shaders on Frontend Masters](https://frontendmasters.com/courses/webgl-shaders/)**. 🌟
-
----
-
 ## Contents
 
 - [Books](#books)
@@ -95,8 +87,8 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) - A free book for when you really need to know how to do Bézier things.
 - [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners) - Step-by-step guide to real-time shading techniques.
 - [XEM WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - Step-by-step guide to WebGL.
-- [WebGL Academy](http://www.webglacademy.com/) - Learn WebGL and 3D algorithmic in a progressive and interactive way.
-- [Creative Coding Notebooks](https://diegoinacio.github.io/creative-coding-notebooks-page/) - Collection of fundamental Python recipes on Creative Coding and Recreational Programming, by Diego Inácio.
+- [Creative Coding Notebooks](https://diegoinacio.github.io/creative-coding-notebooks-page/) - An authorial set of fundamental Python recipes on Creative Coding and Computer Art, by Diego Inácio.
+- [WebGL Academy](http://www.webglacademy.com) - Learn WebGL and 3D algorithmic in a progressive and interactive way. (Archived)
 
 ## Courses
 
@@ -201,6 +193,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Oimo.js](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
 - [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten
 - [Theatre.js](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
+- [GraphicsJS](http://www.graphicsjs.org) - A lightweight open-source JavaScript library for graphics and animations (SVG/VML).
 
 ### Projection Mapping • VJing
 
@@ -477,7 +470,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Machine learning • Computer Vision • Ai
 
-- [ml4a](http://ml4a.github.io/) - Machine learning for artists.
+- [ml4a](https://ml4a.net/) - Machine learning for artists.
 - [Keras.js](https://transcranial.github.io/keras-js/) - Run Keras models (tensorflow backend) in the browser, with GPU support.
 - [Tesseract.js](http://tesseract.projectnaptha.com/) - Pure Javascript Multilingual OCR.
 - [Google ML](https://cloud.google.com/ml/) - Cloud machine learning by Google.
@@ -579,10 +572,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
 - [Awesome creative technology](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
-
-## Special Thanks
-
-[<img src="https://static.frontendmasters.com/assets/fm/js/frontendmasters.478a4e60fe.svg" height="35">](https://frontendmasters.com)
 
 ## License
 
