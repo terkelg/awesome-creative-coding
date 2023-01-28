@@ -8,14 +8,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
----
-
-⭐ **Don't know where to start?** Check out **[Creative Coding course on Frontend Masters](https://frontendmasters.com/courses/canvas-webgl/)**. ⭐
-
-🌟 **Want to go deeper?** Check out **[Advanced Creative Coding with WebGL & Shaders on Frontend Masters](https://frontendmasters.com/courses/webgl-shaders/)**. 🌟
-
----
-
 ## Contents
 
 - [Books](#books)
@@ -578,10 +570,6 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
 - [Awesome creative technology](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
-
-## Special Thanks
-
-[<img src="https://static.frontendmasters.com/assets/fm/js/frontendmasters.478a4e60fe.svg" height="35">](https://frontendmasters.com)
 
 ## License
 
