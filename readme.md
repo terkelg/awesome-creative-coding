@@ -135,7 +135,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 [Cross-platform] - Open-source creative coding framework for the Rust language
 - [thi.ng](http://thi.ng/)
 [Cross-platform] - Open source collection of computational design tools for the Clojure and ClojureScript languages
-- [PixelKit](http://pixelkit.net/) [iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
+- [PixelKit](https://github.com/heestand-xyz/PixelKit) [iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
 - [OPENRNDR](https://openrndr.org/) [Cross-platform] - Open source library for creative coding written in Kotlin.
 - [Phaser](https://phaser.io/) [Cross-platform] - HTML5 framework for building games, uses both a Canvas and WebGL renderer.
 - [Canvas-sketch](https://github.com/mattdesl/canvas-sketch) [Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
