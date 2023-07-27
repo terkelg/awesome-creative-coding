@@ -178,7 +178,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Pts.js](https://ptsjs.org/) - JavaScript library for visualization and creative-coding.
 - [Fabric.js](http://fabricjs.com/) - Javascript canvas library, SVG-to-canvas parser.
 - [Maker.js](https://maker.js.org) - Parametric line drawing for SVG, CNC & laser cutters.
-- [OpenJSCAD](https://openjscad.org) - Programmatic 3D modeling in JavaScript.
+- [OpenJSCAD](https://openjscad.xyz) - Programmatic 3D modeling in JavaScript.
 - [Sketch.js](http://soulwire.github.io/sketch.js/) - Minimal JavaScript creative coding framework.
 - [Two.js](https://two.js.org/) - Two-dimensional drawing api geared towards modern web browsers.
 - [ClayGL](http://claygl.xyz/) - WebGL graphic library for building scalable Web3D applications.
