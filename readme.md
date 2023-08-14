@@ -472,6 +472,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 
 ## Machine learning • Computer Vision • Ai
 
+- [Synthical](https://synthical.com/) - AI-powered Research environment
 - [ml4a](https://ml4a.net/) - Machine learning for artists.
 - [Keras.js](https://transcranial.github.io/keras-js/) - Run Keras models (tensorflow backend) in the browser, with GPU support.
 - [Tesseract.js](http://tesseract.projectnaptha.com/) - Pure Javascript Multilingual OCR.
