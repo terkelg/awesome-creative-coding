@@ -155,6 +155,7 @@ Creative coding is a different discipline than programming systems. The goal is 
 - [Synopsis](https://synopsis.video/) - A suite of open source software for computational cinematography.
 - [JOY.JS](https://ncase.me/joy/) - Realtime visual coding tool, easy to understand and aimed at beginners.
 - [Circles](http://circles.software) [iPhone, iPad, Mac] - Live graphics node editor, powered by AsyncGraphics.
+- [TIC-80](https://tic80.com/) - Make pixel art style games and art on a 240*136 pixel screen.
 
 ### Sound Programming Languages
 
