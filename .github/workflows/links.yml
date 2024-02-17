@@ -2,11 +2,11 @@ name: Markdown Links Check
 
 # runs every monday at 9 am
 on:
-  push:
-    branches:
-      - link-checker
+  # push:
+  #   branches:
+  #     - main
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "0 0 1 * *"
 
 jobs:
   markdown-link-check:
