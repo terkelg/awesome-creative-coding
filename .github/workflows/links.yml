@@ -4,7 +4,7 @@ name: Markdown Links Check
 on:
   push:
     branches:
-    - link-checker
+      - link-checker
   schedule:
     - cron: "0 9 * * *"
 
@@ -12,8 +12,8 @@ jobs:
   markdown-link-check:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - uses: gaurav-nelson/github-action-markdown-link-check@v1
-    - with:
-        use-quiet-mode: 'yes'
-        use-verbose-mode: 'yes'
+      - uses: actions/checkout@master
+      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: "yes"
+          use-verbose-mode: "yes"
