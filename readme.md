@@ -393,6 +393,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Procedural Patterns And Noises](http://www.neilblevins.com/art_lessons/procedural_noise/procedural_noise.html) - Collection of procedural patterns and procedural noises.
 - [Visual Noises](https://ramesaliyev.com/visual-noises/) - Visualize noise algorithms in 1D and 2D.
 - [Trigonoparty](https://ramesaliyev.com/trigonoparty/) - Simple trigonometry visualisation.
+- [Morphogenesis](https://github.com/jasonwebb/morphogenesis-resources) - Exploration of how shapes, forms, and patterns emerge in nature.
 
 ## Communities
 
