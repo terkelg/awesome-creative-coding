@@ -156,7 +156,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ### Sound Programming Languages
 
-- [Glicol](https://glicol.org) - Graph-oriented live coding language and music/audio DSP library written in Rust.
 - [SuperCollider](http://supercollider.github.io/) [Multi-platform] - Platform for audio synthesis and algorithmic composition.
 - [ChucK](http://chuck.cs.princeton.edu/) - Strongly-timed, concurrent, and on-the-fly music programming language.
 - [TidalCycles](https://tidalcycles.org/) - Domain specific language for live coding of pattern.
@@ -166,6 +165,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [handel](https://handel-pl.github.io/) - A small procedural programming language for writing songs in browser.
 - [Overtone](https://overtone.github.io/) - An open source audio environment designed to explore new musical ideas from synthesis and instrument building to live-coding.
 - [Melrōse](https://melrōse.org/) - A MIDI producing environment for creating (live) music.
+- [Glicol](https://glicol.org) - Graph-oriented live coding language and music/audio DSP library written in Rust.
 
 ### Web Programming • Libraries
 
