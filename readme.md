@@ -133,6 +133,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Canvas-sketch](https://github.com/mattdesl/canvas-sketch) [Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
 - [AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) [iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
 - [Lygia](https://github.com/patriciogonzalezvivo/lygia) [Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
+- [Fragment.tools](https://github.com/raphaelameaume/fragment) [Cross-platform] - A web development environment for creative coding.
 
 ### Visual Programming Languages
 
