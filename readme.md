@@ -231,6 +231,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Shelly](https://shelly.dev/) - Learn programming by issuing instructions to a turtle.
 - [tixy.land](https://tixy.land/) - The most minimalist creative coding environment is alive.
 - [BBC Micro bot](https://www.bbcmicrobot.com/) - Run your tweet on an 8-bit computer emulator.
+- [Hydra](https://hydra.ojack.xyz/) - Live code-able video synth and coding environment.
 
 ### Hardware
 
