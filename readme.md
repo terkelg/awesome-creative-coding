@@ -126,7 +126,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [nannou](http://nannou.cc/)
   [Cross-platform] - Open-source creative coding framework for the Rust language.
 - [thi.ng](http://thi.ng/)
-  [Cross-platform] - Open source collection of computational design tools for the Clojure and ClojureScript languages.
+  [Cross-platform] - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
 - [PixelKit](https://github.com/heestand-xyz/PixelKit) [iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
 - [OPENRNDR](https://openrndr.org/) [Cross-platform] - Open source library for creative coding written in Kotlin.
 - [Phaser](https://phaser.io/) [Cross-platform] - HTML5 framework for building games, uses both a Canvas and WebGL renderer.
