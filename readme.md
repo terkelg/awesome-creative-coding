@@ -116,6 +116,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ### Frameworks • Libraries • Ecosystems
 
 - [Processing](https://processing.org) [Cross-platform] - Computer programming language and IDE for visual arts.
+- [py5](https://py5coding.org) [Cross-platform] - A library that intergrates Processing into the Python 3 ecossystem.
 - [Cinder](https://libcinder.org/) [Cross-platform] - Open source library for professional-quality creative coding in C++.
 - [openFrameworks](http://openframeworks.cc/) [Cross-platform] - Open source C++ toolkit for creative coding.
 - [C4](http://www.c4ios.com) [iOS] - Open-source creative coding framework for iOS.
