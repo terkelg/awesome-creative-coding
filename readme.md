@@ -256,7 +256,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [KodeLife](https://hexler.net/software/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
 - [ISF](https://www.interactiveshaderformat.com/) - GLSL shaders for use in interactive applications.
 - [glslViewer](http://patriciogonzalezvivo.com/2015/glslViewer/) - Live-coding console tool that renders GLSL Shaders.
-- [DrawBot](http://www.drawbot.com/) [Mac] - Education oriented 2d graphics programming environment based on python.
+- [DrawBot](http://www.drawbot.com/) [Mac] - Education oriented 2d graphics programming environment based on Python.
 - [Klak](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
 - [basil.js](https://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
 - [Konstrukt](https://github.com/MarcelMue/konstrukt) [Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
