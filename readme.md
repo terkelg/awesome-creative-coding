@@ -264,7 +264,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [basil.js](https://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
 - [Konstrukt](https://github.com/MarcelMue/konstrukt) [Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
 
-
 ## Learning Resources
 
 ### Videos
