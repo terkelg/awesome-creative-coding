@@ -135,6 +135,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) [iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
 - [Lygia](https://github.com/patriciogonzalezvivo/lygia) [Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
 - [Fragment.tools](https://github.com/raphaelameaume/fragment) [Cross-platform] - A web development environment for creative coding.
+- [TIC-80](https://tic80.com/) - Make pixel art style games and art on a 240\*136 pixel screen.
+- [Decker](https://beyondloom.com/decker/) - A Hypercard-inspired multimedia platform with custom scripting language.
 
 ### Visual Programming Languages
 
@@ -154,7 +156,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Notch Builder](https://www.notch.one) [Win] - Node-based authoring tool with a strong focus on real-time graphics. Currently in beta.
 - [JOY.JS](https://ncase.me/joy/) - Realtime visual coding tool, easy to understand and aimed at beginners.
 - [Circles](http://circles.software) [iPhone, iPad, Mac] - Live graphics node editor, powered by AsyncGraphics.
-- [TIC-80](https://tic80.com/) - Make pixel art style games and art on a 240\*136 pixel screen.
 
 ### Sound Programming Languages
 
@@ -262,6 +263,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Klak](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
 - [basil.js](https://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
 - [Konstrukt](https://github.com/MarcelMue/konstrukt) [Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
+
 
 ## Learning Resources
 
