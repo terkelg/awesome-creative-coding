@@ -427,6 +427,11 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Pass The Pen](https://spectrum.chat/codepen/pass-the-pen/) - A community of front-end developers who build collaborative creative coding projects on CodePen.
 - [Creative Tech Weekly](https://us19.campaign-archive.com/home/?u=ac884610ba6fe07f4988a2182&id=ad49a755b1) - A weekly newsletter of resources around creative technology.
 
+### Offline
+
+- [Creative Code Berlin](https://creativecode.berlin/) - Two monthly meetups in Berlin, Germany since 2012.
+- [Creative Coding Utrecht](https://creativecodingutrecht.nl/en) - Meetups, workshops and events in Utrecht, Netherlands.
+
 ## Math
 
 - [Math as code](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form.
