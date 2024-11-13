@@ -2,86 +2,86 @@
 
 # [<img src="https://cdn.rawgit.com/terkelg/awesome-creative-coding/master/cover.png">](https://github.com/terkelg/awesome-creative-coding)
 
-> Carefully curated list of awesome [creative coding](https://en.wikipedia.org/wiki/Creative_coding) resources primarily for beginners/intermediates.
+> Başlangıç/orta seviyedeki kullanıcılar için özenle seçilmiş harika [yaratıcı kodlama](https://en.wikipedia.org/wiki/Creative_coding) kaynakları.
 
-Creative coding is a different discipline than programming systems. The goal is to create something expressive instead of something functional. **Interaction design**, **information visualization** and **generative art** are all different types of creative coding – which has become a household term describing **artworks articulated as code**.
+Yaratıcı kodlama, sistem programlamasından farklı bir disiplindir. Amaç işlevsel bir şey yaratmak yerine ifade edici bir şey yaratmaktır. **Etkileşim tasarımı**, **Bilgi görselleştirme** and **Üretken sanat** yaratıcı kodlamanın farklı türleridir – bu, **kodla ifade edilen sanat eserleri** tanımlamak için kullanılan bir terim haline gelmiştir.
 
-_Please read the [contribution guidelines](contributing.md) before contributing._
+_Lütfen katkı yapmadan önce [katkı yönergelerini](contributing.md) okuyun._
 
-## Contents
+## İçindekiler
 
-- [Books](#books)
-- [Online Books](#online-books)
-- [Courses](#courses)
-- [Tools](#tools)
+- [Kitaplar](#books)
+- [Çevrimiçi Kitaplar](#online-books)
+- [Kurslar](#courses)
+- [Araçlar](#tools)
   - [Frameworks • Libraries • Ecosystems](#frameworks--libraries--ecosystems)
-  - [Visual Programming Languages](#visual-programming-languages)
-  - [Sound Programming Languages](#sound-programming-languages)
-  - [Web Programming • Libraries](#web-programming--libraries)
-  - [Projection Mapping • VJing](#projection-mapping--vjing)
-  - [Online](#online)
-  - [Hardware](#hardware)
-  - [Other](#other)
-- [Learning Resources](#learning-resources)
-  - [Videos](#videos)
-  - [Talks](#talks)
-  - [Articles](#articles)
-    - [Shaders • OpenGL • WebGL](#shaders--opengl--webgl)
+  - [Görsel Programlama Dilleri](#visual-programming-languages)
+  - [Ses Programlama Dilleri](#sound-programming-languages)
+  - [Web Programlama • Kütüphaneler](#web-programming--libraries)
+  - [Projeksiyon Haritalama • VJing](#projection-mapping--vjing)
+  - [Çevrimiçi](#online)
+  - [Donanım](#hardware)
+  - [Diğer](#other)
+- [Öğrenme Kaynakları](#learning-resources)
+  - [Videolar](#videos)
+  - [Konuşmalar](#talks)
+  - [Makaleler](#articles)
+    - [Shaderlar • OpenGL • WebGL](#shaders--opengl--webgl)
     - [Canvas](#canvas)
-    - [Hardware](#hardware-1)
-    - [Other](#other-1)
-  - [Interactive](#interactive)
-  - [Quick References • Cheat-Sheets](#quick-references--cheatsheets)
-- [Communities](#communities)
-  - [Subreddits](#subreddits)
+    - [Donanım](#hardware-1)
+    - [Diğer](#other-1)
+  - [Etkileşimli](#interactive)
+  - [Hızlı Referanslar • İpucu Sayfaları](#quick-references--cheatsheets)
+- [Topluluklar](#communities)
+  - [Subreddit'ler](#subreddits)
   - [Slack](#slack)
-  - [Other](#other-2)
-- [Math](#math)
-- [Machine learning • Computer Vision • Ai](#machine-learning--computer-vision--ai)
-- [Inspiration](#inspiration)
-- [Events](#events)
-- [Schools • Workshops](#schools--workshops)
-- [Blogs • Websites](#blogs--websites)
-- [Related](#related)
+  - [Diğer](#other-2)
+- [Matematik](#math)
+- [Makine Öğrenimi • Bilgisayarlı Görü • Yapay Zeka](#machine-learning--computer-vision--ai)
+- [İlham](#inspiration)
+- [Etkinlikler](#events)
+- [Okullar • Atölyeler](#schools--workshops)
+- [Bloglar • Web Siteleri](#blogs--websites)
+- [İlgili](#related)
 
-## Books
+## Kitaplar
 
-- [Generative Art: A Practical Guide](https://www.manning.com/books/generative-art) - Practical guide using Processing.
-- [Generative Design](http://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
-- [The Nature of Code](http://natureofcode.com/) - Simulating natural systems with Processing.
-- [Programming Design Systems](https://programmingdesignsystems.com/) - Practical introduction to the new foundations of graphic design.
-- [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - Series of tutorials on using OpenGL to do graphical rendering.
-- [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) - Designer's Guide to Processing, Arduino, and openFrameworks.
-- [openFrameworks Essentials](https://www.packtpub.com/application-development/openframeworks-essentials) - openFrameworks beginner Guide for programmer, visual artist, or designer.
-- [Mastering openFrameworks: Creative Coding Demystified](https://www.packtpub.com/application-development/mastering-openframeworks-creative-coding-demystified) - Advanced in depth guide to openFrameworks.
-- [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/Algorithms-Visual-Design-Processing-Language/dp/0470375485) - Experiment with design problems to create 3D animations, GUIs, and more.
-- [Foundation HTML5 Animation with JavaScript](http://www.apress.com/us/book/9781430236658) - Everything you need to know to create animation using the HTML5 canvas.
-- [Playing with chaos](http://www.playingwithchaos.net/) - Programming Fractals and Strange Attractors in JavaScript.
-- [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8/) - Mini book about Ray Tracing.
-- [Processing 2: Creative Programming Cookbook](https://www.packtpub.com/hardware-and-creative/processing-2-creative-programming-cookbook) - Guides you to explore the Processing environment using practical and useful recipes.
-- [Data-driven Graphic Design](https://www.amazon.com/dp/1472578309/) - Creative Coding for Visual Communication.
-- [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Third-Tomas-Akenine-Moller/dp/1568814240) - Learn how to use modern techniques to generate synthetic three-dimensional images in a fraction of a second.
-- [Graphics Shaders: Theory and Practice](https://www.amazon.com/Graphics-Shaders-Theory-Practice-Second/dp/1568814348/) - Introduction to shader programming in general, but focusing on the GLSL shading language.
-- [Anton's OpenGL 4 Tutorials](https://www.amazon.com/gp/product/B00LAMQYF2/) - Practical guide to starting 3d programming with OpenGL.
-- [Physics for JavaScript Games, Animation, and Simulations](http://www.apress.com/us/book/9781430263371) - Teaches JavaScript programmers how to incorporate real physics into their HTML5 games, animations, and simulations.
-- [Math for Programmers](https://www.manning.com/books/math-for-programmers) - Book teaches you to solve mathematical problems in code.
-- [Synthèse d'images avec OpenGL (ES)](https://www.d-booker.fr/opengl/78-synthese-d-images.html) - Book in french, which covers OpenGL, OpenGL ES and WebGL.
-- [Hands-On Music Generation with Magenta](https://alexandredubreuil.com/publications/2020-01-31-music-generation-with-magenta-deep-learning-in-music-generation/) - Explore the role of deep learning in music generation and assisted music composition.
+- [Generative Art: A Practical Guide](https://www.manning.com/books/generative-art) - Processing kullanarak pratik bir rehber.
+- [Generative Design](http://www.generative-gestaltung.de/) - Processing ile görselleştirme, programlama ve yaratma.
+- [The Nature of Code](http://natureofcode.com/) - Processing ile doğal sistemlerin simülasyonu.
+- [Programming Design Systems](https://programmingdesignsystems.com/) - Grafik tasarımın yeni temellerine pratik bir giriş.
+- [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - OpenGL kullanarak grafiksel render yapmayı öğreten bir ders serisi.
+- [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) - Processing, Arduino ve openFrameworks için Tasarımcı Rehberi.
+- [openFrameworks Essentials](https://www.packtpub.com/application-development/openframeworks-essentials) - openFrameworks için başlangıç rehberi, programcı, görsel sanatçı veya tasarımcı için.
+- [Mastering openFrameworks: Creative Coding Demystified](https://www.packtpub.com/application-development/mastering-openframeworks-creative-coding-demystified) - openFrameworks'e derinlemesine bir rehber.
+- [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/Algorithms-Visual-Design-Processing-Language/dp/0470375485) - 3D animasyonlar, GUI'ler ve daha fazlasını yaratmak için tasarım problemleri ile denemeler yapın.
+- [Foundation HTML5 Animation with JavaScript](http://www.apress.com/us/book/9781430236658) - HTML5 canvas kullanarak animasyon oluşturmak için bilmeniz gereken her şey.
+- [Playing with chaos](http://www.playingwithchaos.net/) - JavaScript'te Fraktallar ve Garip Çekiciler ile Programlama.
+- [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8/) - Ray Tracing üzerine mini kitap.
+- [Processing 2: Creative Programming Cookbook](https://www.packtpub.com/hardware-and-creative/processing-2-creative-programming-cookbook) - Processing ortamını keşfetmek için pratik ve faydalı tarifler.
+- [Data-driven Graphic Design](https://www.amazon.com/dp/1472578309/) - Görsel İletişim için Yaratıcı Kodlama.
+- [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Third-Tomas-Akenine-Moller/dp/1568814240) - Modern tekniklerle anında üç boyutlu görüntüler oluşturmayı öğrenin.
+- [Graphics Shaders: Theory and Practice](https://www.amazon.com/Graphics-Shaders-Theory-Practice-Second/dp/1568814348/) - Shader programlamaya giriş, GLSL shading diline odaklanarak.
+- [Anton's OpenGL 4 Tutorials](https://www.amazon.com/gp/product/B00LAMQYF2/) - OpenGL ile 3D programlamaya başlamak için pratik rehber.
+- [Physics for JavaScript Games, Animation, and Simulations](http://www.apress.com/us/book/9781430263371) - JavaScript programcılarına HTML5 oyunları, animasyonları ve simülasyonları için gerçek fiziği nasıl entegre edeceklerini öğretir.
+- [Math for Programmers](https://www.manning.com/books/math-for-programmers) - Kitap, matematiksel problemleri kodla çözmeyi öğretir.
+- [Synthèse d'images avec OpenGL (ES)](https://www.d-booker.fr/opengl/78-synthese-d-images.html) - Fransızca kitap, OpenGL, OpenGL ES ve WebGL'yi kapsar.
+- [Hands-On Music Generation with Magenta](https://alexandredubreuil.com/publications/2020-01-31-music-generation-with-magenta-deep-learning-in-music-generation/) - Müzik üretimi ve yardımcı müzik kompozisyonu üzerine derin öğrenmenin rolünü keşfedin.
 
-## Online Books
+## Çevrimiçi Kitaplar
 
-- [The Book of Shaders](https://thebookofshaders.com/) - Step-by-step guide through the abstract and complex universe of fragment shaders.
-- [WebGL Fundamentals](http://webglfundamentals.org/) - WebGL from the ground up. No magic.
-- [WebGL 2 Fundamentals](http://webgl2fundamentals.org/) - WebGL2 from the ground up. No magic.
-- [Learn OpenGL](https://learnopengl.com/) - Extensive tutorial resource for learning Modern OpenGL.
-- [Scratchapixel 2.0](http://www.scratchapixel.com/) - Learn Computer Graphics From Scratch.
-- [ofBook](http://openframeworks.cc/ofBook/chapters/foreword.html) - Community-written book/guide on openFrameworks.
-- [OGLdev](http://ogldev.atspace.co.uk/) - Collection of modern OpenGL tutorials by Etay Meiri.
-- [OpenGL Tutorial](http://www.opengl-tutorial.org/) - Site dedicated to tutorials for OpenGL 3.3 and later.
-- [Open.gl](https://open.gl/) - Guide that teach you the basics of using OpenGL.
-- [Pixel Shaders](http://pixelshaders.com/) - Interactive Introduction to Graphics Programming.
-- [OpenGLBook](http://openglbook.com/) - Free OpenGL programming tutorial in online book format.
-- [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html) - Book about 3D computational graphics by Morgan McGuire.
+- [The Book of Shaders](https://thebookofshaders.com/) - Fragment shader'ların soyut ve karmaşık evreninde adım adım rehber.
+- [WebGL Fundamentals](http://webglfundamentals.org/) - WebGL'yi sıfırdan öğrenin.Sihir yok.
+- [WebGL 2 Fundamentals](http://webgl2fundamentals.org/) - WebGL2'yi sıfırdan öğrenin. Hiçbir sihir yok.
+- [Learn OpenGL](https://learnopengl.com/) - Modern OpenGL öğrenmek için kapsamlı bir öğretici kaynağı.
+- [Scratchapixel 2.0](http://www.scratchapixel.com/) - Scratch ile Bilgisayar Grafikleri Öğrenin.
+- [ofBook](http://openframeworks.cc/ofBook/chapters/foreword.html) - openFrameworks hakkında topluluk tarafından yazılmış bir kitap/rehber.
+- [OGLdev](http://ogldev.atspace.co.uk/) - Etay Meiri tarafından yazılmış modern OpenGL derslerinin koleksiyonu.
+- [OpenGL Tutorial](http://www.opengl-tutorial.org/) - OpenGL 3.3 ve sonrasına yönelik öğreticilere adanmış site.
+- [Open.gl](https://open.gl/) - OpenGL kullanmayı öğrenmenizi sağlayacak rehber.
+- [Pixel Shaders](http://pixelshaders.com/) - Grafik Programlamaya Etkileşimli Giriş.
+- [OpenGLBook](http://openglbook.com/) - Ücretsiz OpenGL programlama öğreticisi, çevrimiçi kitap formatında.
+- [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html) - Morgan McGuire tarafından yazılmış 3D hesaplamalı grafikler üzerine bir kitap.
 - [On Generative Algorithms](http://inconvergent.net/generative/) - Notes about generating various organic patterns, with examples and Python code, by Anders Hoff.
 - [Computer Graphics from Scratch](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html) - A raytracing and rasterization textbook that teaches you how OpenGL and DirectX works.
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) - A free book for when you really need to know how to do Bézier things.
