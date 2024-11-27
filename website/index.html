@@ -1,50 +1,180 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Awesome Creative Coding</title>
     <style>
-      body {
+      * {
+      margin: 0;
+      padding: 0;
+      }
+      body, html {
         background-color: #F1D3D3;
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
         color: #191E4C;
+        height: 100%;
+        overflow: hidden;
       }
       a {
         color: #191E4C;
         text-decoration: none;
         display: block;
       }
-      h1 {
+      section:nth-child(1) h1 {
         font-size: 32px;
-        margin-bottom: 0;
+        margin-top: 0.67em;
         text-transform: uppercase;
       }
       .wrapper {
         display: flex;
-        align-items: center;
-        justify-content: center;
-        height: 100%;
+        flex-direction: column;
+        transition: transform 0.5s ease, visibility 0s 0.5s;
+        height: 200%;
       }
       section {
-        width: 600px;
+        height: 100vh;
+        width: 100%;
         text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        visibility: hidden;
+        opacity: 0;
+        transition: visibility 0s 0.5s, opacity 0.5s ease-in-out;
+        position: relative;
       }
-      img {
+      section:nth-child(1) div {
+      position: absolute;
+      width: 600px;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      }
+      section:nth-child(1) img {
         width: 40%;
         margin-bottom: 15px;
       }
-      p { font-weight: bold }
+      section:nth-child(1) p { 
+        font-weight: bold; 
+        margin-top: 1em;
+        margin-bottom: 1em;
+      }
+      .btn {
+      position: absolute;
+      padding: 2px;
+      background-color: rgba(0, 0, 0, 0);
+      border: none;
+      cursor: pointer;
+      bottom: 0;
+      letter-spacing: 2px;
+      transition: all 0.3s ease;
+      }
+      .btn:hover {
+        transform: scale(1.2);
+      }
+      .back-btn {
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding: 1rem 2rem;
+        background-color: rgba(0, 0, 0, 0.5);
+        color: white;
+        font-size: 1.5rem;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        letter-spacing: 2px;
+      }
+      .back-btn:hover {
+        background-color: rgba(0, 0, 0, 0.8);
+      }
+      section:nth-child(2) {
+      width: 100%;
+      position: relative;
+      }
+      .back-btn {
+      position: absolute;
+      top: 0;
+      right: 0;
+      padding: 1rem 2rem;
+      background-color: rgba(0, 0, 0, 0.5);
+      color: white;
+      font-size: 1.5rem;
+      border: none;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      letter-spacing: 2px;
+      }
+      .back-btn:hover {
+        background-color: rgba(0, 0, 0, 0.8);
+      }
     </style>
   </head>
   <body>
     <div class="wrapper">
 
       <section>
+        <div>
         <img src="logo.png" title="Creative Coding Logo" alt="logo">
         <a href="https://github.com/terkelg/awesome-creative-coding">
           <h1>Awesome Creative Coding</h1>
           <p>Click here to see the awesomelist on GitHub</p>
         </a>
+        </div>
+        <button class="btn" onclick="nextPage()"><img src="scroll_icon.png" alt="scroll icon"></button>
       </section>
 
+      <section>
+        <button class="back-btn" onclick="previousPage()">Home</button>
+      </section>
     </div>
+
+    <script>
+      let currentPage = 0;
+      const sections = document.querySelectorAll('section');
+      const wrapper = document.querySelector('.wrapper');
+  
+      function nextPage() {
+        if (currentPage < sections.length - 1) {
+          currentPage++;
+          updatePage();
+        }
+      }
+  
+      function previousPage() {
+        if (currentPage > 0) {
+          currentPage--;
+          updatePage();
+        }
+      }
+  
+      window.addEventListener('wheel', function (e) {
+        if (e.deltaY > 0 && currentPage < sections.length - 1) {
+          currentPage++;
+          updatePage();
+        } else if (e.deltaY < 0 && currentPage > 0) {
+          currentPage--;
+          updatePage();
+        }
+      });
+  
+      function updatePage() {
+        wrapper.style.transform = `translateY(-${currentPage * 100}vh)`;
+  
+        sections.forEach((section, index) => {
+          if (index === currentPage) {
+            section.style.visibility = 'visible';
+            section.style.opacity = '1';
+          } else {
+            section.style.visibility = 'hidden';
+            section.style.opacity = '0';
+          }
+        });
+      }
+  
+      updatePage()
+    </script>
   </body>
 </html>
