@@ -119,6 +119,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [py5](https://py5coding.org) [Cross-platform] - A library that integrates Processing into the Python 3 ecosystem.
 - [Cinder](https://libcinder.org/) [Cross-platform] - Open source library for professional-quality creative coding in C++.
 - [openFrameworks](http://openframeworks.cc/) [Cross-platform] - Open source C++ toolkit for creative coding.
+- [NAP Framework](https://nap-framework.tech/) [Cross-platform] - Open source data-driven real-time control & visualization platform suited for professional installations in C++ (incl. Vulkan renderer).
 - [C4](http://www.c4ios.com) [iOS] - Open-source creative coding framework for iOS.
 - [Unity](https://unity3d.com/) [Mac, Win] - Game engine, but useful for creative coding and installations.
 - [Godot](https://godotengine.org) [Cross-platform] - Open source game engine, that can also be used for all sorts of things.
