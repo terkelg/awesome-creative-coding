@@ -281,6 +281,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Diving in Three.js](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf) - YouTube playlist diving into three.js.
 - [Shadertoy Tutorials](https://www.youtube.com/watch?v=u5HAYVHsasc&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5) - YouTube playlist teaching you how to make shaders, starting with zero knowledge using shadertoy.
 - [WebGL Lightning](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - Introduction to WebGL lightning with Greg Tatum.
+- [ParametricCamp](https://www.youtube.com/ParametricCamp) - Tutorials and livestreams focusing on algorithmic 3D modeling. 
 
 ### Talks
 
