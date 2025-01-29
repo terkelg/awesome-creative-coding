@@ -116,7 +116,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ### Frameworks • Libraries • Ecosystems
 
 - [Processing](https://processing.org) [Cross-platform] - Computer programming language and IDE for visual arts.
-- [py5](https://py5coding.org) [Cross-platform] - A library that intergrates Processing into the Python 3 ecossystem.
+- [py5](https://py5coding.org) [Cross-platform] - A library that integrates Processing into the Python 3 ecosystem.
 - [Cinder](https://libcinder.org/) [Cross-platform] - Open source library for professional-quality creative coding in C++.
 - [openFrameworks](http://openframeworks.cc/) [Cross-platform] - Open source C++ toolkit for creative coding.
 - [C4](http://www.c4ios.com) [iOS] - Open-source creative coding framework for iOS.
@@ -363,7 +363,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [COSMOS](http://www.c4ios.com/cosmos/) - An end-to-end tutorial on the design, programming and launch of an app using C4.
 - [Particle Physics](https://www.khanacademy.org/partner-content/pixar/effects/particle-physics/a/start-here-fx) - Particle physics explained.
 - [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - Looks at the use of visualization to understand, explain and debug algorithms.
-- [Adventures in Game Development World](http://ruh.li/) - Easy to understand collection of articles on game developement, but relevant to creative coding as well.
+- [Adventures in Game Development World](http://ruh.li/) - Easy to understand collection of articles on game development, but relevant to creative coding as well.
 - [Amit’s Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Collection of resources on stuff like path-finding, Ai, math etc.
 - [Tips to Improve Your Generative Artwork](https://tylerxhobbs.com/essays/2018/tips-to-improve-your-generative-artwork) - Tips to make your art look better.
 - [Working With Color in Generative Art](https://tylerxhobbs.com/essays/2016/working-with-color-in-generative-art) - Tips on how to get color right.
@@ -433,7 +433,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Math as code](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form.
 - [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
 - [Math snippets](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
-- [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
+- [Formula Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
 - [Learning Maths again](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
 - [Eases](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
 - [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
@@ -441,7 +441,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Algebra rules](http://algebrarules.com/) - The most useful rules of basic algebra.
 - [Immersive Math](http://immersivemath.com/ila/index.html) - Fully interactive linear algebra.
 - [Image Kernels](http://setosa.io/ev/image-kernels/) - Interactive and visual introduction to image kernels.
-- [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/) - Interactive explination of sine and cosine.
+- [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/) - Interactive explanation of sine and cosine.
 - [Perlin Noise](https://eev.ee/blog/2016/05/29/perlin-noise/) - Perlin noise explained in detail.
 - [Vector Math for 3D Computer Graphics](http://programmedlessons.org/VectorLessons/) - Tutorial on vector algebra and matrix algebra from the viewpoint of computer graphics.
 - [Desmos](https://www.desmos.com/) - Graph functions, plot data, evaluate equations, explore transformations, and much more.
@@ -457,7 +457,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Maths & trigonometry cheat sheet for 2D & 3D games](https://gist.github.com/xem/99930986c5333125a13b0ea50600391f) - Maths cheat-sheet for 2D and 3D game-makers.
 - [Matrices for Creative Coding](https://www.youtube.com/watch?v=4k9wTfxfkJU&list=PLxaZqnd-OQM7k2Gp3xu02VzExGKMKgqY2) - Introduction to matrices by Greg Tatum.
 - [Making Things With Maths](https://acko.net/tv/wdcode/) - Talk by Steven Wittens about bezier curves, procedural generation, physics engines and fractals.
-- [MyPhysicsLab](https://www.myphysicslab.com/) - Interactive real-time physics simulations, with formulars and code.
+- [MyPhysicsLab](https://www.myphysicslab.com/) - Interactive real-time physics simulations, with formulas and code.
 - [Intuitive Math](https://intuitive-math.club/) - Explanations of fields like Linear Algebra and Geometry designed to help you develop a visual intuition for what is going on.
 - [L-systems](https://github.com/arendsee/lsystems) - A Haskell package for L-systems.
 - [Linear Interpolation](https://mattdesl.svbtle.com/linear-interpolation) - Introduction to linear interpolation (also known as mix/lerp).
@@ -564,7 +564,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Graphics resources](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
 - [Magic tools](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-- [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
+- [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public available datasets, mostly free resources.
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
 - [Awesome creative technology](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
