@@ -108,7 +108,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - Learn generative art and Processing with art with Joshua Davis.
 - [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/) - Workshop by Matt DesLauriers. that teaches you about generative art, interactive animations, 3D graphics, and shaders.
 - [Advanced Creative Coding with WebGL & Shaders](https://frontendmasters.com/courses/webgl-shaders/) - Workshop by Matt DesLauriers that go deeper into graphics programming, math and shaders.
-- [Three.js Journey](https://threejs-journey.com/) - This course by Bruno Simon will teach you the secrets to create the coolest WebGL websites with Three.js whether your are a beginner or an advanced developer.
+- [Three.js Journey](https://threejs-journey.com/) - This course by Bruno Simon will teach you the secrets to create the coolest WebGL websites with Three.js whether you are a beginner or an advanced developer.
 - [3D Computer Graphics Programming](https://pikuma.com/courses/learn-3d-computer-graphics-programming) - Learn all the theory and the math behind 3D graphics while creating a software renderer from scratch using the C programming language
 
 ## Tools
@@ -310,7 +310,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
 - [GLSL lighting walkthrough](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
 - [Three glslify example](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
-- [WebGL Beyond Dom](https://github.com/gregtatum/talk-webgl-beyond-dom) - Greg Tatum explain the basic of WebGL using Regl.
+- [WebGL Beyond Dom](https://github.com/gregtatum/talk-webgl-beyond-dom) - Greg Tatum explains the basics of WebGL using Regl.
 - [FBO particles](http://barradeau.com/blog/?p=621) - Article about FBO/GPGPU particles by @nicoptere.
 - [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) - Article about ray marching with three.js by @nicoptere.
 - [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) - Introduction to custom shaders, uniforms, textures and lighting in three.js.
@@ -326,7 +326,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [WebGL Tutorials](http://www.webgltutorials.org/) - Website with a really good collection of WebGL tutorials.
 - [Generating Geometry: 1](http://codepen.io/mcdorli/post/generating-geometry-part-1-basics), [2](http://codepen.io/mcdorli/post/generating-geometry-part-2-going-3d), [3](http://codepen.io/mcdorli/post/generating-geometry-part-3-getting-spherical) - Beginner introduction on how to create geometry object.
 - [Into Vertex Shaders](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804) - Series of tutorials about WebGL, Three.js, and Three.bas.
-- [The Spaces of WebGL](https://medium.com/@Zadvorsky/into-vertex-shaders-part-1-the-spaces-of-webgl-c70ded527841) - Brief overview over the different coordinate systems through out the 3D graphics pipeline.
+- [The Spaces of WebGL](https://medium.com/@Zadvorsky/into-vertex-shaders-part-1-the-spaces-of-webgl-c70ded527841) - Brief overview over the different coordinate systems throughout the 3D graphics pipeline.
 - [WebGL Workshop](http://webgl-workshop.com/) - Short and sweet online introduction to WebGL.
 - [THREE.js & instanced geometry](http://barradeau.com/blog/?p=1109) - Fluffy predator with three.js and instanced geometry.
 - [Particle Effects via Billboards](http://www.chinedufn.com/webgl-particle-effect-billboard-tutorial/) - How to create a particle effects with billboarding and WebGL.
@@ -334,7 +334,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [WebGL Tutorial: Directional Shadow Mapping without extensions](https://www.chinedufn.com/webgl-shadow-mapping-tutorial/) - Introduction to the concepts behind real time directional light shadow mapping.
 - [WebGL Quest](http://xem.github.io/articles/#webgl_quest_2) - A tutorial and a list of useful resources to use WebGL raymarching and distance functions easily.
 - [Exploring bump mapping with WebGL](http://apoorvaj.io/exploring-bump-mapping-with-webgl.html) - Introduction to different bump mapping techniques.
-- [OpenGL/GLSL Shader Programing](http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programing.
+- [OpenGL/GLSL Shader Programming](http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programming.
 - [Particles in a Simplex Noise Flow Field](https://codepen.io/DonKarlssonSan/post/particles-in-simplex-noise-flow-field) - Perlin noise flow field tutorial.
 - [Flow Fields, Part 1](https://medium.com/@bit101/flow-fields-part-i-3ebebc688fd8) - Introduction to flow fields also known as vector fields.
 - [Flow Fields, Part 2](https://medium.com/@bit101/flow-fields-part-ii-f3c24c1b777d) - Introduction to flow fields also known as vector fields.
@@ -371,7 +371,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - [Shader-school](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
 - [Webgl-workshop](https://github.com/stackgl/webgl-workshop) - The sequel to shader-school: Learn the WebGL API.
-- [Fragment-oundry](http://hughsk.io/fragment-foundry) - Interactive fragment shader tutorial.
+- [Fragment-foundry](http://hughsk.io/fragment-foundry) - Interactive fragment shader tutorial.
 - [SDF Tutorial 1: box & balloon](https://www.shadertoy.com/view/Xl2XWt) - Shadertoy tutorial on raytracing.
 - [HOWTO: Ray Marching](https://www.shadertoy.com/view/XllGW4) - Shadertoy tutorial on Ray Marching.
 - [Raymarch Tutorial2](https://www.shadertoy.com/view/XlBGDW) - Shadertoy raymarch tutorial.
@@ -545,7 +545,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [syntopia](http://blog.hvidtfeldts.net/) - Blog about generative art and systems, by Mikael Hvidtfeldt Christensen.
 - [madebyevan.com](http://madebyevan.com/) - WebGL experiments and articles by Evan Wallace.
 - [songho.ca](http://www.songho.ca/) - Home of Song Ho Ahn, with a good collection of tutorials on OpenGL and math.
-- [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon schreibt.
+- [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon Schreibt.
 - [sighack.com](https://sighack.com/) - Blog about generative art algorithms and techniques, by Manohar Vanga.
 - [jsdo.it-archives](https://github.com/cx20/jsdo.it-archives) - Compilation of WebGL experiments including comparisons on WebGL frameworks and physics engine (oimo.js, cannon.js, ammo.js)
 - [WebAudio Weekly](https://www.webaudioweekly.com/) - Newsletter to know everything about the WebAudio API
