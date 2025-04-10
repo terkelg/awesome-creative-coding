@@ -155,6 +155,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [JOY.JS](https://ncase.me/joy/) - Realtime visual coding tool, easy to understand and aimed at beginners.
 - [Circles](http://circles.software) [iPhone, iPad, Mac] - Live graphics node editor, powered by AsyncGraphics.
 - [TIC-80](https://tic80.com/) - Make pixel art style games and art on a 240\*136 pixel screen.
+- [Graphite](https://graphite.rs) - Free, open source vector/raster graphics engine that combines a traditional layer-based editor with a node-based procedural design system.
 
 ### Sound Programming Languages
 
