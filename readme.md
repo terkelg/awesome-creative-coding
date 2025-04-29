@@ -469,6 +469,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Machine learning • Computer Vision • Ai
 
 - [ml4a](https://ml4a.net/) - Machine learning for artists.
+- [Pollinations.AI](https://pollinations.ai/) - Free, decentralized AI models for image, text, and audio generation via web or API.
 - [Keras.js](https://transcranial.github.io/keras-js/) - Run Keras models (tensorflow backend) in the browser, with GPU support.
 - [Tesseract.js](http://tesseract.projectnaptha.com/) - Pure Javascript Multilingual OCR.
 - [Google ML](https://cloud.google.com/ml/) - Cloud machine learning by Google.
