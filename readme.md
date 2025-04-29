@@ -468,7 +468,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 ## Machine learning • Computer Vision • Ai
 
-- [ml4a](https://ml4a.github.io/) - Machine learning for artists.
+- [ml4a](https://ml4a.net/) - Machine learning for artists.
 - [Pollinations.AI](https://pollinations.ai/) - Free, decentralized AI models for image, text, and audio generation via web or API.
 - [Keras.js](https://transcranial.github.io/keras-js/) - Run Keras models (tensorflow backend) in the browser, with GPU support.
 - [Tesseract.js](http://tesseract.projectnaptha.com/) - Pure Javascript Multilingual OCR.
@@ -568,6 +568,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
 - [Awesome creative technology](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
+- [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public available datasets, mostly free resources.
 
 ## License
 
