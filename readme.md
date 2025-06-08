@@ -154,6 +154,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [JOY.JS](https://ncase.me/joy/) - Realtime visual coding tool, easy to understand and aimed at beginners.
 - [Circles](https://circles.software) [iPhone, iPad, Mac] - Live graphics node editor, powered by AsyncGraphics.
 - [TIC-80](https://tic80.com/) - Make pixel art style games and art on a 240\*136 pixel screen.
+- [Xylo](https://github.com/giraffekey/xylo) [Cross-platform] - Open source functional programming language for procedurally generating art.
 
 ### Sound Programming Languages
 
