@@ -257,7 +257,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [DrawBot](http://www.drawbot.com/) [Mac] - Education oriented 2d graphics programming environment based on Python.
 - [Klak](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
 - [basil.js](https://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
-- [Konstrukt](https://github.com/MarcelMue/konstrukt) [Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
+- [Konstrukt](https://github.com/MarcelMue/konstrukt) [Cross-platform] - A commandline tool to generate different scalable patterns as SVGs.
 
 ## Learning Resources
 
@@ -300,7 +300,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
 - [WebGL Lessons — Fragment Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
 - [WebGL Lessons — ThreeJS Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
-- [ThreeJS post-proces example](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
+- [ThreeJS post-process example](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
 - [Ray Marching and Signed Distance Functions](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work.html) - Introduction to ray tracing.
 - [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
 - [GLSL lighting walkthrough](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
