@@ -206,7 +206,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Millumin](https://www.millumin.com/v3/index.php) [Mac] - A software to create and perform interactive audiovisual shows.
 - [Smode](https://smode.fr/) [Win] - A real-time 2D/3D creation, compositing and video-mapping engine.
 - [Veejay](http://veejayhq.net/) [Linux] - A live performance tool featuring simple non-linear editing and mixing from multiple sources (files, devices, streams...)
-- [Hedron](http://github.com/nudibranchrecords/hedron/) [Mac, Win, Linux] - Create and perform with live visuals using three.js sketches
+- [Hedron](http://github.com/nudibranchrecords/hedron/) [Mac, Win, Linux] - Create and perform with live visuals using three.js sketches.
 
 ### Online
 
