@@ -47,7 +47,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Books
 
 - [Generative Art: A Practical Guide](https://www.manning.com/books/generative-art) - Practical guide using Processing.
-- [Generative Design](https://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
+- [Generative Design](http://www.generative-gestaltung.de) - Visualize, Program, and Create with Processing.
 - [The Nature of Code](https://natureofcode.com/) - Simulating natural systems with Processing.
 - [Programming Design Systems](https://programmingdesignsystems.com/) - Practical introduction to the new foundations of graphic design.
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - Series of tutorials on using OpenGL to do graphical rendering.
