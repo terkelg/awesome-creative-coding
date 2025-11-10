@@ -229,6 +229,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [tixy.land](https://tixy.land/) - The most minimalist creative coding environment is alive.
 - [BBC Micro bot](https://www.bbcmicrobot.com/) - Run your tweet on an 8-bit computer emulator.
 - [Hydra](https://hydra.ojack.xyz/) - Live code-able video synth and coding environment.
+- [Happy-Birthday](https://github.com/Harmann60/Happy-Birthday) - A simple, open-source birthday website template to celebrate loved ones creatively 🎂
+
 
 ### Hardware
 
