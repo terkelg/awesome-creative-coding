@@ -67,6 +67,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Math for Programmers](https://www.manning.com/books/math-for-programmers) - Book teaches you to solve mathematical problems in code.
 - [Synthèse d'images avec OpenGL (ES)](https://www.d-booker.fr/opengl/78-synthese-d-images.html) - Book in french, which covers OpenGL, OpenGL ES and WebGL.
 - [Hands-On Music Generation with Magenta](https://alexandredubreuil.com/publications/2020-01-31-music-generation-with-magenta-deep-learning-in-music-generation/) - Explore the role of deep learning in music generation and assisted music composition.
+- [The Art of Code](https://www.manning.com/books/the-art-of-code) - A practical guide to recognizing and creating desirable code qualities, such as simplicity, purity, and expressiveness.
 
 ## Online Books
 
