@@ -459,6 +459,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Shepherding random numbers](https://inconvergent.net/2016/shepherding-random-numbers/) - Tiny guide to shepherding random numbers.
 - [Shepherding random grids](https://inconvergent.net/2016/shepherding-random-grids/) - Tiny guide to shepherding random grids.
 - [Shepherding random growth](https://inconvergent.net/2016/shepherding-random-growth/) - Tiny guide to shepherding random growth.
+- [Room Modes Simulation](https://yacineazmi.com/room-modes/) - Interactive visualization of room modes in block based 2D room shapes.
 
 ## Machine learning • Computer Vision • AI
 
