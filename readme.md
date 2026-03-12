@@ -194,6 +194,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Oimo.js](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
 - [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 - [Theatre.js](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
+- [Emotive Engine](https://github.com/joshtol/emotive-engine) - JavaScript library for animated mascot characters with GPU-instanced elemental shader effects built on Three.js.
 
 ### Projection Mapping • VJing
 
