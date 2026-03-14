@@ -229,6 +229,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [tixy.land](https://tixy.land/) - The most minimalist creative coding environment is alive.
 - [BBC Micro bot](https://www.bbcmicrobot.com/) - Run your tweet on an 8-bit computer emulator.
 - [Hydra](https://hydra.ojack.xyz/) - Live code-able video synth and coding environment.
+- [ascii.life](https://ascii.life) - AI-powered ASCII animation generator. Convert text, images, and video to animated ASCII art with retro display themes (Matrix, CRT, C64, DOS, Apple II). Export as GIF or MP4.
 
 ### Hardware
 
