@@ -496,6 +496,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Echophon](http://echophon.tumblr.com/) - Tumblr with visual inspiration.
 - [Bees & Bombs](https://beesandbombs.tumblr.com/) - Tumblr with gifs by Dave.
 - [Folds2d](http://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
+- [Lumitree](https://lumitree.art) - Collaborative art tree where visitors plant seeds that grow into unique interactive micro-worlds using Canvas 2D, WebGL shaders, and Web Audio API.
 
 ## Events
 
