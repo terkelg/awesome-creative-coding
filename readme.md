@@ -229,6 +229,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [tixy.land](https://tixy.land/) - The most minimalist creative coding environment is alive.
 - [BBC Micro bot](https://www.bbcmicrobot.com/) - Run your tweet on an 8-bit computer emulator.
 - [Hydra](https://hydra.ojack.xyz/) - Live code-able video synth and coding environment.
+- [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 
 ### Hardware
 
