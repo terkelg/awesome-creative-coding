@@ -47,7 +47,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Books
 
 - [Generative Art: A Practical Guide](https://www.manning.com/books/generative-art) - Practical guide using Processing.
-- [Generative Design](https://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
+- [Generative Design](http://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
 - [The Nature of Code](https://natureofcode.com/) - Simulating natural systems with Processing.
 - [Programming Design Systems](https://programmingdesignsystems.com/) - Practical introduction to the new foundations of graphic design.
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - Series of tutorials on using OpenGL to do graphical rendering.
@@ -79,7 +79,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [OGLdev](https://ogldev.org/) - Collection of modern OpenGL tutorials by Etay Meiri.
 - [OpenGL Tutorial](https://www.opengl-tutorial.org/) - Site dedicated to tutorials for OpenGL 3.3 and later.
 - [Open.gl](https://open.gl/) - Guide that teach you the basics of using OpenGL.
-- [Pixel Shaders](https://pixelshaders.com/) - Interactive Introduction to Graphics Programming.
+- [Pixel Shaders](http://pixelshaders.com/) - Interactive Introduction to Graphics Programming.
 - [OpenGLBook](https://openglbook.com/) - Free OpenGL programming tutorial in online book format.
 - [Graphics Programming Projects](https://graphicscodex.com/projects/projects/index.html) - Book about 3D computational graphics by Morgan McGuire.
 - [On Generative Algorithms](https://inconvergent.net/generative/) - Notes about generating various organic patterns, with examples and Python code, by Anders Hoff.
@@ -173,7 +173,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
 - [regl](https://github.com/regl-project/regl) - Functional WebGL.
 - [Stackgl](https://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
-- [Paper.js](https://paperjs.org/) - The swiss army knife of vector graphics scripting.
+- [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
 - [Pixi.js](https://www.pixijs.com/) - HTML 5 2D rendering engine that uses webGL with canvas fallback.
 - [p5.js](https://p5js.org/) - JavaScript library that starts with the original goal of Processing.
 - [Pts.js](https://ptsjs.org/) - JavaScript library for visualization and creative-coding.
@@ -320,7 +320,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Generating Geometry: 1](https://codepen.io/mcdorli/post/generating-geometry-part-1-basics), [2](https://codepen.io/mcdorli/post/generating-geometry-part-2-going-3d), [3](https://codepen.io/mcdorli/post/generating-geometry-part-3-getting-spherical) - Beginner introduction on how to create geometry object.
 - [Into Vertex Shaders](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804) - Series of tutorials about WebGL, Three.js, and Three.bas.
 - [The Spaces of WebGL](https://medium.com/@Zadvorsky/into-vertex-shaders-part-1-the-spaces-of-webgl-c70ded527841) - Brief overview over the different coordinate systems throughout the 3D graphics pipeline.
-- [WebGL Workshop](https://webgl-workshop.com/) - Short and sweet online introduction to WebGL.
+- [WebGL Workshop](https://webglworkshop.com/) - Short and sweet online introduction to WebGL.
 - [THREE.js & instanced geometry](http://barradeau.com/blog/?p=1109) - Fluffy predator with three.js and instanced geometry.
 - [Particle Effects via Billboards](http://www.chinedufn.com/webgl-particle-effect-billboard-tutorial/) - How to create a particle effects with billboarding and WebGL.
 - [Beautifully Animate Points with WebGL and regl](https://peterbeshai.com/beautifully-animate-points-with-webgl-and-regl.html) - How to create GPGPU particles with regl.
