@@ -51,7 +51,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [The Nature of Code](https://natureofcode.com/) - Simulating natural systems with Processing.
 - [Programming Design Systems](https://programmingdesignsystems.com/) - Practical introduction to the new foundations of graphic design.
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - Series of tutorials on using OpenGL to do graphical rendering.
-- [Programming Interactivity](https://www.oreilly.com/library/view/programming-interactivity/9780596801861/) - Designer's Guide to Processing, Arduino, and openFrameworks.
+- [Programming Interactivity](https://www.oreilly.com/library/view/programming-interactivity/9780596800598/) - Designer's Guide to Processing, Arduino, and openFrameworks.
 - [openFrameworks Essentials](https://www.packtpub.com/en-us/product/openframeworks-essentials-9781784396145) - openFrameworks beginner Guide for programmer, visual artist, or designer.
 - [Mastering openFrameworks: Creative Coding Demystified](https://www.packtpub.com/en-us/product/mastering-openframeworks-creative-coding-demystified-9781849518048) - Advanced in depth guide to openFrameworks.
 - [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/Algorithms-Visual-Design-Processing-Language/dp/0470375485) - Experiment with design problems to create 3D animations, GUIs, and more.
@@ -105,7 +105,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Interactive Data Visualization with Processing](https://www.lynda.com/Processing-tutorials/Interactive-Data-Visualization-Processing/97578-2.html) - Learn how to read, map, and illustrate data with Processing.
 - [Programming Data Visualizations: A Coding Toolkit for Processing](https://www.skillshare.com/classes/Programming-Data-Visualizations-A-Coding-Toolkit-for-Processing/1782124914) - Join information designer Nicholas Felton in the world of Processing.
 - [Introduction to Data Visualization](https://www.skillshare.com/classes/Introduction-to-Data-Visualization-From-Data-to-Design/1435958330) - Join Nicholas Felton for a smart, comprehensive, and inspiring intro to data visualization.
-- [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508) - Learn generative art and Processing with art with Joshua Davis.
+- [Programming Graphics I](https://www.skillshare.com/en/classes/programming-graphics-i-introduction-to-generative-art/782118657), [2](https://www.skillshare.com/en/classes/programming-graphics-ii-generative-art-animation/388564917), [3](https://www.skillshare.com/en/classes/programming-graphics-iii-painting-with-sound/738981508) - Learn generative art and Processing with art with Joshua Davis.
 - [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/) - Workshop by Matt DesLauriers that teaches you about generative art, interactive animations, 3D graphics, and shaders.
 - [Advanced Creative Coding with WebGL & Shaders](https://frontendmasters.com/courses/webgl-shaders/) - Workshop by Matt DesLauriers that go deeper into graphics programming, math and shaders.
 - [Three.js Journey](https://threejs-journey.com/) - This course by Bruno Simon will teach you the secrets to create the coolest WebGL websites with Three.js whether you are a beginner or an advanced developer.
@@ -201,7 +201,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [VDMX](https://vidvox.net/) [Mac] - Realtime multimedia performance application.
 - [Modul8](https://www.modul8.ch/) [Mac] - Real time video mixing and compositing.
 - [Resolume](https://resolume.com/) [Mac, Win] - Mixing of digital video and effects in a realtime.
-- [CoGe VJ (discontinued)](https://imimot.com/blog/farewell-from-coge/) [Mac] - Former VJ software for realtime HD video mixing and compositing; development has ended.
 - [VirtualMapper](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 - [Millumin](https://www.millumin.com/v3/index.php) [Mac] - A software to create and perform interactive audiovisual shows.
 - [Smode](https://smode.fr/) [Win] - A real-time 2D/3D creation, compositing and video-mapping engine.
@@ -246,7 +245,6 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ### Other
 
 - [Structure Synth](http://structuresynth.sourceforge.net/) [Cross-platform] - Application for generating 3D structures by specifying a design grammar.
-- [F3](https://www.syedrezaali.com/f3-mac-app) [Mac] - Powerful 3D design app that enables you to live code 3D form.
 - [Fragment](https://github.com/rezaali/fragment) [Mac]- App to live code GLSL graphics.
 - [ShaderTool](http://store.steampowered.com/app/314720/) [Win] - Modern shader IDE for programmers and FX artists.
 - [Syphon](http://syphon.v002.info/) [Mac] - Allows applications to share frames with one another in realtime.
