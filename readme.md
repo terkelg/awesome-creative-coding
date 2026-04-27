@@ -134,6 +134,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) [iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
 - [Lygia](https://github.com/patriciogonzalezvivo/lygia) [Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
 - [Fragment.tools](https://github.com/raphaelameaume/fragment) [Cross-platform] - A web development environment for creative coding.
+- [Antikythera.jl](https://github.com/bad-antics/Antikythera.jl) [Cross-platform] - Julia library for ancient/geometric mechanism simulation, symbolic gear-train algebra, and astronomical computation. Powers high-precision orrery and clockwork visualizations.
 
 ### Visual Programming Languages
 
