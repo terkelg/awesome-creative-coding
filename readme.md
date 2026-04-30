@@ -134,6 +134,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) [iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
 - [Lygia](https://github.com/patriciogonzalezvivo/lygia) [Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
 - [Fragment.tools](https://github.com/raphaelameaume/fragment) [Cross-platform] - A web development environment for creative coding.
+- [Noisemaker](https://noisemaker.app/) [Cross-platform] - Open source (MIT) shader art system for the browser (WebGL2/WebGPU)
 
 ### Visual Programming Languages
 
@@ -228,6 +229,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [tixy.land](https://tixy.land/) - The most minimalist creative coding environment is alive.
 - [BBC Micro bot](https://www.bbcmicrobot.com/) - Run your tweet on an 8-bit computer emulator.
 - [Hydra](https://hydra.ojack.xyz/) - Live code-able video synth and coding environment.
+- [Noisedeck](https://noisedeck.app/) - Shader art creation studio (No-code, live coding DSL, or bring your WebGL2/WebGPU)
 
 ### Hardware
 
