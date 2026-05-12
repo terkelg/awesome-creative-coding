@@ -478,6 +478,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Runway](https://runwayapp.ai/) - Toolkit that adds artificial intelligence capabilities to design and creative platforms.
 - [Lobe](https://lobe.ai/) - Build, train, and ship custom deep learning models using a simple visual interface.
 - [ModelDepot](https://modeldepot.io/) - Platform for discovering, sharing, and discussing easy to use and pre-trained machine learning models.
+- [Image2-AI](https://image2-ai.com/) - AI image generator for marketing visuals, image editing and GPT-powered creative content.
 
 ## Inspiration
 
