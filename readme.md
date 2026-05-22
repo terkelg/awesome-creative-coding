@@ -110,6 +110,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Advanced Creative Coding with WebGL & Shaders](https://frontendmasters.com/courses/webgl-shaders/) - Workshop by Matt DesLauriers that go deeper into graphics programming, math and shaders.
 - [Three.js Journey](https://threejs-journey.com/) - This course by Bruno Simon will teach you the secrets to create the coolest WebGL websites with Three.js whether you are a beginner or an advanced developer.
 - [3D Computer Graphics Programming](https://pikuma.com/courses/learn-3d-computer-graphics-programming) - Learn all the theory and the math behind 3D graphics while creating a software renderer from scratch using the C programming language
+- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Tools
 
