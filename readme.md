@@ -539,6 +539,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [sighack.com](https://sighack.com/) - Blog about generative art algorithms and techniques, by Manohar Vanga.
 - [jsdo.it-archives](https://github.com/cx20/jsdo.it-archives) - Compilation of WebGL experiments including comparisons on WebGL frameworks and physics engine (oimo.js, cannon.js, ammo.js)
 - [WebAudio Weekly](https://www.webaudioweekly.com/) - Newsletter to know everything about the WebAudio API
+- [Async Museum](https://www.asyncmuseum.com/) - An independent space dedicated to web-based art with a distinctive point of view.
 
 ## Related
 
