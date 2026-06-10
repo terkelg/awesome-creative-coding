@@ -193,7 +193,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Zdog](https://zzz.dog/) - A pseudo-3D engine for canvas & SVG.
 - [Oimo.js](https://github.com/lo-th/Oimo.js/) - Lightweight 3d physics engine for javascript
 - [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
-- [Theatre.js](https://github.com/theatre-js/theatre) - Motion design library with visual tools
+- [Theatre.js](https://github.com/ariaminaei/theatre) - Motion design library with visual tools
+- [textmode.js](https://code.textmode.art) - JavaScript canvas library for real-time ASCII and textmode graphics.
 
 ### Projection Mapping • VJing
 
@@ -228,6 +229,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [tixy.land](https://tixy.land/) - The most minimalist creative coding environment is alive.
 - [BBC Micro bot](https://www.bbcmicrobot.com/) - Run your tweet on an 8-bit computer emulator.
 - [Hydra](https://hydra.ojack.xyz/) - Live code-able video synth and coding environment.
+- [editor.textmode.art](https://editor.textmode.art) - Online web editor for textmode.js.
+- [synth.textmode.art](https://synth.textmode.art) - Online live coding environment for textmode.js.
 
 ### Hardware
 
