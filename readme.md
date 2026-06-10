@@ -1,4 +1,4 @@
-# Awesome Creative Coding [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Creative Coding [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 # [<img src="https://raw.githubusercontent.com/terkelg/awesome-creative-coding/master/cover.png">](https://github.com/terkelg/awesome-creative-coding)
 
@@ -31,7 +31,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
     - [Hardware](#hardware-1)
     - [Other](#other-1)
   - [Interactive](#interactive)
-  - [Quick References • Cheatsheets](#quick-references--cheatsheets)
+  - [Quick References • Cheat Sheets](#quick-references--cheat-sheets)
 - [Communities](#communities)
   - [Subreddits](#subreddits)
   - [Slack](#slack)
@@ -48,13 +48,13 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 ## Books
 
 - [Generative Art: A Practical Guide](https://www.manning.com/books/generative-art) - Practical guide using Processing.
-- [Generative Design](https://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
+- [Generative Design](http://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
 - [The Nature of Code](https://natureofcode.com/) - Simulating natural systems with Processing.
 - [Programming Design Systems](https://programmingdesignsystems.com/) - Practical introduction to the new foundations of graphic design.
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - Series of tutorials on using OpenGL to do graphical rendering.
 - [Programming Interactivity](https://www.oreilly.com/library/view/programming-interactivity/9780596800598/) - Designer's Guide to Processing, Arduino, and openFrameworks.
-- [openFrameworks Essentials](https://www.packtpub.com/application-development/openframeworks-essentials) - openFrameworks beginner Guide for programmer, visual artist, or designer.
-- [Mastering openFrameworks: Creative Coding Demystified](https://www.packtpub.com/application-development/mastering-openframeworks-creative-coding-demystified) - Advanced in depth guide to openFrameworks.
+- [openFrameworks Essentials](https://www.packtpub.com/en-us/product/openframeworks-essentials-9781784396145) - openFrameworks beginner Guide for programmer, visual artist, or designer.
+- [Mastering openFrameworks: Creative Coding Demystified](https://www.packtpub.com/en-us/product/mastering-openframeworks-creative-coding-demystified-9781849518048) - Advanced in depth guide to openFrameworks.
 - [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/Algorithms-Visual-Design-Processing-Language/dp/0470375485) - Experiment with design problems to create 3D animations, GUIs, and more.
 - [Foundation HTML5 Animation with JavaScript](https://link.springer.com/book/10.1007/978-1-4302-3666-5) - Everything you need to know to create animation using the HTML5 canvas.
 - [Playing with chaos](https://www.playingwithchaos.net/) - Programming Fractals and Strange Attractors in JavaScript.
@@ -78,18 +78,18 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Scratchapixel 2.0](https://www.scratchapixel.com/) - Learn Computer Graphics From Scratch.
 - [ofBook](https://openframeworks.cc/ofBook/chapters/foreword.html) - Community-written book/guide on openFrameworks.
 - [OGLdev](https://ogldev.org/) - Collection of modern OpenGL tutorials by Etay Meiri.
-- [OpenGL Tutorial](http://www.opengl-tutorial.org/) - Site dedicated to tutorials for OpenGL 3.3 and later.
+- [OpenGL Tutorial](https://www.opengl-tutorial.org/) - Site dedicated to tutorials for OpenGL 3.3 and later.
 - [Open.gl](https://open.gl/) - Guide that teach you the basics of using OpenGL.
 - [Pixel Shaders](http://pixelshaders.com/) - Interactive Introduction to Graphics Programming.
 - [OpenGLBook](https://openglbook.com/) - Free OpenGL programming tutorial in online book format.
-- [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html) - Book about 3D computational graphics by Morgan McGuire.
+- [Graphics Programming Projects](https://graphicscodex.com/projects/projects/index.html) - Book about 3D computational graphics by Morgan McGuire.
 - [On Generative Algorithms](https://inconvergent.net/generative/) - Notes about generating various organic patterns, with examples and Python code, by Anders Hoff.
 - [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/00-introduction.html) - A raytracing and rasterization textbook that teaches you how OpenGL and DirectX works.
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) - A free book for when you really need to know how to do Bézier things.
 - [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/) - Step-by-step guide to real-time shading techniques.
 - [XEM WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - Step-by-step guide to WebGL.
 - [Creative Coding Notebooks](https://diegoinacio.github.io/creative-coding-notebooks-page/) - An authorial set of fundamental Python recipes on Creative Coding and Computer Art, by Diego Inácio.
-- [WebGL Academy](http://www.webglacademy.com) - Learn WebGL and 3D algorithmic in a progressive and interactive way.
+- [WebGL Academy](https://www.webglacademy.com/) - Learn WebGL and 3D algorithmic in a progressive and interactive way.
 
 ## Courses
 
@@ -97,7 +97,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Learn HTML5 Graphics and Animation](https://egghead.io/courses/learn-html5-graphics-and-animation) - Introduction to the canvas 2D drawing API.
 - [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) - Udacity course that teach you the principles of 3D computer graphics.
 - [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) - Computer graphics course from Coursera.
-- [Kadenze Creative Coding](http://try.kadenze.com/creative-coder/) - Selection of Kadenze courses covering p5.js, TensorFlow, Max/Jitter, and ChucK.
+- [Kadenze Creative Coding](https://try.kadenze.com/creative-coder/) - Selection of Kadenze courses covering p5.js, TensorFlow, Max/Jitter, and ChucK.
 - [Creative Programming for Digital Media & Mobile Apps](https://www.coursera.org/learn/digitalmedia) - Coursera course on creative coding with processing.
 - [Imaginary Institute](https://imaginary-institute.com/) - Learn how to create gorgeous interactive graphics.
 - [Future Learn: Creative Coding](https://www.futurelearn.com/courses/creative-coding) - Use computer programming as a creative discipline to generate sounds, images, animations and more.
@@ -105,7 +105,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) - Combine JS, ProcessingJS, and mathematical concepts to simulate nature in your programs.
 - [Programming Data Visualizations: A Coding Toolkit for Processing](https://www.skillshare.com/classes/Programming-Data-Visualizations-A-Coding-Toolkit-for-Processing/1782124914) - Join information designer Nicholas Felton in the world of Processing.
 - [Introduction to Data Visualization](https://www.skillshare.com/classes/Introduction-to-Data-Visualization-From-Data-to-Design/1435958330) - Join Nicholas Felton for a smart, comprehensive, and inspiring intro to data visualization.
-- [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - Learn generative art and Processing with art with Joshua Davis.
+- [Programming Graphics I](https://www.skillshare.com/en/classes/programming-graphics-i-introduction-to-generative-art/782118657), [2](https://www.skillshare.com/en/classes/programming-graphics-ii-generative-art-animation/388564917), [3](https://www.skillshare.com/en/classes/programming-graphics-iii-painting-with-sound/738981508) - Learn generative art and Processing with art with Joshua Davis.
 - [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/) - Workshop by Matt DesLauriers that teaches you about generative art, interactive animations, 3D graphics, and shaders.
 - [Advanced Creative Coding with WebGL & Shaders](https://frontendmasters.com/courses/webgl-shaders/) - Workshop by Matt DesLauriers that goes deeper into graphics programming, math and shaders.
 - [Three.js Journey](https://threejs-journey.com/) - This course by Bruno Simon will teach you the secrets to create the coolest WebGL websites with Three.js whether you are a beginner or an advanced developer.
@@ -176,7 +176,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Pixi.js](https://pixijs.com/) - HTML 5 2D rendering engine that uses webGL with canvas fallback.
 - [p5.js](https://p5js.org/) - JavaScript library that starts with the original goal of Processing.
 - [Pts.js](https://ptsjs.org/) - JavaScript library for visualization and creative-coding.
-- [Fabric.js](https://fabricjs.com/) - Javascript canvas library, SVG-to-canvas parser.
+- [Fabric.js](https://fabricjs.com/) - JavaScript canvas library, SVG-to-canvas parser.
 - [Maker.js](https://maker.js.org) - Parametric line drawing for SVG, CNC & laser cutters.
 - [JSCAD](https://openjscad.xyz/) - Programmatic 3D modeling in JavaScript.
 - [Sketch.js](https://soulwire.github.io/sketch.js/) - Minimal JavaScript creative coding framework.
@@ -185,7 +185,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [picogl.js](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
 - [Alfrid](https://github.com/yiwenl/Alfrid) - A WebGL tool set.
 - [Babylon.js](https://github.com/BabylonJS/Babylon.js) - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
-- [twgl.js](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library.
+- [twgl.js](https://github.com/greggman/twgl.js) - A tiny WebGL helper library.
 - [luma.gl](https://github.com/visgl/luma.gl) - WebGL2 Components for Data Visualization.
 - [css-doodle](https://css-doodle.com/) - A web component for drawing patterns with CSS.
 - [OGL.js](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL).
@@ -193,6 +193,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Oimo.js](https://github.com/lo-th/Oimo.js/) - Lightweight 3D physics engine for JavaScript.
 - [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 - [Theatre.js](https://github.com/theatre-js/theatre) - Motion design library with visual tools.
+- [textmode.js](https://code.textmode.art) - JavaScript canvas library for real-time ASCII and textmode graphics.
 
 ### Projection Mapping • VJing
 
@@ -210,23 +211,25 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Shadertoy](https://www.shadertoy.com/) - Build and share shaders with the world and get inspired.
 - [Shader Park](https://shaderpark.com/) - A JavaScript library for creating interactive procedural 2D and 3D shaders.
 - [GLSL Sandbox](https://glslsandbox.com/) - Online shader editor and gallery.
-- [Shdr Editor](http://shdr.bkcore.com/) - Online shader editor.
+- [Shdr Editor](https://shdr.bkcore.com/) - Online shader editor.
 - [CodePen](https://codepen.io/) - Show case of advanced techniques with editable source code.
 - [Shadershop](https://github.com/cdglabs/Shadershop) - Interface for programming GPU shaders.
 - [Vertexshaderart](https://www.vertexshaderart.com/) - Online shader editor and gallery.
 - [Cyos](https://cyos.babylonjs.com/) - Online shader editor.
-- [GlslEditor](http://editor.thebookofshaders.com/) - Simple WebGL Fragment Shader Editor.
+- [GlslEditor](https://editor.thebookofshaders.com/) - Simple WebGL Fragment Shader Editor.
 - [OpenProcessing](https://www.openprocessing.org/) - Algorithmic Designs Created with Processing, p5js and processingjs.
 - [P5.js Editor](https://editor.p5js.org/) - Online web editor for P5.js.
 - [LiveCodeLab](https://livecodelab.net/) - Run-as-you-type tool for VJs, musicians, teachers, students, kids.
-- [Turtletoy](https://turtletoy.net/) - Minimalistic API and online showcase for generative code. (Javascript)
+- [Turtletoy](https://turtletoy.net/) - Minimalistic API and online showcase for generative code. (JavaScript)
 - [ShaderGif](https://shadergif.com/) - Open source home for art made with code (WebGL1/2, JavaScript Canvas & P5.js).
 - [P5LIVE](https://teddavis.org/p5live/) - p5.js live-coding environment.
-- [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, Javascript Canvas).
+- [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, JavaScript Canvas).
 - [Shelly](https://shelly.dev/) - Learn programming by issuing instructions to a turtle.
 - [tixy.land](https://tixy.land/) - The most minimalist creative coding environment is alive.
 - [BBC Micro bot](https://www.bbcmicrobot.com/) - Run your tweet on an 8-bit computer emulator.
 - [Hydra](https://hydra.ojack.xyz/) - Live code-able video synth and coding environment.
+- [editor.textmode.art](https://editor.textmode.art) - Online web editor for textmode.js.
+- [synth.textmode.art](https://synth.textmode.art) - Online live coding environment for textmode.js.
 
 ### Hardware
 
@@ -250,11 +253,11 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [KodeLife](https://hexler.net/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
 - [ISF](https://isf.video/) - GLSL shaders for use in interactive applications.
 - [glslViewer](https://patriciogonzalezvivo.com/2015/glslViewer/) - Live-coding console tool that renders GLSL Shaders.
-- [shoebot](https://shoebot.readthedocs.io/) [Cross-platform] - Shoebot is a creative coding environment designed for making vector graphics and animations with Python.
+- [shoebot](https://shoebot.github.io/) [Cross-platform] - Shoebot is a creative coding environment designed for making vector graphics and animations with Python.
 - [DrawBot](https://www.drawbot.com/) [Mac] - Education oriented 2d graphics programming environment based on Python.
 - [Klak](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
 - [basil.js](https://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
-- [Konstrukt](https://github.com/MarcelMue/konstrukt) [Cross-platform] - A commandline tool to generate different scaleable patterns as SVGs.
+- [Konstrukt](https://github.com/MarcelMue/konstrukt) [Cross-platform] - A commandline tool to generate different scalable patterns as SVGs.
 
 ## Learning Resources
 
@@ -273,7 +276,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Vertexshaderart](https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw) - YouTube playlist about vertex shaders.
 - [Diving in Three.js](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf) - YouTube playlist diving into three.js.
 - [Shadertoy Tutorials](https://www.youtube.com/watch?v=u5HAYVHsasc&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5) - YouTube playlist teaching you how to make shaders, starting with zero knowledge using shadertoy.
-- [WebGL Lightning](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - Introduction to WebGL lightning with Greg Tatum.
+- [WebGL Lighting](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - Introduction to WebGL lighting with Greg Tatum.
 
 ### Talks
 
@@ -297,7 +300,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Shaders: Second stage](https://web.archive.org/web/20250111051033/https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
 - [WebGL Lessons — Fragment Shaders](https://github.com/Experience-Monks/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
 - [WebGL Lessons — ThreeJS Shaders](https://github.com/Experience-Monks/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
-- [ThreeJS post-proces example](https://github.com/Experience-Monks/threejs-post-process-example) - Example of post-processing effects in ThreeJS.
+- [ThreeJS post-process example](https://github.com/Experience-Monks/threejs-post-process-example) - Example of post-processing effects in ThreeJS.
 - [Introduction to Ray Tracing](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work.html) - A simple method for creating 3D images.
 - [Ray Marching and Signed Distance Functions](https://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - Introduction to ray marching and signed distance functions.
 - [GLSL lighting walkthrough](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
@@ -315,7 +318,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [OpenGL 4 Shaders](https://antongerdelan.net/opengl/shaders.html) - Short and sweet introduction to OpenGL shaders by Anton Gerdelan.
 - [On ray casting, ray tracing, ray marching and the like](https://www.hugi.scene.org/online/hugi37/hugi%2037%20-%20coding%20adok%20on%20ray%20casting,%20ray%20tracing,%20ray%20marching%20and%20the%20like.htm) - The title says it all. Introduction by Adok.
 - [Writing a small software renderer](https://blog.simonrodriguez.fr/articles/2017/02/writing_a_small_software_renderer.html) - Really good introduction to how basic software rendering works.
-- [WebGL Tutorials](http://www.webgltutorials.org/) - Website with a really good collection of WebGL tutorials.
+- [WebGL Tutorials](https://www.webgltutorials.org/) - Website with a really good collection of WebGL tutorials.
 - [Generating Geometry: 1](https://codepen.io/mcdorli/post/generating-geometry-part-1-basics), [2](https://codepen.io/mcdorli/post/generating-geometry-part-2-going-3d), [3](https://codepen.io/mcdorli/post/generating-geometry-part-3-getting-spherical) - Beginner introduction on how to create geometry object.
 - [Into Vertex Shaders](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804) - Series of tutorials about WebGL, Three.js, and Three.bas.
 - [The Spaces of WebGL](https://medium.com/@Zadvorsky/into-vertex-shaders-part-1-the-spaces-of-webgl-c70ded527841) - Brief overview over the different coordinate systems throughout the 3D graphics pipeline.
@@ -372,7 +375,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Let's Make A Ray Marcher](https://www.shadertoy.com/view/MdBfRK) - Interactive Shader-Toy on writing a ray marcher.
 - [Raymarching](https://www.shadertoy.com/view/4dSfRc) - Interactive Shader-Toy raymarching tutorial.
 
-### Quick References • Cheatsheets
+### Quick References • Cheat Sheets
 
 - [Shaderific GLSL](https://shaderific.com/glsl.html) - OpenGL ES shading language reference.
 - [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) - Shader glossary by theme.
@@ -459,7 +462,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 
 - [ml4a](https://ml4a.net/) - Machine learning for artists.
 - [Keras.js](https://transcranial.github.io/keras-js/) - Run Keras models (tensorflow backend) in the browser, with GPU support.
-- [Tesseract.js](http://tesseract.projectnaptha.com/) - Pure Javascript Multilingual OCR.
+- [Tesseract.js](http://tesseract.projectnaptha.com/) - Pure JavaScript Multilingual OCR.
 - [Google ML](https://cloud.google.com/products/ai) - Cloud machine learning by Google.
 - [TensorFlow](https://www.tensorflow.org/) - Open source software library for machine intelligence.
 - [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/started.html) - Deep Learning in your browser.
