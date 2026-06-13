@@ -489,6 +489,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Echophon](https://echophon.tumblr.com/) - Tumblr with visual inspiration.
 - [Bees & Bombs](https://beesandbombs.tumblr.com/) - Tumblr with gifs by Dave.
 - [Folds2d](https://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
+- [Solar Wanderer](https://sw.icodestar.net) - Interactive 1:1 real-time solar system you can fly through in the browser, built with Three.js; NASA JPL-accurate, seamless orbit-to-surface landing.
 
 ## Events
 
