@@ -204,7 +204,8 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [VirtualMapper](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 - [Millumin](https://www.millumin.com/) [Mac] - A software to create and perform interactive audiovisual shows.
 - [Smode](https://www.smode.io/) [Win] - A real-time 2D/3D creation, compositing and video-mapping engine.
-- [Veejay](https://veejayhq.github.io/) [Linux] - A live performance tool featuring simple non-linear editing and mixing from multiple sources (files, devices, streams...).
+- [Veejay](https://veejayhq.github.io/) [Linux] - A live performance tool featuring simple non-linear editing and mixing from multiple sources (files, devices, streams...)
+- [DjMirror Pulse](https://djmirror.com/) [Mac, Win] - Real-time audio-reactive visuals and automatic DMX lighting control for live DJ sets..
 
 ### Online
 
