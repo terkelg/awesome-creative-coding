@@ -489,6 +489,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Echophon](https://echophon.tumblr.com/) - Tumblr with visual inspiration.
 - [Bees & Bombs](https://beesandbombs.tumblr.com/) - Tumblr with gifs by Dave.
 - [Folds2d](https://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
+- [The Planet Thinks](https://theplanetthinks.com/) - Live 3D globe where every spark is a Wikipedia article being edited right now.
 
 ## Events
 
