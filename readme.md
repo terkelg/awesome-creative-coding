@@ -489,6 +489,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Echophon](https://echophon.tumblr.com/) - Tumblr with visual inspiration.
 - [Bees & Bombs](https://beesandbombs.tumblr.com/) - Tumblr with gifs by Dave.
 - [Folds2d](https://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
+- [Graded Gyroid](https://smirnov-artur.github.io/webgl/lattice) - A triply-periodic minimal surface sphere-traced in real time from a hand-written GLSL distance field, no mesh or textures.
 
 ## Events
 
