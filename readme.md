@@ -361,6 +361,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Amit's Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Collection of resources on stuff like path-finding, AI, math, etc.
 - [Tips to Improve Your Generative Artwork](https://web.archive.org/web/20240121224819/https://tylerxhobbs.com/essays/2018/tips-to-improve-your-generative-artwork) - Tips to make your art look better.
 - [Working With Color in Generative Art](https://www.tylerxhobbs.com/words/working-with-color-in-generative-art) - Tips on how to get color right.
+- [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers) - Music theory derived from scratch in JavaScript, with runnable Web Audio examples.
 
 ### Interactive
 
