@@ -205,6 +205,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Millumin](https://www.millumin.com/) [Mac] - A software to create and perform interactive audiovisual shows.
 - [Smode](https://www.smode.io/) [Win] - A real-time 2D/3D creation, compositing and video-mapping engine.
 - [Veejay](https://veejayhq.github.io/) [Linux] - A live performance tool featuring simple non-linear editing and mixing from multiple sources (files, devices, streams...).
+- [Varda](https://github.com/im-knots/varda) [Linux, Mac, Win] - Open-source live visual mixer and broadcast router with projection mapping.
 
 ### Online
 
