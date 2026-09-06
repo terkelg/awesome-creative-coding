@@ -1,0 +1,691 @@
+# Awesome Creative Coding [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
+
+# [<img src="https://raw.githubusercontent.com/terkelg/awesome-creative-coding/master/cover.png">](https://github.com/terkelg/awesome-creative-coding)
+
+> Carefully curated list of awesome [creative coding](https://en.wikipedia.org/wiki/Creative_coding) resources primarily for beginners/intermediates.
+
+Creative coding is a different discipline than programming systems. The goal is to create something expressive instead of something functional. **Interaction design**, **information visualization** and **generative art** are all different types of creative coding – which has become a household term describing **artworks articulated as code**.
+
+_Please read the [contribution guidelines](contributing.md) before contributing._
+
+## Contents
+
+- [Books](#books)
+- [Online Books](#online-books)
+- [Courses](#courses)
+- [Tools](#tools)
+  - [Frameworks • Libraries • Ecosystems](#frameworks--libraries--ecosystems)
+  - [Visual Programming Languages](#visual-programming-languages)
+  - [Sound Programming Languages](#sound-programming-languages)
+  - [Web Programming • Libraries](#web-programming--libraries)
+  - [Projection Mapping • VJing](#projection-mapping--vjing)
+  - [Online](#online)
+  - [Hardware](#hardware)
+  - [Other](#other)
+- [Learning Resources](#learning-resources)
+  - [Videos](#videos)
+  - [Talks](#talks)
+  - [Articles](#articles)
+    - [Shaders • OpenGL • WebGL](#shaders--opengl--webgl)
+    - [Canvas](#canvas)
+    - [Hardware](#hardware-1)
+    - [Other](#other-1)
+  - [Interactive](#interactive)
+  - [Quick References • Cheat Sheets](#quick-references--cheat-sheets)
+- [Communities](#communities)
+  - [Subreddits](#subreddits)
+  - [Slack](#slack)
+  - [Other](#other-2)
+- [Math](#math)
+- [Machine Learning • Computer Vision • AI](#machine-learning--computer-vision--ai)
+- [Inspiration](#inspiration)
+- [Events](#events)
+- [Museums • Galleries](#museums--galleries)
+- [Schools • Workshops](#schools--workshops)
+- [Blogs • Websites](#blogs--websites)
+- [Related](#related)
+
+## Books
+
+- [Generative Art: A Practical Guide](https://www.manning.com/books/generative-art) - Practical guide using Processing.
+- [Generative Design](http://www.generative-gestaltung.de/) - Visualize, Program, and Create with Processing.
+- [The Nature of Code](https://natureofcode.com/) - Simulating natural systems with p5.js.
+- [Programming Design Systems](https://programmingdesignsystems.com/) - Practical introduction to the new foundations of graphic design.
+- [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - Series of tutorials on using OpenGL to do graphical rendering.
+- [Programming Interactivity](https://www.oreilly.com/library/view/programming-interactivity/9780596800598/) - Designer's Guide to Processing, Arduino, and openFrameworks.
+- [openFrameworks Essentials](https://www.packtpub.com/en-us/product/openframeworks-essentials-9781784396145) - openFrameworks beginner Guide for programmer, visual artist, or designer.
+- [Mastering openFrameworks: Creative Coding Demystified](https://www.packtpub.com/en-us/product/mastering-openframeworks-creative-coding-demystified-9781849518048) - Advanced in depth guide to openFrameworks.
+- [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/Algorithms-Visual-Design-Processing-Language/dp/0470375485) - Experiment with design problems to create 3D animations, GUIs, and more.
+- [Foundation HTML5 Animation with JavaScript](https://link.springer.com/book/10.1007/978-1-4302-3666-5) - Everything you need to know to create animation using the HTML5 canvas.
+- [Playing with chaos](https://www.playingwithchaos.net/) - Programming Fractals and Strange Attractors in JavaScript.
+- [Ray Tracing in One Weekend](https://www.amazon.com/Ray-Tracing-Weekend-Minibooks-Book-ebook/dp/B01B5AODD8/) - Mini book about Ray Tracing.
+- [Processing 2: Creative Programming Cookbook](https://www.packtpub.com/hardware-and-creative/processing-2-creative-programming-cookbook) - Guides you to explore the Processing environment using practical and useful recipes.
+- [Data-driven Graphic Design](https://www.amazon.com/dp/1472578309/) - Creative Coding for Visual Communication.
+- [Real-Time Rendering](https://www.amazon.com/Real-Time-Rendering-Third-Tomas-Akenine-Moller/dp/1568814240) - Learn how to use modern techniques to generate synthetic three-dimensional images in a fraction of a second.
+- [Graphics Shaders: Theory and Practice](https://www.amazon.com/Graphics-Shaders-Theory-Practice-Second/dp/1568814348/) - Introduction to shader programming in general, but focusing on the GLSL shading language.
+- [Anton's OpenGL 4 Tutorials](https://www.amazon.com/gp/product/B00LAMQYF2/) - Practical guide to starting 3d programming with OpenGL.
+- [Physics for JavaScript Games, Animation, and Simulations](https://link.springer.com/book/10.1007/978-1-4302-6338-8) - Teaches JavaScript programmers how to incorporate real physics into their HTML5 games, animations, and simulations.
+- [Math for Programmers](https://www.manning.com/books/math-for-programmers) - Book teaches you to solve mathematical problems in code.
+- [Synthèse d'images avec OpenGL (ES)](https://www.d-booker.fr/3d/78-synthese-d-images.html) - Book in french, which covers OpenGL, OpenGL ES and WebGL.
+- [Hands-On Music Generation with Magenta](https://alexandredubreuil.com/publications/2020-01-31-music-generation-with-magenta-deep-learning-in-music-generation/) - Explore the role of deep learning in music generation and assisted music composition.
+
+## Online Books
+
+- [The Book of Shaders](https://thebookofshaders.com/) - Step-by-step guide through the abstract and complex universe of fragment shaders.
+- [WebGL Fundamentals](https://webglfundamentals.org/) - WebGL from the ground up. No magic.
+- [WebGL 2 Fundamentals](https://webgl2fundamentals.org/) - WebGL2 from the ground up. No magic.
+- [Learn OpenGL](https://learnopengl.com/) - Extensive tutorial resource for learning Modern OpenGL.
+- [Scratchapixel 2.0](https://www.scratchapixel.com/) - Learn Computer Graphics From Scratch.
+- [ofBook](https://openframeworks.cc/ofBook/chapters/foreword.html) - Community-written book/guide on openFrameworks.
+- [OGLdev](https://ogldev.org/) - Collection of modern OpenGL tutorials by Etay Meiri.
+- [OpenGL Tutorial](https://www.opengl-tutorial.org/) - Site dedicated to tutorials for OpenGL 3.3 and later.
+- [Open.gl](https://open.gl/) - Guide that teach you the basics of using OpenGL.
+- [Pixel Shaders](http://pixelshaders.com/) - Interactive Introduction to Graphics Programming.
+- [OpenGLBook](https://openglbook.com/) - Free OpenGL programming tutorial in online book format.
+- [Graphics Programming Projects](https://graphicscodex.com/projects/projects/index.html) - Book about 3D computational graphics by Morgan McGuire.
+- [On Generative Algorithms](https://inconvergent.net/generative/) - Notes about generating various organic patterns, with examples and Python code, by Anders Hoff.
+- [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/00-introduction.html) - A raytracing and rasterization textbook that teaches you how OpenGL and DirectX works.
+- [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/) - A free book for when you really need to know how to do Bézier things.
+- [3D Game Shaders For Beginners](https://lettier.github.io/3d-game-shaders-for-beginners/) - Step-by-step guide to real-time shading techniques.
+- [XEM WebGL Guide](https://xem.github.io/articles/webgl-guide.html) - Step-by-step guide to WebGL.
+- [Creative Coding Notebooks](https://diegoinacio.github.io/creative-coding-notebooks-page/) - An authorial set of fundamental Python recipes on Creative Coding and Computer Art, by Diego Inácio.
+- [WebGL Academy](https://www.webglacademy.com/) - Learn WebGL and 3D algorithmic in a progressive and interactive way.
+
+## Courses
+
+- [Create 3D Graphics in JS Using WebGL](https://egghead.io/courses/create-3d-graphics-in-javascript-using-webgl) - Get started creating content with WebGL without any frameworks.
+- [Learn HTML5 Graphics and Animation](https://egghead.io/courses/learn-html5-graphics-and-animation) - Introduction to the canvas 2D drawing API.
+- [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) - Udacity course that teach you the principles of 3D computer graphics.
+- [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) - Computer graphics course from Coursera.
+- [Kadenze Creative Coding](https://try.kadenze.com/creative-coder/) - Selection of Kadenze courses covering p5.js, TensorFlow, Max/Jitter, and ChucK.
+- [Creative Programming for Digital Media & Mobile Apps](https://www.coursera.org/learn/digitalmedia) - Coursera course on creative coding with processing.
+- [Imaginary Institute](https://imaginary-institute.com/) - Learn how to create gorgeous interactive graphics.
+- [Future Learn: Creative Coding](https://www.futurelearn.com/courses/creative-coding) - Use computer programming as a creative discipline to generate sounds, images, animations and more.
+- [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming) - Use JavaScript and the ProcessingJS library to create drawings and animations.
+- [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) - Combine JS, ProcessingJS, and mathematical concepts to simulate nature in your programs.
+- [Programming Data Visualizations: A Coding Toolkit for Processing](https://www.skillshare.com/classes/Programming-Data-Visualizations-A-Coding-Toolkit-for-Processing/1782124914) - Join information designer Nicholas Felton in the world of Processing.
+- [Introduction to Data Visualization](https://www.skillshare.com/classes/Introduction-to-Data-Visualization-From-Data-to-Design/1435958330) - Join Nicholas Felton for a smart, comprehensive, and inspiring intro to data visualization.
+- [Programming Graphics I](https://www.skillshare.com/en/classes/programming-graphics-i-introduction-to-generative-art/782118657), [2](https://www.skillshare.com/en/classes/programming-graphics-ii-generative-art-animation/388564917), [3](https://www.skillshare.com/en/classes/programming-graphics-iii-painting-with-sound/738981508) - Learn generative art and Processing with art with Joshua Davis.
+- [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/) - Workshop by Matt DesLauriers that teaches you about generative art, interactive animations, 3D graphics, and shaders.
+- [Advanced Creative Coding with WebGL & Shaders](https://frontendmasters.com/courses/webgl-shaders/) - Workshop by Matt DesLauriers that goes deeper into graphics programming, math and shaders.
+- [Three.js Journey](https://threejs-journey.com/) - This course by Bruno Simon will teach you the secrets to create the coolest WebGL websites with Three.js whether you are a beginner or an advanced developer.
+- [3D Computer Graphics Programming](https://pikuma.com/courses/learn-3d-computer-graphics-programming) - Learn all the theory and the math behind 3D graphics while creating a software renderer from scratch using the C programming language.
+
+## Tools
+
+### Frameworks • Libraries • Ecosystems
+
+- [Processing](https://processing.org) [Cross-platform] - Computer programming language and IDE for visual arts.
+- [py5](https://py5coding.org) [Cross-platform] - A library that integrates Processing into the Python 3 ecosystem.
+- [Cinder](https://libcinder.org/) [Cross-platform] - Open source library for professional-quality creative coding in C++.
+- [openFrameworks](https://openframeworks.cc/) [Cross-platform] - Open source C++ toolkit for creative coding.
+- [NAP](https://nap-framework.tech/) [Cross-platform] - Open source data-driven real-time control & visualization platform suited for professional installations in C++, incl. Vulkan renderer.
+- [C4](https://github.com/C4Labs/C4iOS) [iOS] - Open-source creative coding framework for iOS.
+- [Unity](https://unity.com/) [Mac, Win] - Game engine, but useful for creative coding and installations.
+- [Godot](https://godotengine.org) [Cross-platform] - Open source game engine, that can also be used for all sorts of things.
+- [PlayCanvas](https://playcanvas.com/) [Cross-platform] - Open source, realtime collaborative WebGL engine.
+- [hg_sdf](https://mercury.sexy/hg_sdf/) [Cross-platform] - GLSL library for building signed distance functions.
+- [nannou](https://nannou.cc/) [Cross-platform] - Open-source creative coding framework for the Rust language.
+- [thi.ng](https://thi.ng/) [Cross-platform] - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
+- [PixelKit](https://github.com/heestand-xyz/PixelKit) [iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
+- [OPENRNDR](https://openrndr.org/) [Cross-platform] - Open source library for creative coding written in Kotlin.
+- [Phaser](https://phaser.io/) [Cross-platform] - HTML5 framework for building games, uses both a Canvas and WebGL renderer.
+- [Canvas-sketch](https://github.com/mattdesl/canvas-sketch) [Cross-platform] - HTML5 framework for making generative artwork in JavaScript and the browser.
+- [AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) [iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
+- [Lygia](https://github.com/patriciogonzalezvivo/lygia) [Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
+- [Fragment.tools](https://github.com/raphaelameaume/fragment) [Cross-platform] - A web development environment for creative coding.
+
+### Visual Programming Languages
+
+- [vvvv](https://vvvv.org/) [Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
+- [NodeBox](https://www.nodebox.net/node/) [Mac, Win] - Cross-platform, node-based GUI for efficient data visualizations and generative design.
+- [TouchDesigner](https://derivative.ca/) [Mac, Win] - Visual development platform to create realtime projects.
+- [Quartz Composer](https://developer.apple.com/library/archive/documentation/GraphicsImaging/Conceptual/QuartzComposerUserGuide/qc_intro/qc_intro.html) [Mac] - Development tool for processing and rendering graphical data.
+- [Vuo](https://vuo.org/) [Mac] - Live interactive-media programming environment.
+- [Max](https://cycling74.com/products/max) [Mac, Win] - Visual programming language for media.
+- [Pure Data](https://puredata.info/) [Cross-platform] - Open source visual programming language for multimedia.
+- [ossia score](https://ossia.io) [Cross-platform] - Interactive, intermedia audio-visual sequencer.
+- [TiXL](https://tixl.app/) [Win] - Open source tool for creating interactive 3d content and animations.
+- [XOD](https://xod.io/) [Cross-platform] - Open source visual programming language and environment for microcontroller-based projects.
+- [Isadora](https://troikatronix.com) [Cross-platform] - Scene based media control software with integrated projection mapper.
+- [cables](https://cables.gl) [Cross-platform/Web] - Your model kit for creating beautiful interactive content.
+- [eternal](https://github.com/kousun12/eternal) [Web] - Programs as graphs and graphs as compositional tools for creation.
+- [Notch Builder](https://www.notch.one) [Win] - Node-based authoring tool with a strong focus on real-time graphics.
+- [JOY.JS](https://ncase.me/joy/) - Realtime visual coding tool, easy to understand and aimed at beginners.
+- [TIC-80](https://tic80.com/) - Make pixel art style games and art on a 240\*136 pixel screen.
+
+### Sound Programming Languages
+
+- [SuperCollider](https://supercollider.github.io/) [Multi-platform] - Platform for audio synthesis and algorithmic composition.
+- [ChucK](https://chuck.cs.princeton.edu/) - Strongly-timed, concurrent, and on-the-fly music programming language.
+- [TidalCycles](https://tidalcycles.org/) - Domain specific language for live coding of pattern.
+- [Sonic Pi](https://sonic-pi.net/) - The live coding music synth for everyone.
+- [Csound](https://csound.com/) - A sound and music computing system.
+- [Orca](https://100r.co/site/orca.html) - Live coding environment to quickly create procedural sequencers.
+- [handel](https://handel-pl.github.io/) - A small procedural programming language for writing songs in browser.
+- [Overtone](https://overtone.github.io/) - An open source audio environment designed to explore new musical ideas from synthesis and instrument building to live-coding.
+- [Melrōse](https://github.com/emicklei/melrose) - A MIDI producing environment for creating (live) music.
+- [Glicol](https://glicol.org) - Graph-oriented live coding language and music/audio DSP library written in Rust.
+
+### Web Programming • Libraries
+
+- [three.js](https://github.com/mrdoob/three.js/) - JavaScript 3D library.
+- [regl](https://github.com/regl-project/regl) - Functional WebGL.
+- [Stackgl](https://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
+- [Paper.js](https://paperjs.org/) - The swiss army knife of vector graphics scripting.
+- [Pixi.js](https://pixijs.com/) - HTML 5 2D rendering engine that uses webGL with canvas fallback.
+- [p5.js](https://p5js.org/) - JavaScript library that starts with the original goal of Processing.
+- [Pts.js](https://ptsjs.org/) - JavaScript library for visualization and creative-coding.
+- [Fabric.js](https://fabricjs.com/) - JavaScript canvas library, SVG-to-canvas parser.
+- [Maker.js](https://maker.js.org) - Parametric line drawing for SVG, CNC & laser cutters.
+- [JSCAD](https://openjscad.xyz/) - Programmatic 3D modeling in JavaScript.
+- [Sketch.js](https://soulwire.github.io/sketch.js/) - Minimal JavaScript creative coding framework.
+- [Two.js](https://two.js.org/) - Two-dimensional drawing api geared towards modern web browsers.
+- [lightgl.js](https://github.com/evanw/lightgl.js) - A lightweight WebGL library.
+- [picogl.js](https://github.com/tsherif/picogl.js) - A minimal WebGL 2 rendering library.
+- [Alfrid](https://github.com/yiwenl/Alfrid) - A WebGL tool set.
+- [Babylon.js](https://github.com/BabylonJS/Babylon.js) - complete JavaScript framework for building 3D games with HTML 5 and WebGL.
+- [twgl.js](https://github.com/greggman/twgl.js) - A tiny WebGL helper library.
+- [luma.gl](https://github.com/visgl/luma.gl) - WebGL2 Components for Data Visualization.
+- [css-doodle](https://css-doodle.com/) - A web component for drawing patterns with CSS.
+- [OGL.js](https://github.com/oframe/ogl) - JavaScript 3D library (WebGL).
+- [Zdog](https://zzz.dog/) - A pseudo-3D engine for canvas & SVG.
+- [Oimo.js](https://github.com/lo-th/Oimo.js/) - Lightweight 3D physics engine for JavaScript.
+- [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+- [Theatre.js](https://github.com/theatre-js/theatre) - Motion design library with visual tools.
+- [textmode.js](https://code.textmode.art) - JavaScript canvas library for real-time ASCII and textmode graphics.
+
+### Projection Mapping • VJing
+
+- [MadMapper](https://madmapper.com/) [Mac] - Video mapping projections and Light mapping.
+- [VDMX](https://www.vidvox.net/) [Mac] - Realtime multimedia performance application.
+- [Modul8](https://www.garagecube.com/modul8/) [Mac] - Real time video mixing and compositing.
+- [Resolume](https://resolume.com/) [Mac, Win] - Mixing of digital video and effects in a realtime.
+- [VirtualMapper](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
+- [Millumin](https://www.millumin.com/) [Mac] - A software to create and perform interactive audiovisual shows.
+- [Smode](https://www.smode.io/) [Win] - A real-time 2D/3D creation, compositing and video-mapping engine.
+- [Veejay](https://veejayhq.github.io/) [Linux] - A live performance tool featuring simple non-linear editing and mixing from multiple sources (files, devices, streams...).
+
+### Online
+
+- [Shadertoy](https://www.shadertoy.com/) - Build and share shaders with the world and get inspired.
+- [Shader Park](https://shaderpark.com/) - A JavaScript library for creating interactive procedural 2D and 3D shaders.
+- [GLSL Sandbox](https://glslsandbox.com/) - Online shader editor and gallery.
+- [Shdr Editor](https://shdr.bkcore.com/) - Online shader editor.
+- [CodePen](https://codepen.io/) - Show case of advanced techniques with editable source code.
+- [Shadershop](https://github.com/cdglabs/Shadershop) - Interface for programming GPU shaders.
+- [Vertexshaderart](https://www.vertexshaderart.com/) - Online shader editor and gallery.
+- [Cyos](https://cyos.babylonjs.com/) - Online shader editor.
+- [GlslEditor](https://editor.thebookofshaders.com/) - Simple WebGL Fragment Shader Editor.
+- [OpenProcessing](https://www.openprocessing.org/) - Algorithmic Designs Created with Processing, p5js and processingjs.
+- [P5.js Editor](https://editor.p5js.org/) - Online web editor for P5.js.
+- [LiveCodeLab](https://livecodelab.net/) - Run-as-you-type tool for VJs, musicians, teachers, students, kids.
+- [Turtletoy](https://turtletoy.net/) - Minimalistic API and online showcase for generative code. (JavaScript)
+- [ShaderGif](https://shadergif.com/) - Open source home for art made with code (WebGL1/2, JavaScript Canvas & P5.js).
+- [P5LIVE](https://teddavis.org/p5live/) - p5.js live-coding environment.
+- [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, JavaScript Canvas).
+- [Shelly](https://shelly.dev/) - Learn programming by issuing instructions to a turtle.
+- [tixy.land](https://tixy.land/) - The most minimalist creative coding environment is alive.
+- [BBC Micro bot](https://www.bbcmicrobot.com/) - Run your tweet on an 8-bit computer emulator.
+- [Hydra](https://hydra.ojack.xyz/) - Live code-able video synth and coding environment.
+- [editor.textmode.art](https://editor.textmode.art) - Online web editor for textmode.js.
+- [synth.textmode.art](https://synth.textmode.art) - Online live coding environment for textmode.js.
+
+### Hardware
+
+- [Arduino](https://www.arduino.cc/) - Open source microcontroller kits for building digital devices and interactive objects.
+- [Raspberry Pi](https://www.raspberrypi.org/) - Small single-board computers.
+- [Puck.js](https://www.puck-js.com/) - Open source JavaScript microcontroller you can program wirelessly.
+- [BeagleBoard](https://www.beagleboard.org/) - Low-power open source single-board computers.
+- [Makey Makey](https://www.makeymakey.com/) - Turn everyday objects into touchpads and combine them with the internet.
+- [Leap Motion](https://www.ultraleap.com/) - Sensor device that supports hand and finger motions as input.
+- [AxiDraw](https://www.axidraw.com/) - Simple, modern, and precise pen plotter.
+- [Phidgets](https://www.phidgets.com) - Sensors, input devices and controllers for computers.
+- [Teensy](https://www.pjrc.com/teensy/) - USB-based microcontroller development system.
+- [Lightform](https://lightform.com/) - AR projection mapping with built-in depth sensor.
+
+### Other
+
+- [Structure Synth](https://structuresynth.sourceforge.net/) [Cross-platform] - Application for generating 3D structures by specifying a design grammar.
+- [F3](https://www.syedrezaali.com/work/f3/) [Mac] - Powerful 3D design app that enables you to live code 3D form.
+- [ShaderTool](https://store.steampowered.com/app/314720/) [Win] - Modern shader IDE for programmers and FX artists.
+- [Syphon](http://syphon.v002.info/) [Mac] - Allows applications to share frames with one another in realtime.
+- [KodeLife](https://hexler.net/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
+- [ISF](https://isf.video/) - GLSL shaders for use in interactive applications.
+- [glslViewer](https://patriciogonzalezvivo.com/2015/glslViewer/) - Live-coding console tool that renders GLSL Shaders.
+- [shoebot](https://shoebot.github.io/) [Cross-platform] - Shoebot is a creative coding environment designed for making vector graphics and animations with Python.
+- [DrawBot](https://www.drawbot.com/) [Mac] - Education oriented 2d graphics programming environment based on Python.
+- [Klak](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
+- [basil.js](https://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
+- [Konstrukt](https://github.com/MarcelMue/konstrukt) [Cross-platform] - A commandline tool to generate different scalable patterns as SVGs.
+
+## Learning Resources
+
+### Videos
+
+- [The Coding Train](https://www.youtube.com/user/shiffman) - Daniel Shiffman makes videos about creative coding.
+- [MFGD - Fragment Shaders](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWMpFSRpeMmSBGDShbkiV1Cq) - YouTube playlist about fragment shaders.
+- [Shaders Laboratory](https://www.youtube.com/channel/UCDk9-aPr8zQzwi4ylnuoJ6w) - YouTube channel about shaders.
+- [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg) - YouTube channel about shaders case studies.
+- [openFrameworks Tutorial Series](https://www.youtube.com/watch?v=dwt2NAd1ZYY&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7) - YouTube series about learning openFrameworks.
+- [openFrameworks tutorial](https://www.youtube.com/watch?v=IKSTo_0pB28&index=51&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr) - YouTube playlist about openFrameworks - not updated [2015].
+- [Shader Tutorial Series](https://www.youtube.com/watch?v=HIvNePu7UEE&list=PL4neAtv21WOmIrTrkNO3xCyrxg4LKkrF7) - YouTube playlist about Shaders, using Visual Studio Code.
+- [Kha Tutorial Series](https://www.youtube.com/watch?v=5Uxht76ODtQ&list=PL4neAtv21WOmmR5mKb7TQvEQHpMh1h0po) - YouTube playlist about the Kha framework, built in Haxe.
+- [Fun with WebGL 2.0](https://www.youtube.com/watch?v=LtFujAtKM5I&list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF) - YouTube playlist about WebGL 2.0.
+- [Modern OpenGL 3.0+ Tutorials](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) - YouTube playlist about modern OpenGL.
+- [Vertexshaderart](https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw) - YouTube playlist about vertex shaders.
+- [Diving in Three.js](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf) - YouTube playlist diving into three.js.
+- [Shadertoy Tutorials](https://www.youtube.com/watch?v=u5HAYVHsasc&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5) - YouTube playlist teaching you how to make shaders, starting with zero knowledge using shadertoy.
+- [WebGL Lighting](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - Introduction to WebGL lighting with Greg Tatum.
+
+### Talks
+
+- [Inigo Quilez Live](https://iquilezles.org/live/) - Collection of live coding videos by Íñigo Quílez.
+- [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) - Bruno Imbrizi go through the use of canvas for creative coding at WebExpo 2016. Interactive slides [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
+- [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) - Beginners tutorial series about creating 3D games with OpenGL.
+- [How We Do This Shit](https://web.archive.org/web/20250903170542/http://how-we-do-this-shit.com/) - Talk on how tech-based artists do this financially.
+- [Making WebGL Dance](https://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) - How I Learnt to Stop Worrying and Love Linear Algebra.
+- [The Pixel Factory](https://acko.net/files/gltalks/pixelfactory/online.html) - Talk about WebGL, GPUs and Math by Steven Wittens.
+- [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) - Inspiring talk by Zach Lieberman.
+- [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) - FITC talk by Matt DesLauriers about his passion for generative art.
+
+### Articles • Tutorials
+
+#### Shaders • OpenGL • WebGL
+
+- [Introduction to shaders](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/) - Part 1 of an introduction to shaders using threejs.
+- [Three.js 101](https://medium.com/@necsoft/three-js-101-hello-world-part-1-443207b1ebe1) - Introduction to three.js from a creative coder perspective.
+- [lwjgl: Shaders](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) - Shader tutorial in the context of lwjgl-basics.
+- [Shaders: A primer](https://web.archive.org/web/20250331051618/https://notes.underscorediscovery.com/shaders-a-primer/) - A primer on shaders.
+- [Shaders: Second stage](https://web.archive.org/web/20250111051033/https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
+- [WebGL Lessons — Fragment Shaders](https://github.com/Experience-Monks/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
+- [WebGL Lessons — ThreeJS Shaders](https://github.com/Experience-Monks/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
+- [ThreeJS post-process example](https://github.com/Experience-Monks/threejs-post-process-example) - Example of post-processing effects in ThreeJS.
+- [Introduction to Ray Tracing](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work.html) - A simple method for creating 3D images.
+- [Ray Marching and Signed Distance Functions](https://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - Introduction to ray marching and signed distance functions.
+- [GLSL lighting walkthrough](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
+- [Three glslify example](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
+- [WebGL Beyond Dom](https://github.com/gregtatum/talk-webgl-beyond-dom) - Greg Tatum explains the basics of WebGL using Regl.
+- [FBO particles](http://barradeau.com/blog/?p=621) - Article about FBO/GPGPU particles by @nicoptere.
+- [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) - Article about ray marching with three.js by @nicoptere.
+- [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) - Introduction to custom shaders, uniforms, textures and lighting in three.js.
+- [An intro to modern OpenGL](https://duriansoftware.com/joe/an-intro-to-modern-opengl.-chapter-1:-the-graphics-pipeline) - First part of an introduction to modern OpenGL.
+- [Modern OpenGL Series](https://github.com/tomdalling/opengl-series) - Good introduction to some of the OpenGL terms.
+- [Smooth minimum](https://iquilezles.org/articles/smin/) - Article about the smooth based primitive union.
+- [Modeling with distance functions](https://iquilezles.org/articles/distfunctions/) - Collection of distance functions in one centralized place.
+- [Volumetric rendering](http://www.alanzucconi.com/2016/07/01/volumetric-rendering/) - Explains how to create complex 3D shapes inside volumetric shaders.
+- [Real-time Rendering](https://www.realtimerendering.com/) - Book, blog and collection of resources regarding real-time rendering.
+- [OpenGL 4 Shaders](https://antongerdelan.net/opengl/shaders.html) - Short and sweet introduction to OpenGL shaders by Anton Gerdelan.
+- [On ray casting, ray tracing, ray marching and the like](https://www.hugi.scene.org/online/hugi37/hugi%2037%20-%20coding%20adok%20on%20ray%20casting,%20ray%20tracing,%20ray%20marching%20and%20the%20like.htm) - The title says it all. Introduction by Adok.
+- [Writing a small software renderer](https://blog.simonrodriguez.fr/articles/2017/02/writing_a_small_software_renderer.html) - Really good introduction to how basic software rendering works.
+- [WebGL Tutorials](https://www.webgltutorials.org/) - Website with a really good collection of WebGL tutorials.
+- [Generating Geometry: 1](https://codepen.io/mcdorli/post/generating-geometry-part-1-basics), [2](https://codepen.io/mcdorli/post/generating-geometry-part-2-going-3d), [3](https://codepen.io/mcdorli/post/generating-geometry-part-3-getting-spherical) - Beginner introduction on how to create geometry object.
+- [Into Vertex Shaders](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804) - Series of tutorials about WebGL, Three.js, and Three.bas.
+- [The Spaces of WebGL](https://medium.com/@Zadvorsky/into-vertex-shaders-part-1-the-spaces-of-webgl-c70ded527841) - Brief overview over the different coordinate systems throughout the 3D graphics pipeline.
+- [WebGL Workshop](http://webgl-workshop.com/) - Short and sweet online introduction to WebGL.
+- [THREE.js & instanced geometry](http://barradeau.com/blog/?p=1109) - Fluffy predator with three.js and instanced geometry.
+- [Particle Effects via Billboards](https://www.chinedufn.com/webgl-particle-effect-billboard-tutorial/) - How to create a particle effects with billboarding and WebGL.
+- [Beautifully Animate Points with WebGL and regl](https://peterbeshai.com/beautifully-animate-points-with-webgl-and-regl.html) - How to create GPGPU particles with regl.
+- [WebGL Tutorial: Directional Shadow Mapping without extensions](https://www.chinedufn.com/webgl-shadow-mapping-tutorial/) - Introduction to the concepts behind real time directional light shadow mapping.
+- [WebGL Quest](https://xem.github.io/articles/#webgl_quest_2) - A tutorial and a list of useful resources to use WebGL raymarching and distance functions easily.
+- [Exploring bump mapping with WebGL](https://apoorvaj.io/exploring-bump-mapping-with-webgl) - Introduction to different bump mapping techniques.
+- [OpenGL/GLSL Shader Programming](https://web.archive.org/web/20211017205739/http://web.cse.ohio-state.edu/~wang.3602/courses/cse5542-2013-spring/13-GLSL.pdf) - Deck on OpenGL/GLSL shader programming.
+- [Particles in a Simplex Noise Flow Field](https://codepen.io/DonKarlssonSan/post/particles-in-simplex-noise-flow-field) - Perlin noise flow field tutorial.
+- [Flow Fields, Part 1](https://medium.com/@bit101/flow-fields-part-i-3ebebc688fd8) - Introduction to flow fields also known as vector fields.
+- [Flow Fields, Part 2](https://medium.com/@bit101/flow-fields-part-ii-f3c24c1b777d) - Introduction to flow fields also known as vector fields.
+- [Graphics for Games](https://research.ncl.ac.uk/game/mastersdegree/graphicsforgames/) - Introduction to 3D graphics programming including shaders, math post-processing etc. from Newcastle University.
+- [Three.js Basics](https://www.realtimerendering.com/basics3js/#1) - Introduction to Three.js by Eric Haines.
+- [An Interactive Introduction to WebGL and three.js](https://www.cs.unm.edu/~angel/SIGGRAPH17/COURSE/s17_final.pdf) - Slides from the SIGGRAPH 2017 WebGL workshop.
+- [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html) - Advice and thoughts on how to get started by Eric Arnebäck.
+- [What Every Coder Should Know About Gamma](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/) - Deep dive into the importance of gamma.
+
+#### Canvas
+
+- [HTML Canvas Deep Dive](https://joshondesign.com/p/books/canvasdeepdive/toc.html) - Profound introduction to the canvas API.
+- [31 days of Canvas tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/) - Collection of canvas tutorials by Seb Lee-Delisle.
+
+#### Hardware
+
+- [Pen Plotter Art & Algorithms Part 1](https://mattdesl.svbtle.com/pen-plotter-1), [2](https://mattdesl.svbtle.com/pen-plotter-2) - How to use the AxiDraw pen plotter with JavaScript.
+
+#### Other
+
+- [Noise in Creative Coding](https://varun.ca/noise/) - In-depth blog post about noise as an indispensable tool for creative coding.
+- [Cat Like Coding](https://catlikecoding.com/unity/tutorials/) - In depth tutorials on math, algorithms and Unity.
+- [Fun Programming](https://funprogramming.org/) - Learn creative coding writing simple programs.
+- [Creative-coding on iOS with C4](https://www.creativeapplications.net/tutorial/creative-coding-on-ios-with-c4-tutorial/) - Introduction to C4 published on Creative Applications.
+- [COSMOS](https://web.archive.org/web/20181119003952/http://www.c4ios.com/cosmos/) - An end-to-end tutorial on the design, programming and launch of an app using C4.
+- [Particle Physics](https://www.khanacademy.org/partner-content/pixar/effects/particle-physics/a/start-here-fx) - Particle physics explained.
+- [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - Looks at the use of visualization to understand, explain and debug algorithms.
+- [Adventures in Game Development World](https://web.archive.org/web/20200917033430/http://ruh.li/) - Easy to understand collection of articles on game development, but relevant to creative coding as well.
+- [Amit's Game Programming Information](http://www-cs-students.stanford.edu/~amitp/gameprog.html) - Collection of resources on stuff like path-finding, AI, math, etc.
+- [Tips to Improve Your Generative Artwork](https://web.archive.org/web/20240121224819/https://tylerxhobbs.com/essays/2018/tips-to-improve-your-generative-artwork) - Tips to make your art look better.
+- [Working With Color in Generative Art](https://www.tylerxhobbs.com/words/working-with-color-in-generative-art) - Tips on how to get color right.
+
+### Interactive
+
+- [Shader-school](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
+- [Webgl-workshop](https://github.com/stackgl/webgl-workshop) - The sequel to shader-school: Learn the WebGL API.
+- [Fragment-foundry](https://hughsk.io/fragment-foundry) - Interactive fragment shader tutorial.
+- [SDF Tutorial 1: box & balloon](https://www.shadertoy.com/view/Xl2XWt) - Shadertoy tutorial on raytracing.
+- [HOWTO: Ray Marching](https://www.shadertoy.com/view/XllGW4) - Shadertoy tutorial on Ray Marching.
+- [Raymarch Tutorial2](https://www.shadertoy.com/view/XlBGDW) - Shadertoy raymarch tutorial.
+- [GLSL 2D Tutorials](https://www.shadertoy.com/view/Md23DV) - Shadertoy GLSL 2D Tutorial.
+- [Bubble Breakdown](https://mrl.cs.nyu.edu/~perlin/bubble_breakdown/) - Shader breakdown by Perlin.
+- [Let's Make A Ray Marcher](https://www.shadertoy.com/view/MdBfRK) - Interactive Shader-Toy on writing a ray marcher.
+- [Raymarching](https://www.shadertoy.com/view/4dSfRc) - Interactive Shader-Toy raymarching tutorial.
+
+### Quick References • Cheat Sheets
+
+- [Shaderific GLSL](https://shaderific.com/glsl.html) - OpenGL ES shading language reference.
+- [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) - Shader glossary by theme.
+- [gltut glossary pages: 1](https://paroj.github.io/gltut/Basics/Intro%20Glossary.html), [2](https://paroj.github.io/gltut/Basics/Tut01%20Glossary.html), [3](https://paroj.github.io/gltut/Basics/Tut02%20Glossary.html), [4](https://paroj.github.io/gltut/Positioning/Tut04%20Glossary.html), [5](https://paroj.github.io/gltut/Positioning/Tut05%20Glossary.html), [6](https://paroj.github.io/gltut/Positioning/Tut06%20Glossary.html), [7](https://paroj.github.io/gltut/Positioning/Tut07%20Glossary.html), [8](https://paroj.github.io/gltut/Positioning/Tut08%20Glossary.html) - OpenGL 3D programming glossary.
+- [Canvas Cheatsheet](https://web.archive.org/web/20171226205420/https://skilled.co/html-canvas/) - Quick and visual canvas cheatsheet.
+- [WebGL Cheatsheet](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API reference card.
+- [Glossary of Computer Graphics](https://en.wikipedia.org/wiki/Glossary_of_computer_graphics) - Glossary of terms relating computer graphics.
+- [GLSL Reference Guide](http://www.cs.cmu.edu/afs/cs/academic/class/15462-f10/www/lec_slides/glslref.pdf) - OpenGL Shading Language quick reference guide.
+- [3D Maths Cheat Sheet](https://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf) - Math cheatsheet by Anton Gerdelan, from his OpenGL book.
+- [docs.GL](https://docs.gl/) - Improvement of the official OpenGL documentation.
+- [OpenGL Shading Language](https://wikis.khronos.org/opengl/OpenGL_Shading_Language) - Khronos Group GLSL wiki.
+- [OpenGL 4.3 Reference Card](https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - PDF Reference Card for the OpenGL 4.3 API.
+- [Easings](https://easings.net/) - Interactive easing functions cheatsheet.
+- [PixelSpirit](http://pixelspiritdeck.com/) - GLSL library on the back of tarot cards, for learning and reference.
+- [Procedural Patterns And Noises](http://www.neilblevins.com/art_lessons/procedural_noise/procedural_noise.html) - Collection of procedural patterns and procedural noises.
+- [Visual Noises](https://ramesaliyev.com/visual-noises/) - Visualize noise algorithms in 1D and 2D.
+- [Trigonoparty](https://ramesaliyev.com/trigonoparty/) - Simple trigonometry visualisation.
+- [Morphogenesis](https://github.com/jasonwebb/morphogenesis-resources) - Exploration of how shapes, forms, and patterns emerge in nature.
+
+## Communities
+
+### Subreddits
+
+- [r/creativecoding](https://www.reddit.com/r/creativecoding/) - Sharing and discussing the use of computer programming as a creative discipline.
+- [r/raytraycing](https://www.reddit.com/r/raytracing/) - Subreddit on raytracing.
+- [r/opengl](https://www.reddit.com/r/opengl/) - News and discussion about OpenGL on all platforms.
+- [r/graphicsprogramming](https://www.reddit.com/r/GraphicsProgramming/) - Subreddit on graphics programming.
+- [r/processing](https://www.reddit.com/r/processing/) - Subreddit on Processing.
+- [r/shaders](https://www.reddit.com/r/shaders/) - Subreddit on shaders.
+- [r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/) - Subreddit on procedural generation.
+- [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - Subreddit on machine learning.
+- [r/generative](https://www.reddit.com/r/generative/) - Subreddit on generative art and music.
+
+### Slack
+
+- [Creative Coding Club](https://creative-coding-club.slack.com/) - Creative Coding Club Slack.
+
+### Other
+
+- [The Creative Coding Podcast](https://creativecodingpodcast.com/) - Iain and Seb discuss the ins and outs of creative coding.
+- [realtimevfx.com](https://realtimevfx.com/) - Real Time VFX Community.
+- [Data Stories](https://datastori.es/) - Podcast on data visualization.
+- [3D Programming Weekly Articles](https://3dkingdoms.com/weekly/weekly.php) - Great collection of shader and math related resources.
+
+## Math
+
+- [Math as code](https://github.com/Experience-Monks/math-as-code) - Cheat-sheet for mathematical notation in code form.
+- [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
+- [Math snippets](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
+- [Formula Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
+- [Learning Maths again](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
+- [Eases](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
+- [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
+- [Matrix Multiplication](http://matrixmultiplication.xyz) - Matrix multiplication visualized.
+- [Algebra rules](http://algebrarules.com/) - The most useful rules of basic algebra.
+- [Immersive Math](http://immersivemath.com/ila/index.html) - Fully interactive linear algebra.
+- [Image Kernels](https://setosa.io/ev/image-kernels/) - Interactive and visual introduction to image kernels.
+- [Sine and Cosine](https://setosa.io/ev/sine-and-cosine/) - Interactive explanation of sine and cosine.
+- [Perlin Noise](https://eev.ee/blog/2016/05/29/perlin-noise/) - Perlin noise explained in detail.
+- [Vector Math for 3D Computer Graphics](http://programmedlessons.org/VectorLessons/) - Tutorial on vector algebra and matrix algebra from the viewpoint of computer graphics.
+- [Desmos](https://www.desmos.com/) - Graph functions, plot data, evaluate equations, explore transformations, and much more.
+- [MFGD](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWNQjMz941uyOIq3Nw6bcDYC) - Math for game developers YouTube playlist.
+- [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Essence of linear algebra YouTube playlist.
+- [Mathematics of Animation](https://winkervsbecks.github.io/mathematics-of-animation/#/) - Slides about the mathematics of animation ([repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
+- [Sketching with Math and Quasi Physics](https://www.kynd.info/p5sketches/index.html) - Beautiful and visual introduction to math and quasi physics.
+- [Gene Kogan: Perlin Noise](https://genekogan.com/code/p5js-perlin-noise/) - introduction to 2D and 3D perlin noise.
+- [Matrix Math and You](https://medium.com/@Zadvorsky/into-vertex-shaders-addendum-1-matrix-math-and-you-565a51094472) - High level introduction to matrices.
+- [Mathematical Symbols](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html) - List of all mathematical symbols and signs.
+- [The magnificent 2d matrix](https://ncase.me/matrix/) - Interactive tool to better understand transformation matrices.
+- [Game Dev Movement cheatsheet with examples](https://somethinghitme.com/2013/11/13/snippets-i-always-forget-movement/) - JavaScript math snippets for movement.
+- [Maths & trigonometry cheat sheet for 2D & 3D games](https://gist.github.com/xem/99930986c5333125a13b0ea50600391f) - Maths cheat-sheet for 2D and 3D game-makers.
+- [Matrices for Creative Coding](https://www.youtube.com/watch?v=4k9wTfxfkJU&list=PLxaZqnd-OQM7k2Gp3xu02VzExGKMKgqY2) - Introduction to matrices by Greg Tatum.
+- [Making Things With Maths](https://acko.net/tv/wdcode/) - Talk by Steven Wittens about bezier curves, procedural generation, physics engines and fractals.
+- [MyPhysicsLab](https://www.myphysicslab.com/) - Interactive real-time physics simulations, with formulas and code.
+- [Intuitive Math](https://intuitive-math.club/) - Explanations of fields like Linear Algebra and Geometry designed to help you develop a visual intuition for what is going on.
+- [L-systems](https://github.com/arendsee/lsystems) - A Haskell package for L-systems.
+- [Linear Interpolation](https://mattdesl.svbtle.com/linear-interpolation) - Introduction to linear interpolation (also known as mix/lerp).
+- [Practical use of Vector Math in Games](https://www.gamedev.net/articles/programming/math-and-physics/practical-use-of-vector-math-in-games-r2968/) - In-depth article on vectors for game math.
+- [Shepherding random numbers](https://inconvergent.net/2016/shepherding-random-numbers/) - Tiny guide to shepherding random numbers.
+- [Shepherding random grids](https://inconvergent.net/2016/shepherding-random-grids/) - Tiny guide to shepherding random grids.
+- [Shepherding random growth](https://inconvergent.net/2016/shepherding-random-growth/) - Tiny guide to shepherding random growth.
+
+## Machine Learning • Computer Vision • AI
+
+- [ml4a](https://ml4a.net/) - Machine learning for artists.
+- [Keras.js](https://transcranial.github.io/keras-js/) - Run Keras models (tensorflow backend) in the browser, with GPU support.
+- [Tesseract.js](http://tesseract.projectnaptha.com/) - Pure JavaScript Multilingual OCR.
+- [Google ML](https://cloud.google.com/products/ai) - Cloud machine learning by Google.
+- [TensorFlow](https://www.tensorflow.org/) - Open source software library for machine intelligence.
+- [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/started.html) - Deep Learning in your browser.
+- [Wekinator](http://wekinator.org/) - Allows anyone to use machine learning.
+- [Machine Learning](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
+- [Teachable Machine](https://teachablemachine.withgoogle.com/) - Explore how machine learning works, live in the browser.
+- [TensorFlow.js](https://www.tensorflow.org/js) - JavaScript library for training and deploying ML models in the browser and on Node.js.
+- [ml5.js](https://ml5js.org/) - Friendly machine learning for the web.
+- [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
+- [Runway](https://runwayml.com/) - AI-powered tools for video and content creation.
+
+## Inspiration
+
+- [OpenProcessing](https://www.openprocessing.org/) - Algorithmic Designs Created with Processing, p5js and processingjs.
+- [Dwitter](https://www.dwitter.net/) - Social network for short JavaScript demos.
+- [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome) - Showcase of web experiments written by the creative coding community.
+- [For your Processing](https://fyprocessing.tumblr.com/) - Projects and tutorials about Processing.
+- [Art From Code](https://www.artfromcode.com/) - Code sketches by Keith Peters.
+- [Generator.x](https://www.flickr.com/groups/generatorx/) - Flickr group about generative strategies in art & design.
+- [Generative Art](https://www.flickr.com/groups/generativeart/) - Flickr group about generative art.
+- [People You Should Follow on CodePen](https://github.com/nucliweb/People-You-Should-Follow-on-CodePen) - List of interesting people worth following.
+- [Raven Kwok](https://ravenkwok.tumblr.com/) - Tumblr by visual artist Raven Kwok.
+- [P5Art](https://p5art.tumblr.com/) - Really good collection of experiments in Processing.
+- [Echophon](https://echophon.tumblr.com/) - Tumblr with visual inspiration.
+- [Bees & Bombs](https://beesandbombs.tumblr.com/) - Tumblr with gifs by Dave.
+- [Folds2d](https://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
+
+## Events
+
+- [OFFF Festival](https://www.offf.barcelona/) - Digital design festival (_Online Flash Film Festival_).
+- [Gray Area Festival](https://grayareafestival.io/) - Creative coding, art and technology festival.
+- [Signal Festival](https://www.signalfestival.com/) - Showcase of light art and emerging technologies in Prague, the Czech Republic.
+- [Eyeo Festival](http://eyeofestival.com/) - Bring together creative coders, data designers and creators working at the intersection of data, art and technology.
+- [Mutek](https://mutek.org/) - Organization dedicated to digital creativity in sound, music, and audio-visual art.
+- [Node](https://nodeforum.org/) - An open platform for the exchange on culture, arts and technology.
+- [Digital Design Days](https://ddd.live/) - 3 day event offering conferences, workshops, digital showcases & installations.
+- [CODAME ART+TECH](https://www.codame.com/) - Projects and nonprofit events, to inspire through experience.
+
+## Museums • Galleries
+
+- [ZKM — Zentrum für Kunst und Medien, Karlsruhe/Germany](https://zkm.de) - ZKM organizes exhibitions and events on the effects of media, digitization, and globalization.
+- [Ars Electronica Center, Linz/Austria](https://ars.electronica.art/center/) - Museum of the Future — a place where diverse blends of artistic genres, scientific domains and technological directions are displayed and processed.
+- [Technorama, Zurich/Switzerland](https://www.technorama.ch/en/home) - Technorama allows hands-on experiences of hundreds of natural phenomena and technology.
+- [Kate Vass Gallery - Zürich/Switzerland](https://www.katevassgalerie.com/) - Contemporary art gallery presenting works by international established, mid-career, and emerging artists focusing on photography and new technologies.
+- [Digital Art Museum - Berlin/Germany](https://dam.org/) - Digital Art Museum is an **online** resource for the history and practice of digital fine art.
+- [NXT Museum - Amsterdam/Netherlands](https://nxtmuseum.com) - The first museum in the Netherlands dedicated to new media art.
+
+## Schools • Workshops
+
+- [Goldsmiths, UoL, MA Computational Art](https://www.gold.ac.uk/pg/ma-computational-arts/) - Graduate program in London which develops your arts practice through the expressive world of creative computation.
+- [UAL Creative Computing Institute](https://www.arts.ac.uk/creative-computing-institute) - School in London working at the intersection of creativity and computational technologies.
+- [School for Poetic Computation](http://sfpc.io/) - School in New York that explore the intersections of code, design, hardware and theory.
+- [Copenhagen Institute of Interaction Design](https://www.ciid.dk/) - Hosts a range of educational initiatives, most notably, the Interaction Design Programme and the CIID Summer School.
+- [Residencies, Fellowships, Summer Schools](https://docs.google.com/spreadsheets/d/1o__WKUBTHLoQX8pSRJsh0wMC8fCGzycQ0ezxe5CklxM/edit?usp=sharing) - Huge list of residencies, fellowships and summer schools around the world (Navigate with the bottom left tabs).
+
+## Blogs • Websites
+
+- [CreativeApplications.Net [CAN]](https://www.creativeapplications.net/) - Famous digital art blog.
+- [iquilezles.org](https://iquilezles.org) - Home of Íñigo Quílez, specialised in GLSL and math snippets.
+- [bit-101.com](http://www.bit-101.com/blog/) - Blog by Keith Peters, specialised in creative coding.
+- [ibreakdownshaders](http://ibreakdownshaders.blogspot.com/) - Explore the math behind shaders.
+- [adriancourrèges.com](http://www.adriancourreges.com/blog/) - Blog of software engineer Adrian Courrèges. Articles about game graphics studies etc.
+- [clicktorelease.com](https://www.clicktorelease.com) - Home of Jaume Sanchez Elias, with demos, talks, articles on WebGL and WebVR.
+- [syntopia](http://blog.hvidtfeldts.net/) - Blog about generative art and systems, by Mikael Hvidtfeldt Christensen.
+- [madebyevan.com](https://madebyevan.com/) - WebGL experiments and articles by Evan Wallace.
+- [songho.ca](http://www.songho.ca/) - Home of Song Ho Ahn, with a good collection of tutorials on OpenGL and math.
+- [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon Schreibt.
+- [sighack.com](https://sighack.com/) - Blog about generative art algorithms and techniques, by Manohar Vanga.
+- [jsdo.it-archives](https://github.com/cx20/jsdo.it-archives) - Compilation of WebGL experiments including comparisons on WebGL frameworks and physics engine (oimo.js, cannon.js, ammo.js).
+- [WebAudio Weekly](https://www.webaudioweekly.com/) - Newsletter to know everything about the WebAudio API
+
+## Related
+
+- [Awesome opengl](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+- [Awesome webgl](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
+- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
+- [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
+- [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
+- [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
+- [Awesome livecoding](https://github.com/toplap/awesome-livecoding) - Curated list of livecoding languages and tools.
+- [Awesome graphics](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
+- [Graphics resources](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
+- [Magic tools](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
+- [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets) - Curated list of public available datasets, mostly free resources.
+- [Link collection of ray marching on the GPU](https://hanecci.hatenadiary.org/entry/20131005/p1) - Curated list from 2013.
+- [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
+- [Awesome creative technology](https://github.com/j0hnm4r5/awesome-creative-technology) - Curated list of Creative Technology groups, companies, studios, collectives and more.
+
+## License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Terkel Gjervig](https://terkel.com) has waived all copyright and related or neighboring rights to this work.
+
+
+## 🌐 Web Resources & Interactive Index
+- [NG FLOW LINES](https://studyplayings.web.app/ng-flow-lines.html)
+- [HUNGRY SNAKE IO](https://studyplaying.github.io/hungry-snake-io.html)
+- [MERGE SESAME](https://studyquests.github.io/merge-sesame.html)
+- [FARM TRIPLE MATCH](https://studyplaying.github.io/farm-triple-match.html)
+- [VEX HYPER DASH](https://studyplaying.github.io/vex-hyper-dash.html)
+- [THE BIG HIT RUN](https://quizverses-9d2f2.web.app/the-big-hit-run.html)
+- [LEAP OF LIFE](https://studyquests.github.io/leap-of-life.html)
+- [CATEGORY UNBLOCKED](https://studyplaying.github.io/category-unblocked.html)
+- [BYEPASSHUB](https://thequizzone.pages.dev/byepasshub.html)
+- [CATEGORY RUNNING](https://themindskillplayplay.pages.dev/category-running.html)
+- [SITEMAP](https://cryptotify.vercel.app/sitemap.html)
+- [CATEGORY GROW GAMES](https://quizverses.github.io/category-grow-games.html)
+- [CATEGORY TOP DOWN251](https://studyplaying.github.io/category-top-down251.html)
+- [REVOXEL 3D VOXEL RPG SHOOTER](https://thequizzone.pages.dev/revoxel-3d-voxel-rpg-shooter.html)
+- [CATEGORY PUZZLE](https://iskillquest.pages.dev/category-puzzle.html)
+- [CHRONO DRIVE](https://thequizzone.pages.dev/chrono-drive.html)
+- [TRADING GAMES PLAYTIME](https://studyquesthub.web.app/trading-games-playtime.html)
+- [CATEGORY FPS 2](https://quizverses.github.io/category-fps-2.html)
+- [KEY QUEST](https://quizverses.github.io/key-quest.html)
+- [HEIST DEFENDER](https://themindzone.pages.dev/heist-defender.html)
+- [NUMBER MERGE 10](https://studyplayings.web.app/number-merge-10.html)
+- [INDEX6](https://studyplayings.web.app/index6.html)
+- [INDEX31](https://studyplaying.github.io/index31.html)
+- [VORTEX IO](https://thequizzone.pages.dev/vortex-io.html)
+- [PRACTICE ON ME](https://studyquesthub.web.app/practice-on-me.html)
+- [WORLD WAR BROTHERS WW2](https://studyplaying.github.io/world-war-brothers-ww2.html)
+- [TANGLE MASTER 3D](https://studyplayings.web.app/tangle-master-3d.html)
+- [HAPPY FARM THE CROP](https://thelearnquester.web.app/happy-farm-the-crop.html)
+- [EMILYS HOTEL SOLITAIRE](https://themindplay.pages.dev/emilys-hotel-solitaire.html)
+- [MAGIC PRINCESS DRESS UP DOLL](https://iskillquest.pages.dev/magic-princess-dress-up-doll.html)
+- [UNLOCK THE BOLTS](https://theskillquest.pages.dev/unlock-the-bolts.html)
+- [MINICRAFT WINTERBLOCK](https://themindzone.pages.dev/minicraft-winterblock.html)
+- [CATEGORY IDLE](https://thelearnquester.web.app/category-idle.html)
+- [FISHING BEAR](https://themindzone.pages.dev/fishing-bear.html)
+- [VENETIAN LOVE AFFAIR](https://studyplayings.pages.dev/venetian-love-affair.html)
+- [WIPE INSIGHT MASTER](https://thequizzone.pages.dev/wipe-insight-master.html)
+- [ROYAL COIN RUSH](https://studyquests.pages.dev/royal-coin-rush.html)
+- [ATLANTIC SKY HUNTER XTREME](https://learnquester.github.io/atlantic-sky-hunter-xtreme.html)
+- [MAGIC AND WIZARDS MAHJONG](https://themindplay.github.io/magic-and-wizards-mahjong.html)
+- [1010 ELIXIR ALCHEMY](https://themindzone.pages.dev/1010-elixir-alchemy.html)
+- [KINGDOM PUZZLES](https://studyquests.github.io/kingdom-puzzles.html)
+- [CATEGORY DESTROY256](https://thelearnquester.web.app/category-destroy256.html)
+- [MEMORY WARS](https://iskillquest.pages.dev/memory-wars.html)
+- [CONQUERIO](https://studyplayings.pages.dev/conquerio.html)
+- [CATEGORY FREE FASHION GAMES](https://themindplay.github.io/category-free-fashion-games.html)
+- [CATEGORY UNBLOCK](https://themindplay.pages.dev/category-unblock.html)
+- [CATEGORY CASUAL 6](https://quizverses.github.io/category-casual-6.html)
+- [INTERSTELLAR](https://learnquester.github.io/interstellar.html)
+- [PRIVACY](https://cryptotify.github.io/privacy.html)
+- [CATEGORY MERGE](https://themindplay.pages.dev/category-merge.html)
+- [CATEGORY WAR137](https://themindplay.github.io/category-war137.html)
+- [CATEGORY IDLE](https://themindplay.pages.dev/category-idle.html)
+- [CATEGORY STICKMAN](https://themindzone.pages.dev/category-stickman.html)
+- [DEFORM IT](https://studyquesthub.web.app/deform-it.html)
+- [UFO ATTACK](https://themindzone.pages.dev/ufo-attack.html)
+- [ONLINE PORTAL](https://cryptotify.netlify.app/)
+- [SAVE BABY CAPYBARAS PULL PIN](https://studyplaying.github.io/save-baby-capybaras-pull-pin.html)
+- [OBBY PRISON CRAFT ESCAPE](https://studyplayings.web.app/obby-prison-craft-escape.html)
+- [RACING FOR TWO ON ONE PC](https://studyquests.github.io/racing-for-two-on-one-pc.html)
+- [HOLE AND FILL COLLECT MASTER](https://themindzone.pages.dev/hole-and-fill-collect-master.html)
+- [CATEGORY COLLECT565](https://thequizzone.pages.dev/category-collect565.html)
+- [MOTO ROAD RASH 3D 2](https://studyquesthub.web.app/moto-road-rash-3d-2.html)
+- [IDLE AIRPORT CEO](https://quizverses.github.io/idle-airport-ceo.html)
+- [CATEGORY STRATEGY 2](https://thequizzone.pages.dev/category-strategy-2.html)
+- [MATH RUNNER](https://themindzone.pages.dev/math-runner.html)
+- [INDEX14](https://thequizzone.pages.dev/index14.html)
+- [CONTAINER SORT PUZZLE](https://thelearnquesters.pages.dev/container-sort-puzzle.html)
+- [MERGE ARCHER DEFENSE](https://quizverses.github.io/merge-archer-defense.html)
+- [CATEGORY TOWER DEFENSE](https://studyquests.pages.dev/category-tower-defense.html)
+- [CATEGORY CAR376](https://themindplay.github.io/category-car376.html)
+- [BLACKRIVER MYSTERY HIDDEN OBJECTS](https://themindzone.pages.dev/blackriver-mystery-hidden-objects.html)
+- [CATEGORY PUZZLE 2](https://thelearnquester.web.app/category-puzzle-2.html)
+- [TOY RUMBLE 3D](https://thequizzone.pages.dev/toy-rumble-3d.html)
+- [SQUID GAME PLAYGROUND SHOOTER](https://thelearnquesters.pages.dev/squid-game-playground-shooter.html)
+- [BATTLE ISLAND 2](https://themindzone.pages.dev/battle-island-2.html)
+- [CAP](https://thequizzone.pages.dev/cap.html)
+- [NUMBER MERGE 10](https://themindplay.github.io/number-merge-10.html)
+- [CATEGORY FARMING87](https://themindplay.pages.dev/category-farming87.html)
+- [WOODS OF NEVIA FOREST SURVIVAL](https://themindplay.github.io/woods-of-nevia-forest-survival.html)
+- [PIRATE ISLAND](https://thequizzone.pages.dev/pirate-island.html)
+- [WORD SEARCH UNIVERSE](https://studyquests.github.io/word-search-universe.html)
+- [SUPERMARKET SHOPPING FOR KIDS](https://studyplayings.web.app/supermarket-shopping-for-kids.html)
+- [STEAL BRAINROT MONSTERS](https://themindplay.github.io/steal-brainrot-monsters.html)
+- [SPRUNKI POPIT](https://studyplayings.web.app/sprunki-popit.html)
+- [SAMURAI VS YAKUZA BEAT EM UP](https://quizverses.github.io/samurai-vs-yakuza-beat-em-up.html)
+- [BUBBLE SHOOTER GO](https://studyplayings.web.app/bubble-shooter-go.html)
+- [CATEGORY IDLE445](https://themindplay.github.io/category-idle445.html)
+- [MINI GAMES PUZZLE COLLECTION](https://thequizzone.pages.dev/mini-games-puzzle-collection.html)
+- [HEXON RUSH](https://studyquests.github.io/hexon-rush.html)
+- [POPPY PLAYER PUZZLE](https://thequizzone.pages.dev/poppy-player-puzzle.html)
+- [THEO MORINIS MAGICAL RESORT](https://learnquester.github.io/theo-morinis-magical-resort.html)
+- [CATEGORY MINECRAFT 2](https://themindplay.github.io/category-minecraft-2.html)
+- [CATEGORY HORROR90](https://thelearnquesters.pages.dev/category-horror90.html)
+- [SOLITAIRE KLONDIKE](https://iskillquest.pages.dev/solitaire-klondike.html)
+- [INDEX29](https://quizverses.github.io/index29.html)
+- [ZEN TILE](https://thequizzone.pages.dev/zen-tile.html)
+- [TRIANGLES](https://iskillquest.pages.dev/triangles.html)
+- [MEMORY MATCH MAGIC](https://studyplayings.web.app/memory-match-magic.html)
+- [OVERPROTECTIVE BOYFRIEND](https://thelearnquesters.pages.dev/overprotective-boyfriend.html)
+- [TRAVEL WITH ME ASMR EDITION](https://thequizzone.pages.dev/travel-with-me-asmr-edition.html)
+- [MR THROW](https://quizverses.github.io/mr-throw.html)
+- [GT FORMULA CHAMPIONSHIP](https://studyplaying.github.io/gt-formula-championship.html)
+- [MERGE 2048 CAKE](https://quizverses.github.io/merge-2048-cake.html)
+- [TERMS](https://cryptotify.netlify.app/terms.html)
+- [CATEGORY MONSTER207](https://themindplay.github.io/category-monster207.html)
+- [CATEGORY MERGE221](https://thelearnquesters.pages.dev/category-merge221.html)
+- [SIGMA BOY MUSICAL CLICKER](https://studyplayings.web.app/sigma-boy-musical-clicker.html)
+- [CATEGORY FASHION](https://themindplay.pages.dev/category-fashion.html)
+- [FROM NERD TO SCHOOL POPULAR](https://studyquesthub.web.app/from-nerd-to-school-popular.html)
+- [CATEGORY MATCH 3 2](https://thelearnquesters.pages.dev/category-match-3-2.html)
+- [CATEGORY FASHION105](https://studyquests.pages.dev/category-fashion105.html)
+- [CATEGORY RAGDOLL57](https://thelearnquesters.pages.dev/category-ragdoll57.html)
+- [SPORTSBALL MERGE](https://quizverses.github.io/sportsball-merge.html)
+- [EXTREME REAL CAR DRIVING 2025](https://studyplaying.github.io/extreme-real-car-driving-2025.html)
+- [COUNT MASTERS SUPERHERO](https://quizverses.pages.dev/count-masters-superhero.html)
+- [CATEGORY STORY45](https://studyplaying.github.io/category-story45.html)
+- [ANIMAL BUS TRAFFIC JAM](https://quizverses.github.io/animal-bus-traffic-jam.html)
+- [THIEF STICK PUZZLE MAN ESCAPE](https://themindzone.pages.dev/thief-stick-puzzle-man-escape.html)
+- [FASHION WEEK 2025](https://studyquests.github.io/fashion-week-2025.html)
+- [MONSTER DASH](https://themindzone.pages.dev/monster-dash.html)
+- [CATEGORY CUTE62](https://studyquests.pages.dev/category-cute62.html)
+- [CATEGORY MAHJONG](https://themindplay.pages.dev/category-mahjong.html)
+- [HEXA PUZZLE MASTER](https://quizverses.github.io/hexa-puzzle-master.html)
+- [STICKMAN THE FLASH](https://thequizzone.pages.dev/stickman-the-flash.html)
+- [FIND GOODS](https://thequizzone.pages.dev/find-goods.html)
+- [CATEGORY GROW99](https://themindplay.pages.dev/category-grow99.html)
+- [WALKERS ATTACK](https://thelearnquesters.pages.dev/walkers-attack.html)
+- [MR LONG HAND](https://thequizzone.pages.dev/mr-long-hand.html)
+- [1945 AIR FORCE AIRPLANE](https://thequizzone.pages.dev/1945-air-force-airplane.html)
+- [SNAKEMAXX](https://studyplaying.github.io/snakemaxx.html)
