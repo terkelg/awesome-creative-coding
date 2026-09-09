@@ -243,6 +243,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Phidgets](https://www.phidgets.com) - Sensors, input devices and controllers for computers.
 - [Teensy](https://www.pjrc.com/teensy/) - USB-based microcontroller development system.
 - [Lightform](https://lightform.com/) - AR projection mapping with built-in depth sensor.
+- [bipluk](https://bipluk.com/) - Browser-based MIDI librarian for backing up and restoring synthesizer patches.
 
 ### Other
 
