@@ -230,6 +230,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Hydra](https://hydra.ojack.xyz/) - Live code-able video synth and coding environment.
 - [editor.textmode.art](https://editor.textmode.art) - Online web editor for textmode.js.
 - [synth.textmode.art](https://synth.textmode.art) - Online live coding environment for textmode.js.
+- [Play Music Theory](https://playmusictheory.org/) - Browser playground where you draw shapes and hear them become music loops (Web Audio API).
 
 ### Hardware
 
