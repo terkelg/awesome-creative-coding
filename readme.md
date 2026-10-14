@@ -230,6 +230,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Hydra](https://hydra.ojack.xyz/) - Live code-able video synth and coding environment.
 - [editor.textmode.art](https://editor.textmode.art) - Online web editor for textmode.js.
 - [synth.textmode.art](https://synth.textmode.art) - Online live coding environment for textmode.js.
+- [Semaphore](https://semaphore.bobochang.cn/) - In-browser image-to-ASCII converter with 2×4 braille dithering and strict zero-upload privacy.
 
 ### Hardware
 
