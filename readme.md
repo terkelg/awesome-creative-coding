@@ -479,6 +479,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [OpenProcessing](https://www.openprocessing.org/) - Algorithmic Designs Created with Processing, p5js and processingjs.
 - [Dwitter](https://www.dwitter.net/) - Social network for short JavaScript demos.
 - [Chrome Experiments](https://experiments.withgoogle.com/collection/chrome) - Showcase of web experiments written by the creative coding community.
+- [Wunderkammer](https://wunderkammer.page/) - A home for strange, pointless, and uncategorizable interactive projects on the internet.
 - [For your Processing](https://fyprocessing.tumblr.com/) - Projects and tutorials about Processing.
 - [Art From Code](https://www.artfromcode.com/) - Code sketches by Keith Peters.
 - [Generator.x](https://www.flickr.com/groups/generatorx/) - Flickr group about generative strategies in art & design.
