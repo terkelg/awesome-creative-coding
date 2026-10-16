@@ -194,6 +194,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Ammo.js](https://github.com/kripken/ammo.js/) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 - [Theatre.js](https://github.com/theatre-js/theatre) - Motion design library with visual tools.
 - [textmode.js](https://code.textmode.art) - JavaScript canvas library for real-time ASCII and textmode graphics.
+- [vawe](https://vawe.dev) - Renders a single HTML page (CSS, SVG, canvas, three.js) to a deterministic MP4, frame by frame in headless Chrome.
 
 ### Projection Mapping • VJing
 
