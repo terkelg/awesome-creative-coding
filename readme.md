@@ -153,6 +153,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Notch Builder](https://www.notch.one) [Win] - Node-based authoring tool with a strong focus on real-time graphics.
 - [JOY.JS](https://ncase.me/joy/) - Realtime visual coding tool, easy to understand and aimed at beginners.
 - [TIC-80](https://tic80.com/) - Make pixel art style games and art on a 240\*136 pixel screen.
+- [Infinite](https://infinitedevices.org/) [Cross-platform] - Free, open-source real-time audiovisual modular workstation with GLSL shaders, procedural 3D, and VST3 plugin hosting.
 
 ### Sound Programming Languages
 
