@@ -205,6 +205,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Millumin](https://www.millumin.com/) [Mac] - A software to create and perform interactive audiovisual shows.
 - [Smode](https://www.smode.io/) [Win] - A real-time 2D/3D creation, compositing and video-mapping engine.
 - [Veejay](https://veejayhq.github.io/) [Linux] - A live performance tool featuring simple non-linear editing and mixing from multiple sources (files, devices, streams...).
+- [Deckboy](https://github.com/Utopian-Academy/Deckboy) [Mac, Win, Linux] - Cue-based video playback with live sources, effects, VJ mixing and projection mapping.
 
 ### Online
 
