@@ -489,6 +489,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Echophon](https://echophon.tumblr.com/) - Tumblr with visual inspiration.
 - [Bees & Bombs](https://beesandbombs.tumblr.com/) - Tumblr with gifs by Dave.
 - [Folds2d](https://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
+- [Digital Garden by Alicia](https://digitalgarden.si/play/) - Interactive four-season flower garden with procedural Houdini plants, lighting and photography in three.js.
 
 ## Events
 
