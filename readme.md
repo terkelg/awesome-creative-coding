@@ -258,6 +258,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Klak](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
 - [basil.js](https://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
 - [Konstrukt](https://github.com/MarcelMue/konstrukt) [Cross-platform] - A commandline tool to generate different scalable patterns as SVGs.
+- [Nebula Forge](https://nebulakit.itch.io/nebula-forge-blender) [Win] - Paid Blender tool with AI-assisted code for seeded procedural nebula panoramas and PNG, HDR and EXR export.
 
 ## Learning Resources
 
