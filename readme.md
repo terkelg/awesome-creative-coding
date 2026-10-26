@@ -489,6 +489,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Echophon](https://echophon.tumblr.com/) - Tumblr with visual inspiration.
 - [Bees & Bombs](https://beesandbombs.tumblr.com/) - Tumblr with gifs by Dave.
 - [Folds2d](https://folds2d.tumblr.com/) - Tumblr with curves, surfaces, scalar and vector fields.
+- [Written in Bitcoin Playground](https://writteninbitcoin.com/en/playground) - Interactive three.js, p5.js and Tone.js sketches, games and sound toys stored on the Bitcoin blockchain, each running in a sandbox.
 
 ## Events
 
