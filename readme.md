@@ -205,6 +205,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Millumin](https://www.millumin.com/) [Mac] - A software to create and perform interactive audiovisual shows.
 - [Smode](https://www.smode.io/) [Win] - A real-time 2D/3D creation, compositing and video-mapping engine.
 - [Veejay](https://veejayhq.github.io/) [Linux] - A live performance tool featuring simple non-linear editing and mixing from multiple sources (files, devices, streams...).
+- [Toaster](https://toaster.locust.lol) [Web, Mac, Win] - Music visualizer that writes the song out as live code (Strudel) while it plays, over audio-reactive scenes.
 
 ### Online
 
