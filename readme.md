@@ -546,6 +546,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Awesome graphics](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
 - [Graphics resources](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
 - [Magic tools](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
+- [RespawnStack](https://respawnstack.com) - Curated directory of AI tools for game developers.
 - [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets) - Curated list of public available datasets, mostly free resources.
 - [Link collection of ray marching on the GPU](https://hanecci.hatenadiary.org/entry/20131005/p1) - Curated list from 2013.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning.
