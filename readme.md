@@ -136,6 +136,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Fragment.tools](https://github.com/raphaelameaume/fragment) [Cross-platform] - A web development environment for creative coding.
 
 ### Visual Programming Languages
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native macOS dock corner companion extracting dominant colors from album covers.
 
 - [vvvv](https://vvvv.org/) [Win] - Hybrid visual/textual live-programming environment for easy prototyping and development.
 - [NodeBox](https://www.nodebox.net/node/) [Mac, Win] - Cross-platform, node-based GUI for efficient data visualizations and generative design.
