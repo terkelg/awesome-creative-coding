@@ -338,6 +338,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [An Interactive Introduction to WebGL and three.js](https://www.cs.unm.edu/~angel/SIGGRAPH17/COURSE/s17_final.pdf) - Slides from the SIGGRAPH 2017 WebGL workshop.
 - [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html) - Advice and thoughts on how to get started by Eric Arnebäck.
 - [What Every Coder Should Know About Gamma](https://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/) - Deep dive into the importance of gamma.
+- [Nightmare Candy Island](https://github.com/xidist/hw02-landscape) - GLSL terrain study with raymarching, fractal noise, and animated color bands.
 
 #### Canvas
 
