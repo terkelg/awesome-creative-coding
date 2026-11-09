@@ -230,6 +230,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Hydra](https://hydra.ojack.xyz/) - Live code-able video synth and coding environment.
 - [editor.textmode.art](https://editor.textmode.art) - Online web editor for textmode.js.
 - [synth.textmode.art](https://synth.textmode.art) - Online live coding environment for textmode.js.
+- [movin.design shaders](https://movin.design/shaders/) - Animated WebGL backgrounds to recolour and tune in the browser, exported as React, Vue, Svelte, Solid or JS code, PNG or MP4.
 
 ### Hardware
 
