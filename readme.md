@@ -134,6 +134,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) [iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
 - [Lygia](https://github.com/patriciogonzalezvivo/lygia) [Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
 - [Fragment.tools](https://github.com/raphaelameaume/fragment) [Cross-platform] - A web development environment for creative coding.
+- [Kinetograph](https://github.com/0xS4N4TG/kinetograph) [Cross-platform] - Programmatic video engine: write Remotion-style TypeScript or HTML and render CSS, SVG, Canvas 2D, WebGL shaders, 3D and Web Audio to video on the GPU, with no browser.
 
 ### Visual Programming Languages
 
