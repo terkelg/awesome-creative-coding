@@ -230,6 +230,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Hydra](https://hydra.ojack.xyz/) - Live code-able video synth and coding environment.
 - [editor.textmode.art](https://editor.textmode.art) - Online web editor for textmode.js.
 - [synth.textmode.art](https://synth.textmode.art) - Online live coding environment for textmode.js.
+- [Psychedelia Studio](https://github.com/aivrar/psychedelia-studio) - Browser app for music-reactive animations, fractal fly-throughs and psychedelic VJ loops with MP4 export.
 
 ### Hardware
 
