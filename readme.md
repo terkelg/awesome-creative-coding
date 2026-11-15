@@ -374,6 +374,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Bubble Breakdown](https://mrl.cs.nyu.edu/~perlin/bubble_breakdown/) - Shader breakdown by Perlin.
 - [Let's Make A Ray Marcher](https://www.shadertoy.com/view/MdBfRK) - Interactive Shader-Toy on writing a ray marcher.
 - [Raymarching](https://www.shadertoy.com/view/4dSfRc) - Interactive Shader-Toy raymarching tutorial.
+- [Shader Learn](https://shader-learn.com/) - Interactive GLSL lessons in English and Chinese, editable shader examples, and a live browser-based playground.
 
 ### Quick References • Cheat Sheets
 
