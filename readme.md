@@ -347,6 +347,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 #### Hardware
 
 - [Pen Plotter Art & Algorithms Part 1](https://mattdesl.svbtle.com/pen-plotter-1), [2](https://mattdesl.svbtle.com/pen-plotter-2) - How to use the AxiDraw pen plotter with JavaScript.
+- [Export SVG from p5.js for Pen Plotting](https://penplotterkit.com/blog/export-svg-from-p5js/) - Using the p5.svg library to get plotter-ready vector output.
 
 #### Other
 
