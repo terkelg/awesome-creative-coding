@@ -473,6 +473,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [ml5.js](https://ml5js.org/) - Friendly machine learning for the web.
 - [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
 - [Runway](https://runwayml.com/) - AI-powered tools for video and content creation.
+- [Motion Skills](https://github.com/iart-ai/motion-skills) - Open-source agent skills that guide AI coding agents in writing motion graphics and animation code with GSAP, WebGL and Manim.
 
 ## Inspiration
 
