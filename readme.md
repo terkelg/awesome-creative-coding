@@ -205,6 +205,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Millumin](https://www.millumin.com/) [Mac] - A software to create and perform interactive audiovisual shows.
 - [Smode](https://www.smode.io/) [Win] - A real-time 2D/3D creation, compositing and video-mapping engine.
 - [Veejay](https://veejayhq.github.io/) [Linux] - A live performance tool featuring simple non-linear editing and mixing from multiple sources (files, devices, streams...).
+- [ImWeb](https://imweb.image-ine.org/) [Browser] - Free, open-source video synthesis instrument in the lineage of Image/ine (STEIM, 1997): feedback, warps, 3D, live GLSL, MIDI and OSC.
 
 ### Online
 
