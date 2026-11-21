@@ -134,6 +134,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [AsyncGraphics](https://github.com/heestand-xyz/AsyncGraphics) [iOS, macOS] - Open source, live graphics, async / await, Swift package, powered by Metal.
 - [Lygia](https://github.com/patriciogonzalezvivo/lygia) [Cross-platform] - Granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility.
 - [Fragment.tools](https://github.com/raphaelameaume/fragment) [Cross-platform] - A web development environment for creative coding.
+- [Vulpen-GPU](https://github.com/CorrelateVisuals/Vulpen-GPU) [Linux, Win] - A Vulkan engine for real-time visuals and GPU compute, whose programs are nodes and connections: C++ and GLSL side by side, changed while they run.
 
 ### Visual Programming Languages
 
