@@ -258,6 +258,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [Klak](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
 - [basil.js](https://basiljs.ch/) - Scripting (JS) in InDesign for designers and artists in the spirit of Processing.
 - [Konstrukt](https://github.com/MarcelMue/konstrukt) [Cross-platform] - A commandline tool to generate different scalable patterns as SVGs.
+- [DitherEffect](https://dithereffect.com/) - Browser editor for dithering, halftone and ASCII treatments of images, video and live camera, with a keyframe timeline and audio reactions.
 
 ## Learning Resources
 
