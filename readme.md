@@ -473,6 +473,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [ml5.js](https://ml5js.org/) - Friendly machine learning for the web.
 - [Model Zoo](https://modelzoo.co/) - Discover open source deep learning code and pretrained models.
 - [Runway](https://runwayml.com/) - AI-powered tools for video and content creation.
+- [Still Ours?](https://github.com/still-ours/still-ours) - Open dataset and deterministic p5.js renderer comparing how 27 language models paint fundamental human questions.
 
 ## Inspiration
 
