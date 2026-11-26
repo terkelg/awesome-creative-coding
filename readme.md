@@ -253,6 +253,7 @@ _Please read the [contribution guidelines](contributing.md) before contributing.
 - [KodeLife](https://hexler.net/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
 - [ISF](https://isf.video/) - GLSL shaders for use in interactive applications.
 - [glslViewer](https://patriciogonzalezvivo.com/2015/glslViewer/) - Live-coding console tool that renders GLSL Shaders.
+- [Wallrus](https://github.com/joexk1/wallrus) - Open-source Rust runtime that runs live Three.js & GLSL shader scenes natively behind macOS and Linux desktop icons with cursor parallax.
 - [shoebot](https://shoebot.github.io/) [Cross-platform] - Shoebot is a creative coding environment designed for making vector graphics and animations with Python.
 - [DrawBot](https://www.drawbot.com/) [Mac] - Education oriented 2d graphics programming environment based on Python.
 - [Klak](https://github.com/keijiro/Klak) - A collection of scripts for creative coding with Unity.
